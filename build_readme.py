@@ -1,4 +1,12 @@
 import os
+import re
+
+def count_rss_sources(file_path):
+    with open(file_path, "r") as file:
+        content = file.read()
+        # Corrected regular expression to count RSS source URLs
+        rss_count = len(re.findall(r'<outline[^>]*xmlUrl="[^"]+"', content))
+        return rss_count
 
 def create_readme(directory):
     readme_content = "# rss-sources\nRSS sources used in the StreamSphere app\n\n" \
@@ -13,19 +21,24 @@ def create_readme(directory):
                     "## Multilingual Support\n" \
                     "Currently, our suggested sources for topics are primarily in English. However, " \
                     "you can also include sources in other languages as well.\n\n"
-    
+
     for root, dirs, files in os.walk(directory):
+        if '.git' in dirs:
+            dirs.remove('.git')  # Exclude the .git directory from further processing
         if root != directory:
-            readme_content += f"## {os.path.basename(root)}\n\n"
-        
-        if files:
-            readme_content += "| File | Description |\n"
-            readme_content += "|------|-------------|\n"
-            
-            for file in files:
-                file_path = os.path.join(root, file)
-                readme_content += f"| [{file}]({file_path}) |  |\n"
-                
+            # Get the relative path for the directory
+            relative_path = os.path.relpath(root, directory)
+            readme_content += f"## {relative_path}\n\n"
+
+            if files:
+                readme_content += "| File | RSS Source Count |\n"
+                readme_content += "|------|------------------|\n"
+
+                for file in files:
+                    file_path = os.path.join(relative_path, file)
+                    rss_count = count_rss_sources(file_path)
+                    readme_content += f"| [{file}]({file_path}) | {rss_count} |\n"
+
     with open("README.md", "w") as readme_file:
         readme_file.write(readme_content)
 
