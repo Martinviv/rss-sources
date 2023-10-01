@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+
+	<body>
+		<outline text="Belgium" title="Belgium">
+		<outline text="La Libre Belgique" title="La Libre Belgique" description="L'actualité en Belgique" xmlUrl="https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/?outputType=xml" type="rss" />
+		<outline text="Le Soir" title="Le Soir" description="Les dernières nouvelles en Belgique" xmlUrl="https://www.lesoir.be/rss2/9/cible_principale" type="rss" />
+		<outline text="La Dernière Heure" title="La Dernière Heure" description="Toute l'info belge" xmlUrl="https://www.dhnet.be/arc/outboundfeeds/rss/section/actu/?outputType=xml" type="rss" />
+		<outline text="RTBF Info" title="RTBF Info" description="Actualité belge et internationale" xmlUrl="https://rss.rtbf.be/article/rss/highlight_rtbf_info.xml?source=internal" type="rss" />
+		<outline text="Le Vif" title="Le Vif" description="Tous les jours, toute l'info." xmlUrl="https://www.levif.be/feed/" type="rss" />
+		<outline text="De Standaard" title="De Standaard" description="Belangrijkste nieuws van De Standaard" xmlUrl="https://www.standaard.be/rss/section/1f2838d4-99ea-49f0-9102-138784c7ea7c" type="rss" />
+		<outline text="Het Nieuwsblad" title="Het Nieuwsblad" description="Binnenlands nieuws" xmlUrl="https://www.nieuwsblad.be/rss/section/55178e67-15a8-4ddd-a3d8-bfe5708f8932" type="rss" />
+		<outline text="Knack" title="Knack" description="Nieuws, opinie en duiding" xmlUrl="https://www.knack.be/feed/" type="rss" />
+
+		</outline>
+	</body>
+</opml>
