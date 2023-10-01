@@ -14,20 +14,20 @@ Currently, our suggested sources for topics are primarily in English. However, y
 
 | File | RSS Source Count |
 |------|------------------|
-| [UI - UX.opml](recommended/UI - UX.opml) | 11 |
-| [Interior design.opml](recommended/Interior design.opml) | 23 |
+| [UI - UX.opml](recommended/UI%20-%20UX.opml) | 11 |
+| [Interior design.opml](recommended/Interior%20design.opml) | 23 |
 | [Gaming.opml](recommended/Gaming.opml) | 16 |
 | [Fashion.opml](recommended/Fashion.opml) | 7 |
 | [Movies.opml](recommended/Movies.opml) | 11 |
 | [Music.opml](recommended/Music.opml) | 8 |
 | [Startups.opml](recommended/Startups.opml) | 20 |
 | [Tech.opml](recommended/Tech.opml) | 25 |
-| [iOS Development.opml](recommended/iOS Development.opml) | 17 |
+| [iOS Development.opml](recommended/iOS%20Development.opml) | 17 |
 | [DIY.opml](recommended/DIY.opml) | 9 |
 | [Cars.opml](recommended/Cars.opml) | 18 |
 | [Books.opml](recommended/Books.opml) | 7 |
 | [Tennis.opml](recommended/Tennis.opml) | 6 |
-| [Web Development.opml](recommended/Web Development.opml) | 5 |
+| [Web Development.opml](recommended/Web%20Development.opml) | 5 |
 | [History.opml](recommended/History.opml) | 11 |
 | [News.opml](recommended/News.opml) | 10 |
 | [Photography.opml](recommended/Photography.opml) | 11 |
@@ -39,13 +39,13 @@ Currently, our suggested sources for topics are primarily in English. However, y
 | [Space.opml](recommended/Space.opml) | 7 |
 | [Android.opml](recommended/Android.opml) | 18 |
 | [Architecture.opml](recommended/Architecture.opml) | 14 |
-| [Business & Economy.opml](recommended/Business & Economy.opml) | 15 |
+| [Business & Economy.opml](recommended/Business%20%26%20Economy.opml) | 15 |
 | [Beauty.opml](recommended/Beauty.opml) | 8 |
 | [Football.opml](recommended/Football.opml) | 5 |
 | [Apple.opml](recommended/Apple.opml) | 16 |
 | [Programming.opml](recommended/Programming.opml) | 47 |
 | [Food.opml](recommended/Food.opml) | 20 |
-| [Android Development.opml](recommended/Android Development.opml) | 28 |
+| [Android Development.opml](recommended/Android%20Development.opml) | 28 |
 | [Funny.opml](recommended/Funny.opml) | 14 |
 ## countries
 
@@ -57,7 +57,7 @@ Currently, our suggested sources for topics are primarily in English. However, y
 | [Japan.opml](countries/Japan.opml) | 7 |
 | [France.opml](countries/France.opml) | 10 |
 | [India.opml](countries/India.opml) | 31 |
-| [Myanmar (Burma).opml](countries/Myanmar (Burma).opml) | 1 |
+| [Myanmar (Burma).opml](countries/Myanmar%20%28Burma%29.opml) | 1 |
 | [Australia.opml](countries/Australia.opml) | 15 |
 | [Belgium.opml](countries/Belgium.opml) | 8 |
 | [Germany.opml](countries/Germany.opml) | 5 |
@@ -65,15 +65,15 @@ Currently, our suggested sources for topics are primarily in English. However, y
 | [Italy.opml](countries/Italy.opml) | 11 |
 | [Brazil.opml](countries/Brazil.opml) | 7 |
 | [Poland.opml](countries/Poland.opml) | 8 |
-| [South Africa.opml](countries/South Africa.opml) | 11 |
+| [South Africa.opml](countries/South%20Africa.opml) | 11 |
 | [Nigeria.opml](countries/Nigeria.opml) | 10 |
 | [Pakistan.opml](countries/Pakistan.opml) | 7 |
 | [Russia.opml](countries/Russia.opml) | 12 |
-| [United Kingdom.opml](countries/United Kingdom.opml) | 5 |
-| [United States.opml](countries/United States.opml) | 9 |
+| [United Kingdom.opml](countries/United%20Kingdom.opml) | 5 |
+| [United States.opml](countries/United%20States.opml) | 9 |
 | [Iran.opml](countries/Iran.opml) | 7 |
 | [Canada.opml](countries/Canada.opml) | 10 |
 | [Ukraine.opml](countries/Ukraine.opml) | 12 |
 | [Indonesia.opml](countries/Indonesia.opml) | 4 |
-| [Hong Kong SAR China.opml](countries/Hong Kong SAR China.opml) | 4 |
+| [Hong Kong SAR China.opml](countries/Hong%20Kong%20SAR%20China.opml) | 4 |
 | [Ireland.opml](countries/Ireland.opml) | 6 |

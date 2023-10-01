@@ -1,5 +1,6 @@
 import os
 import re
+import urllib.parse
 
 def count_rss_sources(file_path):
     with open(file_path, "r") as file:
@@ -37,7 +38,9 @@ def create_readme(directory):
                 for file in files:
                     file_path = os.path.join(relative_path, file)
                     rss_count = count_rss_sources(file_path)
-                    readme_content += f"| [{file}]({file_path}) | {rss_count} |\n"
+                    # Encode the file_path for the URL
+                    file_path_encoded = urllib.parse.quote(file_path.replace("\\", "/"))
+                    readme_content += f"| [{file}]({file_path_encoded}) | {rss_count} |\n"
 
     with open("README.md", "w") as readme_file:
         readme_file.write(readme_content)
