@@ -14,6 +14,7 @@ def extract_rss_sources(file_path):
             title = item.get("title")
             xml_url = item.get("xmlUrl")
             if title and xml_url:
+                title = title.replace("|", r"\|")
                 rss_sources.append((title, xml_url))
         
         return rss_sources
@@ -37,7 +38,7 @@ def create_readme(directory, template_file):
                     file_path_encoded = urllib.parse.quote(file_path.replace("\\", "/"))
 
                     if rss_sources:
-                        readme_content += f"## {file_name}\n\n"
+                        readme_content += f"## [{file_name}]({file_path_encoded})\n\n"
                         readme_content += "| Title | URL |\n"
                         readme_content += "|-------|-----|\n"
 
@@ -47,7 +48,7 @@ def create_readme(directory, template_file):
     with open("README.md", "w") as readme_file:
         readme_file.write(readme_content)
 
-# Specify the directory you want to create the README for
+# TODO : Specify the directory you want to create the README for
 directory_to_document = ""
 
 template_file = "readme1.md"
