@@ -10,7 +10,9 @@ You can do that by creating a pull request with your changes, by creating an iss
 
 ## Multilingual Support
 Currently, the suggested sources for topics are primarily in English. However, you can also include sources in other languages as well.
-## [UI - UX](/home/martin/Documents/MyRss/rss-sources/recommended/UI%20-%20UX.opml)
+## recommended
+
+### [UI - UX](recommended/UI%20-%20UX.opml)
 
 | Title | URL |
 |-------|-----|
@@ -25,7 +27,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | UX Movement | [https://uxmovement.com/feed/](https://uxmovement.com/feed/) |
 | Usability Geek | [https://usabilitygeek.com/feed/](https://usabilitygeek.com/feed/) |
 | User Experience | [https://www.reddit.com/r/userexperience/.rss](https://www.reddit.com/r/userexperience/.rss) |
-## [Interior design](/home/martin/Documents/MyRss/rss-sources/recommended/Interior%20design.opml)
+### [Interior design](recommended/Interior%20design.opml)
 
 | Title | URL |
 |-------|-----|
@@ -52,7 +54,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | decoist | [https://www.decoist.com/feed/](https://www.decoist.com/feed/) |
 | design – designboom \| architecture and design magazine | [https://www.designboom.com/design/feed](https://www.designboom.com/design/feed) |
 | sfgirlbybay | [https://www.sfgirlbybay.com/feed/](https://www.sfgirlbybay.com/feed/) |
-## [Gaming](/home/martin/Documents/MyRss/rss-sources/recommended/Gaming.opml)
+### [Gaming](recommended/Gaming.opml)
 
 | Title | URL |
 |-------|-----|
@@ -72,7 +74,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | TouchArcade - iPhone, iPad, Android Games Forum | [https://toucharcade.com/community/forums/-/index.rss](https://toucharcade.com/community/forums/-/index.rss) |
 | Xbox's Major Nelson | [https://majornelson.com/feed/](https://majornelson.com/feed/) |
 | r/gaming | [https://www.reddit.com/r/gaming.rss](https://www.reddit.com/r/gaming.rss) |
-## [Fashion](/home/martin/Documents/MyRss/rss-sources/recommended/Fashion.opml)
+### [Fashion](recommended/Fashion.opml)
 
 | Title | URL |
 |-------|-----|
@@ -84,7 +86,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | POPSUGAR Fashion | [https://www.popsugar.com/fashion/feed](https://www.popsugar.com/fashion/feed) |
 | Refinery29 | [https://www.refinery29.com/fashion/rss.xml](https://www.refinery29.com/fashion/rss.xml) |
 | Who What Wear | [https://www.whowhatwear.com/rss](https://www.whowhatwear.com/rss) |
-## [Movies](/home/martin/Documents/MyRss/rss-sources/recommended/Movies.opml)
+### [Movies](recommended/Movies.opml)
 
 | Title | URL |
 |-------|-----|
@@ -99,7 +101,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Movies | [https://www.bleedingcool.com/movies/feed/](https://www.bleedingcool.com/movies/feed/) |
 | The A.V. Club | [https://film.avclub.com/rss](https://film.avclub.com/rss) |
 | Variety | [https://variety.com/feed/](https://variety.com/feed/) |
-## [Music](/home/martin/Documents/MyRss/rss-sources/recommended/Music.opml)
+### [Music](recommended/Music.opml)
 
 | Title | URL |
 |-------|-----|
@@ -111,7 +113,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | RSS: News | [http://pitchfork.com/rss/news](http://pitchfork.com/rss/news) |
 | Song Exploder | [http://songexploder.net/feed](http://songexploder.net/feed) |
 | Your EDM | [https://www.youredm.com/feed](https://www.youredm.com/feed) |
-## [Startups](/home/martin/Documents/MyRss/rss-sources/recommended/Startups.opml)
+### [Startups](recommended/Startups.opml)
 
 | Title | URL |
 |-------|-----|
@@ -135,7 +137,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | This Week in Startups - Video | [http://feeds.feedburner.com/twistvid](http://feeds.feedburner.com/twistvid) |
 | VentureBeat | [https://feeds.feedburner.com/venturebeat/SZYF](https://feeds.feedburner.com/venturebeat/SZYF) |
 | blog – Feld Thoughts | [https://feld.com/archives/tag/blog/feed](https://feld.com/archives/tag/blog/feed) |
-## [Tech](/home/martin/Documents/MyRss/rss-sources/recommended/Tech.opml)
+### [Tech](recommended/Tech.opml)
 
 | Title | URL |
 |-------|-----|
@@ -164,7 +166,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | This Week in Tech (Audio) | [https://feeds.twit.tv/twit.xml](https://feeds.twit.tv/twit.xml) |
 | Unbox Therapy | [https://www.youtube.com/feeds/videos.xml?user=unboxtherapy](https://www.youtube.com/feeds/videos.xml?user=unboxtherapy) |
 | Engadget | [https://www.engadget.com/rss.xml](https://www.engadget.com/rss.xml) |
-## [iOS Development](/home/martin/Documents/MyRss/rss-sources/recommended/iOS%20Development.opml)
+### [iOS Development](recommended/iOS%20Development.opml)
 
 | Title | URL |
 |-------|-----|
@@ -185,7 +187,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Use Your Loaf - iOS Development News and Tips | [https://useyourloaf.com/blog/rss.xml](https://useyourloaf.com/blog/rss.xml) |
 | inessential.com | [https://inessential.com/xml/rss.xml](https://inessential.com/xml/rss.xml) |
 | tyler.io | [https://tyler.io/feed/](https://tyler.io/feed/) |
-## [DIY](/home/martin/Documents/MyRss/rss-sources/recommended/DIY.opml)
+### [DIY](recommended/DIY.opml)
 
 | Title | URL |
 |-------|-----|
@@ -198,7 +200,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | MUO - Feed | [https://www.makeuseof.com/feed/](https://www.makeuseof.com/feed/) |
 | Oh Happy Day! | [http://ohhappyday.com/feed/](http://ohhappyday.com/feed/) |
 | WonderHowTo | [https://www.wonderhowto.com/rss.xml](https://www.wonderhowto.com/rss.xml) |
-## [Cars](/home/martin/Documents/MyRss/rss-sources/recommended/Cars.opml)
+### [Cars](recommended/Cars.opml)
 
 | Title | URL |
 |-------|-----|
@@ -220,7 +222,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Speedhunters | [http://feeds.feedburner.com/speedhunters](http://feeds.feedburner.com/speedhunters) |
 | The Truth About Cars | [https://www.thetruthaboutcars.com/feed/](https://www.thetruthaboutcars.com/feed/) |
 | The best vintage and classic cars for sale online \| Bring a Trailer | [https://bringatrailer.com/feed/](https://bringatrailer.com/feed/) |
-## [Books](/home/martin/Documents/MyRss/rss-sources/recommended/Books.opml)
+### [Books](recommended/Books.opml)
 
 | Title | URL |
 |-------|-----|
@@ -231,7 +233,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Page Array – NewInBooks | [https://www.newinbooks.com/feed/](https://www.newinbooks.com/feed/) |
 | So many books, so little time | [https://reddit.com/r/books/.rss](https://reddit.com/r/books/.rss) |
 | Wokeread | [https://wokeread.home.blog/feed/](https://wokeread.home.blog/feed/) |
-## [Tennis](/home/martin/Documents/MyRss/rss-sources/recommended/Tennis.opml)
+### [Tennis](recommended/Tennis.opml)
 
 | Title | URL |
 |-------|-----|
@@ -241,7 +243,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Tennis News and Discussion | [https://www.reddit.com/r/tennis/.rss](https://www.reddit.com/r/tennis/.rss) |
 | peRFect Tennis | [https://www.perfect-tennis.com/feed/](https://www.perfect-tennis.com/feed/) |
 | www.espn.com - TENNIS | [https://www.espn.com/espn/rss/tennis/news](https://www.espn.com/espn/rss/tennis/news) |
-## [Web Development](/home/martin/Documents/MyRss/rss-sources/recommended/Web%20Development.opml)
+### [Web Development](recommended/Web%20Development.opml)
 
 | Title | URL |
 |-------|-----|
@@ -250,7 +252,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | David Walsh Blog | [https://davidwalsh.name/feed](https://davidwalsh.name/feed) |
 | Mozilla Hacks – the Web developer blog | [https://hacks.mozilla.org/feed/](https://hacks.mozilla.org/feed/) |
 | Sink In - Tech and Travel | [https://gosink.in/rss/](https://gosink.in/rss/) |
-## [History](/home/martin/Documents/MyRss/rss-sources/recommended/History.opml)
+### [History](recommended/History.opml)
 
 | Title | URL |
 |-------|-----|
@@ -265,7 +267,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Throughline | [https://feeds.npr.org/510333/podcast.xml](https://feeds.npr.org/510333/podcast.xml) |
 | You Must Remember This | [https://feeds.megaphone.fm/YMRT7068253588](https://feeds.megaphone.fm/YMRT7068253588) |
 | the memory palace | [http://feeds.thememorypalace.us/thememorypalace](http://feeds.thememorypalace.us/thememorypalace) |
-## [News](/home/martin/Documents/MyRss/rss-sources/recommended/News.opml)
+### [News](recommended/News.opml)
 
 | Title | URL |
 |-------|-----|
@@ -280,7 +282,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | World News Headlines, Latest International News, World Breaking News - Times of India | [https://timesofindia.indiatimes.com/rssfeeds/296589292.cms](https://timesofindia.indiatimes.com/rssfeeds/296589292.cms) |
 | World news \| The Guardian | [https://www.theguardian.com/world/rss](https://www.theguardian.com/world/rss) |
 | Yahoo News - Latest News and Headlines | [https://www.yahoo.com/news/rss](https://www.yahoo.com/news/rss) |
-## [Photography](/home/martin/Documents/MyRss/rss-sources/recommended/Photography.opml)
+### [Photography](recommended/Photography.opml)
 
 | Title | URL |
 |-------|-----|
@@ -295,7 +297,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Strobist | [http://feeds.feedburner.com/blogspot/WOBq](http://feeds.feedburner.com/blogspot/WOBq) |
 | Stuck in Customs | [https://stuckincustoms.com/feed/](https://stuckincustoms.com/feed/) |
 | The Sartorialist | [https://feeds.feedburner.com/TheSartorialist](https://feeds.feedburner.com/TheSartorialist) |
-## [Cricket](/home/martin/Documents/MyRss/rss-sources/recommended/Cricket.opml)
+### [Cricket](recommended/Cricket.opml)
 
 | Title | URL |
 |-------|-----|
@@ -321,7 +323,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Wisden | [https://www.wisden.com/feed](https://www.wisden.com/feed) |
 | Wisden Cricket Weekly | [https://feeds.megaphone.fm/COMG4211358924](https://feeds.megaphone.fm/COMG4211358924) |
 | cricket.com.au | [https://www.youtube.com/feeds/videos.xml?user=cricketaustraliatv](https://www.youtube.com/feeds/videos.xml?user=cricketaustraliatv) |
-## [Television](/home/martin/Documents/MyRss/rss-sources/recommended/Television.opml)
+### [Television](recommended/Television.opml)
 
 | Title | URL |
 |-------|-----|
@@ -331,7 +333,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Television News and Discussion | [https://reddit.com/r/television/.rss](https://reddit.com/r/television/.rss) |
 | The A.V. Club | [https://tv.avclub.com/rss](https://tv.avclub.com/rss) |
 | the TV addict | [http://feeds.feedburner.com/thetvaddict/AXob](http://feeds.feedburner.com/thetvaddict/AXob) |
-## [Science](/home/martin/Documents/MyRss/rss-sources/recommended/Science.opml)
+### [Science](recommended/Science.opml)
 
 | Title | URL |
 |-------|-----|
@@ -358,7 +360,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | TED Talks Daily (SD video) | [https://pa.tedcdn.com/feeds/talks.rss](https://pa.tedcdn.com/feeds/talks.rss) |
 | The Infinite Monkey Cage | [https://podcasts.files.bbci.co.uk/b00snr0w.rss](https://podcasts.files.bbci.co.uk/b00snr0w.rss) |
 | This Week in Science – The Kickass Science Podcast | [http://www.twis.org/feed/](http://www.twis.org/feed/) |
-## [Sports](/home/martin/Documents/MyRss/rss-sources/recommended/Sports.opml)
+### [Sports](recommended/Sports.opml)
 
 | Title | URL |
 |-------|-----|
@@ -368,7 +370,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Sportskeeda | [https://www.sportskeeda.com/feed](https://www.sportskeeda.com/feed) |
 | Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games | [https://sports.yahoo.com/rss/](https://sports.yahoo.com/rss/) |
 | www.espn.com - TOP | [https://www.espn.com/espn/rss/news](https://www.espn.com/espn/rss/news) |
-## [Travel](/home/martin/Documents/MyRss/rss-sources/recommended/Travel.opml)
+### [Travel](recommended/Travel.opml)
 
 | Title | URL |
 |-------|-----|
@@ -377,7 +379,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | NYT > Travel | [https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml](https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml) |
 | Nomadic Matt's Travel Site | [https://www.nomadicmatt.com/travel-blog/feed/](https://www.nomadicmatt.com/travel-blog/feed/) |
 | Travel \| The Guardian | [https://www.theguardian.com/uk/travel/rss](https://www.theguardian.com/uk/travel/rss) |
-## [Space](/home/martin/Documents/MyRss/rss-sources/recommended/Space.opml)
+### [Space](recommended/Space.opml)
 
 | Title | URL |
 |-------|-----|
@@ -388,7 +390,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Space \| The Guardian | [https://www.theguardian.com/science/space/rss](https://www.theguardian.com/science/space/rss) |
 | Space.com | [https://www.space.com/feeds/all](https://www.space.com/feeds/all) |
 | SpaceX | [https://www.youtube.com/feeds/videos.xml?user=spacexchannel](https://www.youtube.com/feeds/videos.xml?user=spacexchannel) |
-## [Android](/home/martin/Documents/MyRss/rss-sources/recommended/Android.opml)
+### [Android](recommended/Android.opml)
 
 | Title | URL |
 |-------|-----|
@@ -410,7 +412,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Phandroid | [http://feeds2.feedburner.com/AndroidPhoneFans](http://feeds2.feedburner.com/AndroidPhoneFans) |
 | TalkAndroid | [http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums](http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums) |
 | xda-developers | [https://www.xda-developers.com/feed/](https://www.xda-developers.com/feed/) |
-## [Architecture](/home/martin/Documents/MyRss/rss-sources/recommended/Architecture.opml)
+### [Architecture](recommended/Architecture.opml)
 
 | Title | URL |
 |-------|-----|
@@ -428,7 +430,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Living Big In A Tiny House | [https://www.youtube.com/feeds/videos.xml?user=livingbigtinyhouse](https://www.youtube.com/feeds/videos.xml?user=livingbigtinyhouse) |
 | The Architect’s Newspaper | [https://archpaper.com/feed](https://archpaper.com/feed) |
 | architecture – designboom \| architecture and design magazine | [https://www.designboom.com/architecture/feed/](https://www.designboom.com/architecture/feed/) |
-## [Business & Economy](/home/martin/Documents/MyRss/rss-sources/recommended/Business%20%26%20Economy.opml)
+### [Business & Economy](recommended/Business%20&%20Economy.opml)
 
 | Title | URL |
 |-------|-----|
@@ -447,7 +449,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | The Growth Show | [http://thegrowthshow.hubspot.libsynpro.com/](http://thegrowthshow.hubspot.libsynpro.com/) |
 | US Top News and Analysis | [https://www.cnbc.com/id/100003114/device/rss/rss.html](https://www.cnbc.com/id/100003114/device/rss/rss.html) |
 | Yahoo Finance | [https://finance.yahoo.com/news/rssindex](https://finance.yahoo.com/news/rssindex) |
-## [Beauty](/home/martin/Documents/MyRss/rss-sources/recommended/Beauty.opml)
+### [Beauty](recommended/Beauty.opml)
 
 | Title | URL |
 |-------|-----|
@@ -459,7 +461,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | POPSUGAR Beauty | [https://www.popsugar.com/beauty/feed](https://www.popsugar.com/beauty/feed) |
 | Refinery29 | [https://www.refinery29.com/beauty/rss.xml](https://www.refinery29.com/beauty/rss.xml) |
 | The Beauty Look Book | [https://thebeautylookbook.com/feed](https://thebeautylookbook.com/feed) |
-## [Football](/home/martin/Documents/MyRss/rss-sources/recommended/Football.opml)
+### [Football](recommended/Football.opml)
 
 | Title | URL |
 |-------|-----|
@@ -468,7 +470,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Football News, Live Scores, Results Transfers \| Goal.com | [https://www.goal.com/feeds/en/news](https://www.goal.com/feeds/en/news) |
 | Football365 | [https://www.football365.com/feed](https://www.football365.com/feed) |
 | Soccer News | [https://www.soccernews.com/feed](https://www.soccernews.com/feed) |
-## [Apple](/home/martin/Documents/MyRss/rss-sources/recommended/Apple.opml)
+### [Apple](recommended/Apple.opml)
 
 | Title | URL |
 |-------|-----|
@@ -488,7 +490,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | The unofficial Apple community | [https://www.reddit.com/r/apple/.rss](https://www.reddit.com/r/apple/.rss) |
 | iMore - The #1 iPhone, iPad, and iPod touch blog | [http://feeds.feedburner.com/TheiPhoneBlog](http://feeds.feedburner.com/TheiPhoneBlog) |
 | r/iPhone | [https://www.reddit.com/r/iphone/.rss](https://www.reddit.com/r/iphone/.rss) |
-## [Programming](/home/martin/Documents/MyRss/rss-sources/recommended/Programming.opml)
+### [Programming](recommended/Programming.opml)
 
 | Title | URL |
 |-------|-----|
@@ -540,7 +542,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | The Standup | [https://feeds.fireside.fm/standup/rss](https://feeds.fireside.fm/standup/rss) |
 | The Women in Tech Show: A Technical Podcast | [https://thewomenintechshow.com/category/podcast/feed/](https://thewomenintechshow.com/category/podcast/feed/) |
 | programming | [https://www.reddit.com/r/programming/.rss](https://www.reddit.com/r/programming/.rss) |
-## [Food](/home/martin/Documents/MyRss/rss-sources/recommended/Food.opml)
+### [Food](recommended/Food.opml)
 
 | Title | URL |
 |-------|-----|
@@ -565,7 +567,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Sprouted Kitchen | [https://www.sproutedkitchen.com/home?format=rss](https://www.sproutedkitchen.com/home?format=rss) |
 | Williams-Sonoma Taste | [https://blog.williams-sonoma.com/feed/](https://blog.williams-sonoma.com/feed/) |
 | smitten kitchen | [http://feeds.feedburner.com/smittenkitchen](http://feeds.feedburner.com/smittenkitchen) |
-## [Android Development](/home/martin/Documents/MyRss/rss-sources/recommended/Android%20Development.opml)
+### [Android Development](recommended/Android%20Development.opml)
 
 | Title | URL |
 |-------|-----|
@@ -597,7 +599,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | droidcon SF | [https://www.youtube.com/feeds/videos.xml?channel_id=UCKubKoe1CBw_-n_GXetEQbg](https://www.youtube.com/feeds/videos.xml?channel_id=UCKubKoe1CBw_-n_GXetEQbg) |
 | goobar | [https://goobar.dev/feed](https://goobar.dev/feed) |
 | zsmb.co | [https://zsmb.co/index.xml](https://zsmb.co/index.xml) |
-## [Funny](/home/martin/Documents/MyRss/rss-sources/recommended/Funny.opml)
+### [Funny](recommended/Funny.opml)
 
 | Title | URL |
 |-------|-----|
@@ -615,7 +617,9 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | The Oatmeal - Comics by Matthew Inman | [http://feeds.feedburner.com/oatmealfeed](http://feeds.feedburner.com/oatmealfeed) |
 | The Onion | [https://www.theonion.com/rss](https://www.theonion.com/rss) |
 | xkcd.com | [https://xkcd.com/rss.xml](https://xkcd.com/rss.xml) |
-## [Spain](/home/martin/Documents/MyRss/rss-sources/countries/Spain.opml)
+## countries
+
+### [Spain](countries/Spain.opml)
 
 | Title | URL |
 |-------|-----|
@@ -628,7 +632,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | huffingtonpost.es | [https://www.huffingtonpost.es/feeds/index.xml](https://www.huffingtonpost.es/feeds/index.xml) |
 | Euro Weekly News Spain | [https://www.euroweeklynews.com/feed/](https://www.euroweeklynews.com/feed/) |
 | Agencia EFE \| www.efe.com \| English edition | [https://efe.com/feed/](https://efe.com/feed/) |
-## [Mexico](/home/martin/Documents/MyRss/rss-sources/countries/Mexico.opml)
+### [Mexico](countries/Mexico.opml)
 
 | Title | URL |
 |-------|-----|
@@ -645,7 +649,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Mexico News Daily | [https://mexiconewsdaily.com/feed/](https://mexiconewsdaily.com/feed/) |
 | El Diario | [https://diario.mx/jrz/media/sitemaps/rss.xml](https://diario.mx/jrz/media/sitemaps/rss.xml) |
 | 8 Columnas | [https://8columnas.com.mx/feed/](https://8columnas.com.mx/feed/) |
-## [Philippines](/home/martin/Documents/MyRss/rss-sources/countries/Philippines.opml)
+### [Philippines](countries/Philippines.opml)
 
 | Title | URL |
 |-------|-----|
@@ -666,7 +670,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | BusinessMirror | [https://businessmirror.com.ph/feed/](https://businessmirror.com.ph/feed/) |
 | Latest News \| Philippine News Agency | [https://www.pna.gov.ph/latest.rss](https://www.pna.gov.ph/latest.rss) |
 | TechPinas : Philippines' Technology News, Tips and Reviews Blog | [http://feeds.feedburner.com/Techpinas](http://feeds.feedburner.com/Techpinas) |
-## [Japan](/home/martin/Documents/MyRss/rss-sources/countries/Japan.opml)
+### [Japan](countries/Japan.opml)
 
 | Title | URL |
 |-------|-----|
@@ -678,7 +682,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | NYT > Japan | [https://www.nytimes.com/svc/collections/v1/publish/http://www.nytimes.com/topic/destination/japan/rss.xml](https://www.nytimes.com/svc/collections/v1/publish/http://www.nytimes.com/topic/destination/japan/rss.xml) |
 | ライブドアニュース - 主要トピックス | [https://news.livedoor.com/topics/rss/top.xml](https://news.livedoor.com/topics/rss/top.xml) |
 | 朝日新聞デジタル | [http://rss.asahi.com/rss/asahi/newsheadlines.rdf](http://rss.asahi.com/rss/asahi/newsheadlines.rdf) |
-## [France](/home/martin/Documents/MyRss/rss-sources/countries/France.opml)
+### [France](countries/France.opml)
 
 | Title | URL |
 |-------|-----|
@@ -692,7 +696,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr | [https://www.ladepeche.fr/rss.xml](https://www.ladepeche.fr/rss.xml) |
 | L'essentiel | [https://www.sudouest.fr/essentiel/rss.xml](https://www.sudouest.fr/essentiel/rss.xml) |
 | Ouest-France - Actualité | [https://www.ouest-france.fr/rss-en-continu.xml](https://www.ouest-france.fr/rss-en-continu.xml) |
-## [India](/home/martin/Documents/MyRss/rss-sources/countries/India.opml)
+### [India](countries/India.opml)
 
 | Title | URL |
 |-------|-----|
@@ -727,12 +731,12 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Live Hindustan Rss feed | [https://feed.livehindustan.com/rss/3127](https://feed.livehindustan.com/rss/3127) |
 | देश \| दैनिक भास्कर | [https://www.bhaskar.com/rss-feed/1061/](https://www.bhaskar.com/rss-feed/1061/) |
 | ઈન્ડિયા \| દિવ્ય ભાસ્કર | [https://www.divyabhaskar.co.in/rss-feed/1037/](https://www.divyabhaskar.co.in/rss-feed/1037/) |
-## [Myanmar (Burma)](/home/martin/Documents/MyRss/rss-sources/countries/Myanmar%20%28Burma%29.opml)
+### [Myanmar (Burma)](countries/Myanmar%20(Burma).opml)
 
 | Title | URL |
 |-------|-----|
 | THIT HTOO LWIN (Daily News) | [http://www.thithtoolwin.com/feeds/posts/default](http://www.thithtoolwin.com/feeds/posts/default) |
-## [Australia](/home/martin/Documents/MyRss/rss-sources/countries/Australia.opml)
+### [Australia](countries/Australia.opml)
 
 | Title | URL |
 |-------|-----|
@@ -751,7 +755,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | The Mercury | [https://www.themercury.com.au/rss](https://www.themercury.com.au/rss) |
 | Crikey | [https://feeds.feedburner.com/com/rCTl](https://feeds.feedburner.com/com/rCTl) |
 | Michael West | [https://www.michaelwest.com.au/feed/](https://www.michaelwest.com.au/feed/) |
-## [Belgium](/home/martin/Documents/MyRss/rss-sources/countries/Belgium.opml)
+### [Belgium](countries/Belgium.opml)
 
 | Title | URL |
 |-------|-----|
@@ -763,7 +767,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | De Standaard | [https://www.standaard.be/rss/section/1f2838d4-99ea-49f0-9102-138784c7ea7c](https://www.standaard.be/rss/section/1f2838d4-99ea-49f0-9102-138784c7ea7c) |
 | Het Nieuwsblad | [https://www.nieuwsblad.be/rss/section/55178e67-15a8-4ddd-a3d8-bfe5708f8932](https://www.nieuwsblad.be/rss/section/55178e67-15a8-4ddd-a3d8-bfe5708f8932) |
 | Knack | [https://www.knack.be/feed/](https://www.knack.be/feed/) |
-## [Germany](/home/martin/Documents/MyRss/rss-sources/countries/Germany.opml)
+### [Germany](countries/Germany.opml)
 
 | Title | URL |
 |-------|-----|
@@ -772,7 +776,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Aktuell - FAZ.NET | [https://www.faz.net/rss/aktuell/](https://www.faz.net/rss/aktuell/) |
 | tagesschau.de - Die Nachrichten der ARD | [http://www.tagesschau.de/xml/rss2](http://www.tagesschau.de/xml/rss2) |
 | Deutsche Welle | [https://rss.dw.com/rdf/rss-en-all](https://rss.dw.com/rdf/rss-en-all) |
-## [Bangladesh](/home/martin/Documents/MyRss/rss-sources/countries/Bangladesh.opml)
+### [Bangladesh](countries/Bangladesh.opml)
 
 | Title | URL |
 |-------|-----|
@@ -783,7 +787,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | jagonews24.com \| rss Feed | [https://www.jagonews24.com/rss/rss.xml](https://www.jagonews24.com/rss/rss.xml) |
 | kalerkantho Kantho | [https://www.kalerkantho.com/rss.xml](https://www.kalerkantho.com/rss.xml) |
 | প্রথম আলো | [https://www.prothomalo.com/feed/](https://www.prothomalo.com/feed/) |
-## [Italy](/home/martin/Documents/MyRss/rss-sources/countries/Italy.opml)
+### [Italy](countries/Italy.opml)
 
 | Title | URL |
 |-------|-----|
@@ -799,7 +803,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Italy \| The Guardian | [https://www.theguardian.com/world/italy/rss](https://www.theguardian.com/world/italy/rss) |
 | Repubblica.it > Homepage | [https://www.repubblica.it/rss/homepage/rss2.0.xml](https://www.repubblica.it/rss/homepage/rss2.0.xml) |
 | Il Post | [https://www.ilpost.it/feed/](https://www.ilpost.it/feed/) |
-## [Brazil](/home/martin/Documents/MyRss/rss-sources/countries/Brazil.opml)
+### [Brazil](countries/Brazil.opml)
 
 | Title | URL |
 |-------|-----|
@@ -810,7 +814,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | The Rio Times | [https://riotimesonline.com/feed/](https://riotimesonline.com/feed/) |
 | Brasil Wire | [https://www.brasilwire.com/feed/](https://www.brasilwire.com/feed/) |
 | Jornal de Brasília | [https://jornaldebrasilia.com.br/feed/](https://jornaldebrasilia.com.br/feed/) |
-## [Poland](/home/martin/Documents/MyRss/rss-sources/countries/Poland.opml)
+### [Poland](countries/Poland.opml)
 
 | Title | URL |
 |-------|-----|
@@ -822,7 +826,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | https://www.rp.pl | [https://www.rp.pl/rss/1019](https://www.rp.pl/rss/1019) |
 | Polska Agencja Prasowa SA | [https://www.pap.pl/rss.xml](https://www.pap.pl/rss.xml) |
 | RMF24.pl | [https://www.rmf24.pl/feed](https://www.rmf24.pl/feed) |
-## [South Africa](/home/martin/Documents/MyRss/rss-sources/countries/South%20Africa.opml)
+### [South Africa](countries/South%20Africa.opml)
 
 | Title | URL |
 |-------|-----|
@@ -837,7 +841,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | TimesLIVE | [https://www.timeslive.co.za/rss/](https://www.timeslive.co.za/rss/) |
 | The South African | [https://www.thesouthafrican.com/feed/](https://www.thesouthafrican.com/feed/) |
 | Axios | [https://api.axios.com/feed/](https://api.axios.com/feed/) |
-## [Nigeria](/home/martin/Documents/MyRss/rss-sources/countries/Nigeria.opml)
+### [Nigeria](countries/Nigeria.opml)
 
 | Title | URL |
 |-------|-----|
@@ -851,7 +855,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Information Nigeria | [https://www.informationng.com/feed](https://www.informationng.com/feed) |
 | The Guardian Nigeria News – Nigeria and World News | [https://guardian.ng/feed/](https://guardian.ng/feed/) |
 | Tribune Online | [https://tribuneonlineng.com/feed/](https://tribuneonlineng.com/feed/) |
-## [Pakistan](/home/martin/Documents/MyRss/rss-sources/countries/Pakistan.opml)
+### [Pakistan](countries/Pakistan.opml)
 
 | Title | URL |
 |-------|-----|
@@ -862,7 +866,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | News Blog | [https://newsnblogs.com/feed/](https://newsnblogs.com/feed/) |
 | UrduPoint.com All Urdu News | [https://www.urdupoint.com/rss/urdupoint.rss](https://www.urdupoint.com/rss/urdupoint.rss) |
 | ایکسپریس اردو | [https://www.express.pk/feed/](https://www.express.pk/feed/) |
-## [Russia](/home/martin/Documents/MyRss/rss-sources/countries/Russia.opml)
+### [Russia](countries/Russia.opml)
 
 | Title | URL |
 |-------|-----|
@@ -878,7 +882,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | TASS | [http://tass.com/rss/v2.xml](http://tass.com/rss/v2.xml) |
 | The Moscow Times - Independent News From Russia | [https://www.themoscowtimes.com/rss/news](https://www.themoscowtimes.com/rss/news) |
 | PravdaReport | [https://www.pravdareport.com/export.xml](https://www.pravdareport.com/export.xml) |
-## [United Kingdom](/home/martin/Documents/MyRss/rss-sources/countries/United%20Kingdom.opml)
+### [United Kingdom](countries/United%20Kingdom.opml)
 
 | Title | URL |
 |-------|-----|
@@ -887,7 +891,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Home \| Mail Online | [https://www.dailymail.co.uk/home/index.rss](https://www.dailymail.co.uk/home/index.rss) |
 | The Independent | [http://www.independent.co.uk/news/uk/rss](http://www.independent.co.uk/news/uk/rss) |
 | Daily Express :: News Feed | [http://feeds.feedburner.com/daily-express-news-showbiz](http://feeds.feedburner.com/daily-express-news-showbiz) |
-## [United States](/home/martin/Documents/MyRss/rss-sources/countries/United%20States.opml)
+### [United States](countries/United%20States.opml)
 
 | Title | URL |
 |-------|-----|
@@ -901,7 +905,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Yahoo News - Latest News and Headlines | [https://news.yahoo.com/rss/mostviewed](https://news.yahoo.com/rss/mostviewed) |
 | US Top News and Analysis | [https://www.cnbc.com/id/100003114/device/rss/rss.html](https://www.cnbc.com/id/100003114/device/rss/rss.html) |
 | Playbook | [https://rss.politico.com/playbook.xml](https://rss.politico.com/playbook.xml) |
-## [Iran](/home/martin/Documents/MyRss/rss-sources/countries/Iran.opml)
+### [Iran](countries/Iran.opml)
 
 | Title | URL |
 |-------|-----|
@@ -912,7 +916,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | خبرگزاری خبرآنلاین - آخرین اخبار ایران و جهان \| Khabaronline | [https://www.khabaronline.ir/rss](https://www.khabaronline.ir/rss) |
 | اخبار ایران و جهان | [https://www.tasnimnews.com/fa/rss/feed/0/8/0/%D9%85%D9%87%D9%85%D8%AA%D8%B1%DB%8C%D9%86-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%AA%D8%B3%D9%86%DB%8C%D9%85](https://www.tasnimnews.com/fa/rss/feed/0/8/0/%D9%85%D9%87%D9%85%D8%AA%D8%B1%DB%8C%D9%86-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%AA%D8%B3%D9%86%DB%8C%D9%85) |
 | عصر ايران | [https://www.asriran.com/fa/rss/allnews](https://www.asriran.com/fa/rss/allnews) |
-## [Canada](/home/martin/Documents/MyRss/rss-sources/countries/Canada.opml)
+### [Canada](countries/Canada.opml)
 
 | Title | URL |
 |-------|-----|
@@ -926,7 +930,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | LaPresse.ca - Actualités | [https://www.lapresse.ca/actualites/rss](https://www.lapresse.ca/actualites/rss) |
 | Toronto Star | [https://www.thestar.com/search/?f=rss](https://www.thestar.com/search/?f=rss) |
 | Toronto Sun - RSS Feed | [https://torontosun.com/category/news/feed](https://torontosun.com/category/news/feed) |
-## [Ukraine](/home/martin/Documents/MyRss/rss-sources/countries/Ukraine.opml)
+### [Ukraine](countries/Ukraine.opml)
 
 | Title | URL |
 |-------|-----|
@@ -942,7 +946,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Еспресо - український погляд на світ! | [https://espreso.tv/rss](https://espreso.tv/rss) |
 | Gazeta.ua | [https://gazeta.ua/rss](https://gazeta.ua/rss) |
 | Вести.ua | [https://vesti.ua/feeds/partners](https://vesti.ua/feeds/partners) |
-## [Indonesia](/home/martin/Documents/MyRss/rss-sources/countries/Indonesia.opml)
+### [Indonesia](countries/Indonesia.opml)
 
 | Title | URL |
 |-------|-----|
@@ -950,7 +954,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Tribunnews.com | [https://www.tribunnews.com/rss](https://www.tribunnews.com/rss) |
 | Merdeka.com | [https://www.merdeka.com/feed/](https://www.merdeka.com/feed/) |
 | Suara.com | [https://www.suara.com/rss](https://www.suara.com/rss) |
-## [Hong Kong SAR China](/home/martin/Documents/MyRss/rss-sources/countries/Hong%20Kong%20SAR%20China.opml)
+### [Hong Kong SAR China](countries/Hong%20Kong%20SAR%20China.opml)
 
 | Title | URL |
 |-------|-----|
@@ -958,7 +962,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | The Standard - Latest News | [https://www.thestandard.com.hk/newsfeed/latest/news.xml](https://www.thestandard.com.hk/newsfeed/latest/news.xml) |
 | 香港新聞RSS - 香港經濟日報 hket.com | [https://www.hket.com/rss/hongkong](https://www.hket.com/rss/hongkong) |
 | hongkongnews.net latest rss headlines | [http://feeds.hongkongnews.net/rss/b82693edf38ebff8](http://feeds.hongkongnews.net/rss/b82693edf38ebff8) |
-## [Ireland](/home/martin/Documents/MyRss/rss-sources/countries/Ireland.opml)
+### [Ireland](countries/Ireland.opml)
 
 | Title | URL |
 |-------|-----|

@@ -30,15 +30,19 @@ def create_readme(directory, template_file):
             # Get the relative path for the directory
             relative_path = os.path.relpath(root, directory)
 
+            readme_content += f"## {relative_path}\n\n"
+
             if files:
                 for file in files:
                     file_path = os.path.join(root, file)
                     file_name = os.path.splitext(file)[0]  # Get the file name without extension
                     rss_sources = extract_rss_sources(file_path)
-                    file_path_encoded = urllib.parse.quote(file_path.replace("\\", "/"))
+                    relative_file_path = os.path.relpath(file_path, directory)
+                    relative_file_path = relative_file_path.replace(" ", "%20")
+
 
                     if rss_sources:
-                        readme_content += f"## [{file_name}]({file_path_encoded})\n\n"
+                        readme_content += f"### [{file_name}]({relative_file_path})\n\n"
                         readme_content += "| Title | URL |\n"
                         readme_content += "|-------|-----|\n"
 
