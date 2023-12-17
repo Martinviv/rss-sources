@@ -38,7 +38,6 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Fubiz Media | [http://feeds.feedburner.com/fubiz](http://feeds.feedburner.com/fubiz) |
 | Ideal Home | [https://www.idealhome.co.uk/feed](https://www.idealhome.co.uk/feed) |
 | In My Own Style | [https://inmyownstyle.com/feed](https://inmyownstyle.com/feed) |
-| Inhabitat - Green Design, Innovation, Architecture, Green Building | [https://inhabitat.com/design/feed/](https://inhabitat.com/design/feed/) |
 | Interior Design (Interior Architecture) | [https://www.reddit.com/r/InteriorDesign/.rss](https://www.reddit.com/r/InteriorDesign/.rss) |
 | Interior Design Ideas | [http://www.home-designing.com/feed](http://www.home-designing.com/feed) |
 | Interior Design Latest | [https://www.interiordesign.net/rss/](https://www.interiordesign.net/rss/) |
@@ -155,7 +154,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Mashable | [http://feeds.mashable.com/Mashable](http://feeds.mashable.com/Mashable) |
 | ReadWrite | [https://readwrite.com/feed/](https://readwrite.com/feed/) |
 | Rocket | [https://www.relay.fm/rocket/feed](https://www.relay.fm/rocket/feed) |
-| Slashdot | [http://rss.slashdot.org/Slashdot/slashdotMain](http://rss.slashdot.org/Slashdot/slashdotMain) |
+| Slashdot | [https://rss.slashdot.org/Slashdot/slashdotMain](https://rss.slashdot.org/Slashdot/slashdotMain) |
 | Stratechery by Ben Thompson | [http://stratechery.com/feed/](http://stratechery.com/feed/) |
 | TechCrunch | [http://feeds.feedburner.com/TechCrunch](http://feeds.feedburner.com/TechCrunch) |
 | The Keyword | [https://www.blog.google/rss/](https://www.blog.google/rss/) |
@@ -237,7 +236,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 
 | Title | URL |
 |-------|-----|
-| BBC Sport - Tennis | [http://feeds.bbci.co.uk/sport/tennis/rss.xml](http://feeds.bbci.co.uk/sport/tennis/rss.xml) |
+| BBC Sport - Tennis | [https://feeds.bbci.co.uk/sport/tennis/rss.xml](https://feeds.bbci.co.uk/sport/tennis/rss.xml) |
 | Essential Tennis Podcast - Instruction, Lessons, Tips | [https://feed.podbean.com/essentialtennis/feed.xml](https://feed.podbean.com/essentialtennis/feed.xml) |
 | Tennis - ATP World Tour | [https://www.atptour.com/en/media/rss-feed/xml-feed](https://www.atptour.com/en/media/rss-feed/xml-feed) |
 | Tennis News and Discussion | [https://www.reddit.com/r/tennis/.rss](https://www.reddit.com/r/tennis/.rss) |
@@ -257,7 +256,6 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Title | URL |
 |-------|-----|
 | 30 For 30 Podcasts | [https://feeds.megaphone.fm/ESP5765452710](https://feeds.megaphone.fm/ESP5765452710) |
-| Blog Feed | [https://americanhistory.si.edu/blog/feed](https://americanhistory.si.edu/blog/feed) |
 | Dan Carlin's Hardcore History | [https://feeds.feedburner.com/dancarlin/history?format=xml](https://feeds.feedburner.com/dancarlin/history?format=xml) |
 | History in 28-minutes | [https://www.historyisnowmagazine.com/blog?format=RSS](https://www.historyisnowmagazine.com/blog?format=RSS) |
 | HistoryNet | [http://www.historynet.com/feed](http://www.historynet.com/feed) |
@@ -271,7 +269,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 
 | Title | URL |
 |-------|-----|
-| BBC News - World | [http://feeds.bbci.co.uk/news/world/rss.xml](http://feeds.bbci.co.uk/news/world/rss.xml) |
+| BBC News - World | [https://feeds.bbci.co.uk/news/world/rss.xml](https://feeds.bbci.co.uk/news/world/rss.xml) |
 | CNN.com - RSS Channel - World | [http://rss.cnn.com/rss/edition_world.rss](http://rss.cnn.com/rss/edition_world.rss) |
 | International: Top News And Analysis | [https://www.cnbc.com/id/100727362/device/rss/rss.html](https://www.cnbc.com/id/100727362/device/rss/rss.html) |
 | NDTV News - World-news | [http://feeds.feedburner.com/ndtvnews-world-news](http://feeds.feedburner.com/ndtvnews-world-news) |
@@ -301,7 +299,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 
 | Title | URL |
 |-------|-----|
-| BBC Sport - Cricket | [http://feeds.bbci.co.uk/sport/cricket/rss.xml](http://feeds.bbci.co.uk/sport/cricket/rss.xml) |
+| BBC Sport - Cricket | [https://feeds.bbci.co.uk/sport/cricket/rss.xml](https://feeds.bbci.co.uk/sport/cricket/rss.xml) |
 | Can't Bowl Can't Throw Cricket Show | [http://feeds.feedburner.com/cantbowlcantthrow](http://feeds.feedburner.com/cantbowlcantthrow) |
 | Cricbuzz | [https://www.youtube.com/feeds/videos.xml?channel_id=UCSRQXk5yErn4e14vN76upOw](https://www.youtube.com/feeds/videos.xml?channel_id=UCSRQXk5yErn4e14vN76upOw) |
 | Cricket | [https://www.reddit.com/r/Cricket/.rss](https://www.reddit.com/r/Cricket/.rss) |
@@ -338,7 +336,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Title | URL |
 |-------|-----|
 | 60-Second Science | [http://rss.sciam.com/sciam/60secsciencepodcast](http://rss.sciam.com/sciam/60secsciencepodcast) |
-| BBC News - Science and Environment | [http://feeds.bbci.co.uk/news/science_and_environment/rss.xml](http://feeds.bbci.co.uk/news/science_and_environment/rss.xml) |
+| BBC News - Science and Environment | [https://feeds.bbci.co.uk/news/science_and_environment/rss.xml](https://feeds.bbci.co.uk/news/science_and_environment/rss.xml) |
 | Discovery | [https://podcasts.files.bbci.co.uk/p002w557.rss](https://podcasts.files.bbci.co.uk/p002w557.rss) |
 | FlowingData | [https://flowingdata.com/feed](https://flowingdata.com/feed) |
 | Gizmodo | [https://gizmodo.com/tag/science/rss](https://gizmodo.com/tag/science/rss) |
@@ -364,7 +362,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 
 | Title | URL |
 |-------|-----|
-| BBC Sport - Sport | [http://feeds.bbci.co.uk/sport/rss.xml](http://feeds.bbci.co.uk/sport/rss.xml) |
+| BBC Sport - Sport | [https://feeds.bbci.co.uk/sport/rss.xml](https://feeds.bbci.co.uk/sport/rss.xml) |
 | Reddit Sports | [https://www.reddit.com/r/sports.rss](https://www.reddit.com/r/sports.rss) |
 | Sports News - Latest Sports and Football News \| Sky News | [http://feeds.skynews.com/feeds/rss/sports.xml](http://feeds.skynews.com/feeds/rss/sports.xml) |
 | Sportskeeda | [https://www.sportskeeda.com/feed](https://www.sportskeeda.com/feed) |
@@ -467,8 +465,8 @@ Currently, the suggested sources for topics are primarily in English. However, y
 |-------|-----|
 | EFL Championship | [https://www.reddit.com/r/Championship/.rss?format=xml](https://www.reddit.com/r/Championship/.rss?format=xml) |
 | Football - The People's Sport | [https://www.reddit.com/r/football/.rss?format=xml](https://www.reddit.com/r/football/.rss?format=xml) |
-| Football News, Live Scores, Results Transfers \| Goal.com | [https://www.goal.com/feeds/en/news](https://www.goal.com/feeds/en/news) |
-| Football365 | [https://www.football365.com/feed](https://www.football365.com/feed) |
+| www.espn.com - SOCCER | [https://www.espn.com/espn/rss/soccer/news](https://www.espn.com/espn/rss/soccer/news) |
+| Football365 | [https://www.football365.com/f365-features/feed](https://www.football365.com/f365-features/feed) |
 | Soccer News | [https://www.soccernews.com/feed](https://www.soccernews.com/feed) |
 ### [Apple](recommended/Apple.opml)
 
@@ -498,7 +496,6 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Code as Craft | [https://codeascraft.com/feed/atom/](https://codeascraft.com/feed/atom/) |
 | CodeNewbie | [http://feeds.codenewbie.org/cnpodcast.xml](http://feeds.codenewbie.org/cnpodcast.xml) |
 | Coding Horror | [https://feeds.feedburner.com/codinghorror](https://feeds.feedburner.com/codinghorror) |
-| Complete Developer Podcast | [https://completedeveloperpodcast.com/feed/podcast/](https://completedeveloperpodcast.com/feed/podcast/) |
 | Dan Abramov's Overreacted Blog RSS Feed | [https://overreacted.io/rss.xml](https://overreacted.io/rss.xml) |
 | Developer Tea | [https://feeds.simplecast.com/dLRotFGk](https://feeds.simplecast.com/dLRotFGk) |
 | English (US) | [https://blog.twitter.com/engineering/en_us/blog.rss](https://blog.twitter.com/engineering/en_us/blog.rss) |
@@ -539,7 +536,6 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | The PIT Show: Reflections and Interviews in the Tech World | [https://feeds.transistor.fm/productivity-in-tech-podcast](https://feeds.transistor.fm/productivity-in-tech-podcast) |
 | The Rabbit Hole: The Definitive Developer's Podcast | [http://therabbithole.libsyn.com/rss](http://therabbithole.libsyn.com/rss) |
 | The Stack Overflow Podcast | [https://feeds.simplecast.com/XA_851k3](https://feeds.simplecast.com/XA_851k3) |
-| The Standup | [https://feeds.fireside.fm/standup/rss](https://feeds.fireside.fm/standup/rss) |
 | The Women in Tech Show: A Technical Podcast | [https://thewomenintechshow.com/category/podcast/feed/](https://thewomenintechshow.com/category/podcast/feed/) |
 | programming | [https://www.reddit.com/r/programming/.rss](https://www.reddit.com/r/programming/.rss) |
 ### [Food](recommended/Food.opml)
@@ -631,7 +627,6 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | El Periódico - portada | [https://www.elperiodico.com/es/rss/rss_portada.xml](https://www.elperiodico.com/es/rss/rss_portada.xml) |
 | huffingtonpost.es | [https://www.huffingtonpost.es/feeds/index.xml](https://www.huffingtonpost.es/feeds/index.xml) |
 | Euro Weekly News Spain | [https://www.euroweeklynews.com/feed/](https://www.euroweeklynews.com/feed/) |
-| Agencia EFE \| www.efe.com \| English edition | [https://efe.com/feed/](https://efe.com/feed/) |
 ### [Mexico](countries/Mexico.opml)
 
 | Title | URL |
@@ -658,7 +653,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | - The Manila Times | [https://www.manilatimes.net/news/feed/](https://www.manilatimes.net/news/feed/) |
 | philstar.com - RSS Headlines | [https://www.philstar.com/rss/headlines](https://www.philstar.com/rss/headlines) |
 | BusinessWorld | [https://www.bworldonline.com/feed/](https://www.bworldonline.com/feed/) |
-| https://www.sunstar.com.ph/ | [https://www.sunstar.com.ph/rssFeed/selected](https://www.sunstar.com.ph/rssFeed/selected) |
+| https://www.sunstar.com.ph/ | [https://prod-qt-images.s3.amazonaws.com/production/sunstar/feed.xml](https://prod-qt-images.s3.amazonaws.com/production/sunstar/feed.xml) |
 | Manila Standard | [https://manilastandard.net/feed/](https://manilastandard.net/feed/) |
 | GMA News Online / News | [https://data.gmanews.tv/gno/rss/news/feed.xml](https://data.gmanews.tv/gno/rss/news/feed.xml) |
 | Current PH | [https://currentph.com/feed/](https://currentph.com/feed/) |
@@ -668,7 +663,6 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Tempo – The Nation's Fastest Growing Newspaper | [https://tempo.com.ph/feed/](https://tempo.com.ph/feed/) |
 | Abante Tonite | [https://tonite.abante.com.ph/feed/](https://tonite.abante.com.ph/feed/) |
 | BusinessMirror | [https://businessmirror.com.ph/feed/](https://businessmirror.com.ph/feed/) |
-| Latest News \| Philippine News Agency | [https://www.pna.gov.ph/latest.rss](https://www.pna.gov.ph/latest.rss) |
 | TechPinas : Philippines' Technology News, Tips and Reviews Blog | [http://feeds.feedburner.com/Techpinas](http://feeds.feedburner.com/Techpinas) |
 ### [Japan](countries/Japan.opml)
 
@@ -681,7 +675,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報 | [http://feeds.feedburner.com/SdJapan](http://feeds.feedburner.com/SdJapan) |
 | NYT > Japan | [https://www.nytimes.com/svc/collections/v1/publish/http://www.nytimes.com/topic/destination/japan/rss.xml](https://www.nytimes.com/svc/collections/v1/publish/http://www.nytimes.com/topic/destination/japan/rss.xml) |
 | ライブドアニュース - 主要トピックス | [https://news.livedoor.com/topics/rss/top.xml](https://news.livedoor.com/topics/rss/top.xml) |
-| 朝日新聞デジタル | [http://rss.asahi.com/rss/asahi/newsheadlines.rdf](http://rss.asahi.com/rss/asahi/newsheadlines.rdf) |
+| 朝日新聞デジタル | [https://rss.asahi.com/rss/asahi/newsheadlines.rdf](https://rss.asahi.com/rss/asahi/newsheadlines.rdf) |
 ### [France](countries/France.opml)
 
 | Title | URL |
@@ -700,7 +694,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 
 | Title | URL |
 |-------|-----|
-| BBC News - India | [http://feeds.bbci.co.uk/news/world/asia/india/rss.xml](http://feeds.bbci.co.uk/news/world/asia/india/rss.xml) |
+| BBC News - India | [https://feeds.bbci.co.uk/news/world/asia/india/rss.xml](https://feeds.bbci.co.uk/news/world/asia/india/rss.xml) |
 | India \| The Guardian | [https://www.theguardian.com/world/india/rss](https://www.theguardian.com/world/india/rss) |
 | SEBI RSS Feed | [https://www.sebi.gov.in/sebirss.xml](https://www.sebi.gov.in/sebirss.xml) |
 | Times of India | [https://timesofindia.indiatimes.com/rssfeedstopstories.cms](https://timesofindia.indiatimes.com/rssfeedstopstories.cms) |
@@ -781,7 +775,6 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Title | URL |
 |-------|-----|
 | The Daily Star | [https://www.thedailystar.net/frontpage/rss.xml](https://www.thedailystar.net/frontpage/rss.xml) |
-| BD24Live.com | [https://www.bd24live.com/feed](https://www.bd24live.com/feed) |
 | Bangla News | [https://www.banglanews24.com/rss/rss.xml](https://www.banglanews24.com/rss/rss.xml) |
 | JUGANTOR | [https://www.jugantor.com/feed/rss.xml](https://www.jugantor.com/feed/rss.xml) |
 | jagonews24.com \| rss Feed | [https://www.jagonews24.com/rss/rss.xml](https://www.jagonews24.com/rss/rss.xml) |
@@ -886,7 +879,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 
 | Title | URL |
 |-------|-----|
-| BBC News - Home | [http://feeds.bbci.co.uk/news/rss.xml](http://feeds.bbci.co.uk/news/rss.xml) |
+| BBC News - Home | [https://feeds.bbci.co.uk/news/rss.xml](https://feeds.bbci.co.uk/news/rss.xml) |
 | World news \| The Guardian | [https://www.theguardian.com/world/rss](https://www.theguardian.com/world/rss) |
 | Home \| Mail Online | [https://www.dailymail.co.uk/home/index.rss](https://www.dailymail.co.uk/home/index.rss) |
 | The Independent | [http://www.independent.co.uk/news/uk/rss](http://www.independent.co.uk/news/uk/rss) |

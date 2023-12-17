@@ -3,6 +3,12 @@ import re
 import urllib.parse
 import xml.etree.ElementTree as ET
 
+'''
+Script to generate a README file from a list of OPML files.
+This is run after and an updated OPML file to update the README file.
+'''
+
+
 def extract_rss_sources(file_path):
     with open(file_path, "r", encoding="utf-8") as file:
         content = file.read()
@@ -52,7 +58,7 @@ def create_readme(directory, template_file):
     with open("README.md", "w") as readme_file:
         readme_file.write(readme_content)
 
-# TODO : Specify the directory you want to create the README for
+
 directory_to_document = ""
 
 template_file = "readme1.md"

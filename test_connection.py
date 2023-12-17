@@ -2,6 +2,13 @@ import requests
 import xml.etree.ElementTree as ET
 import glob
 import csv
+from tqdm import tqdm # pip install tqdm
+
+
+'''
+This script reads a list of OPML files and checks if the RSS feeds are valid.
+'''
+
 
 def test_rss_content(url):
     try:
@@ -13,7 +20,9 @@ def test_rss_content(url):
             # Check if the content is in XML format (RSS)
             try:
                 tree = ET.fromstring(response.text)
-                if tree.tag.lower() == 'rss' or tree.tag.lower() == 'feed':
+                # Check for common RSS tags
+                rss_tags = ['rss', 'feed', 'rdf:RDF', 'channel'] 
+                if any(tree.tag.lower().endswith(tag.lower()) for tag in rss_tags):
                     return "Success"
                 else:
                     return "The content is not a valid RSS feed."
@@ -27,6 +36,12 @@ def test_rss_content(url):
 def process_file(file_path, csv_writer):
     tree = ET.parse(file_path)
     root = tree.getroot()
+    
+    outlines = root.findall(".//outline")
+    
+    total_outlines = len(outlines) - 1
+    progress_bar = tqdm(total = total_outlines, desc=f"Processing {file_path}", unit="link")
+   
 
     for outline in root.findall(".//outline"):
         if 'xmlUrl' in outline.attrib:
@@ -34,15 +49,19 @@ def process_file(file_path, csv_writer):
             reason = test_rss_content(url)
             success = 1 if reason == "Success" else 0
             csv_writer.writerow([url, success, reason])
+            
+            progress_bar.set_postfix({"Success": success, "Reason": reason})
+            progress_bar.update(1) 
+
 
 # Directory containing the XML files to process
-directory_path = 'recommended'
+directory_path = 'countries'
 
 # Get the list of XML files in the directory
 file_paths = glob.glob(directory_path + '/*.opml')
 
 # Open the CSV file in write mode
-with open('recommended_report.csv', 'w', newline='') as csv_file:
+with open('countries_report.csv', 'w', newline='') as csv_file:
     csv_writer = csv.writer(csv_file)
     csv_writer.writerow(['URL', 'Success', 'Reason'])  # Write the CSV header
 

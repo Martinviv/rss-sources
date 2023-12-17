@@ -10,7 +10,7 @@
 			<outline text="BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報" title="BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報" description="「起業家と投資家を繋ぐ」テクノロジー＆スタートアップ関連の話題をお届けするブログメディア" xmlUrl="http://feeds.feedburner.com/SdJapan" type="rss" />
 			<outline text="NYT > Japan" title="NYT > Japan" description="" xmlUrl="https://www.nytimes.com/svc/collections/v1/publish/http://www.nytimes.com/topic/destination/japan/rss.xml" type="rss" />
 			<outline text="ライブドアニュース - 主要トピックス" title="ライブドアニュース - 主要トピックス" description="ライブドアニュース - 主要トピックス" xmlUrl="https://news.livedoor.com/topics/rss/top.xml" type="rss" />
-			<outline text="朝日新聞デジタル" title="朝日新聞デジタル" description="朝日新聞デジタル" xmlUrl="http://rss.asahi.com/rss/asahi/newsheadlines.rdf" type="rss" />
+			<outline text="朝日新聞デジタル" title="朝日新聞デジタル" description="朝日新聞デジタル" xmlUrl="https://rss.asahi.com/rss/asahi/newsheadlines.rdf" type="rss" />
 		</outline>
 	</body>
 </opml>

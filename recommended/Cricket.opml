@@ -3,7 +3,7 @@
 	
 	<body>
 		<outline text="Cricket" title="Cricket">
-			<outline text="BBC Sport - Cricket" title="BBC Sport - Cricket" description="BBC Sport - Cricket" xmlUrl="http://feeds.bbci.co.uk/sport/cricket/rss.xml" type="rss" />
+			<outline text="BBC Sport - Cricket" title="BBC Sport - Cricket" description="BBC Sport - Cricket" xmlUrl="https://feeds.bbci.co.uk/sport/cricket/rss.xml" type="rss" />
 			<outline text="Can't Bowl Can't Throw Cricket Show" title="Can't Bowl Can't Throw Cricket Show" description="The second season of the Can't Bowl Can't Throw Cricket Show, in which we talk about cricket on a podcast. In a second season." xmlUrl="http://feeds.feedburner.com/cantbowlcantthrow" type="rss" />
 			<outline text="Cricbuzz" title="Cricbuzz" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSRQXk5yErn4e14vN76upOw" type="rss" />
 			<outline text="Cricket" title="Cricket" description="News, banter and occasional serious discussion on the great game." xmlUrl="https://www.reddit.com/r/Cricket/.rss" type="rss" />

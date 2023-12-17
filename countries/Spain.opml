@@ -11,7 +11,6 @@
 			<outline text="El Periódico - portada" title="El Periódico - portada" description="El Periódico - Todas las noticias de la portada" xmlUrl="https://www.elperiodico.com/es/rss/rss_portada.xml" type="rss" />
 			<outline text="huffingtonpost.es" title="huffingtonpost.es" description="" xmlUrl="https://www.huffingtonpost.es/feeds/index.xml" type="rss" />
 			<outline text="Euro Weekly News Spain" title="Euro Weekly News Spain" description="Spain News" xmlUrl="https://www.euroweeklynews.com/feed/" type="rss" />
-			<outline text="Agencia EFE | www.efe.com | English edition" title="Agencia EFE | www.efe.com | English edition" description="Breaking news from Agencia Efe. Reliable, trustworthy and easy. Information with EFE" xmlUrl="https://efe.com/feed/" type="rss" />
 		</outline>
 	</body>
 </opml>
