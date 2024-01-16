@@ -59,7 +59,7 @@ def create_readme(directory, template_file):
         readme_file.write(readme_content)
 
 
-directory_to_document = ""
+directory_to_document = os.path.dirname(__file__)
 
 template_file = "readme1.md"
 

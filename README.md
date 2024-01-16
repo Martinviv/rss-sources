@@ -890,8 +890,8 @@ Currently, the suggested sources for topics are primarily in English. However, y
 |-------|-----|
 | World News - Breaking News, Top Stories | [https://www.huffpost.com/section/world-news/feed](https://www.huffpost.com/section/world-news/feed) |
 | NYT > Top Stories | [https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml](https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml) |
-| FOX News | [http://feeds.foxnews.com/foxnews/latest](http://feeds.foxnews.com/foxnews/latest) |
-| World | [http://feeds.washingtonpost.com/rss/world](http://feeds.washingtonpost.com/rss/world) |
+| FOX News | [https://feeds.foxnews.com/foxnews/latest](https://feeds.foxnews.com/foxnews/latest) |
+| World | [https://feeds.washingtonpost.com/rss/world](https://feeds.washingtonpost.com/rss/world) |
 | WSJ.com: World News | [https://feeds.a.dj.com/rss/RSSWorldNews.xml](https://feeds.a.dj.com/rss/RSSWorldNews.xml) |
 | World and Nation | [https://www.latimes.com/world-nation/rss2.0.xml](https://www.latimes.com/world-nation/rss2.0.xml) |
 | CNN.com - RSS Channel - App International Edition | [http://rss.cnn.com/rss/edition.rss](http://rss.cnn.com/rss/edition.rss) |
