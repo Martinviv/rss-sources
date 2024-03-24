@@ -4,7 +4,7 @@
 	<body>
 		<outline text="UI / UX" title="UI / UX">
 			<outline text="Articles on Smashing Magazine — For Web Designers And Developers" title="Articles on Smashing Magazine — For Web Designers And Developers" description="Recent content in Articles on Smashing Magazine — For Web Designers And Developers" xmlUrl="https://www.smashingmagazine.com/feed" type="rss" />
-			<outline text="Boxes and Arrows" title="Boxes and Arrows" description="The design behind the design." xmlUrl="http://boxesandarrows.com/rss/" type="rss" />
+			<outline text="Boxes and Arrows" title="Boxes and Arrows" description="The design behind the design." xmlUrl="https://boxesandarrows.com/feed/" type="rss" />
 			<outline text="Designer News Feed" title="Designer News Feed" description="All of the stories from the frontpage of Designer News" xmlUrl="https://www.designernews.co/?format=rss" type="rss" />
 			<outline text="Inside Design" title="Inside Design" description="Thoughts on users, experience, and design" xmlUrl="https://www.invisionapp.com/inside-design/feed" type="rss" />
 			<outline text="JUST™ Creative" title="JUST™ Creative" description="Logo Designer, Graphic Designer, Graphic Design Portfolio, Logo Design, Logo, Graphic, Design, Graphic Design, Brand Strategy, Branding" xmlUrl="https://feeds.feedburner.com/JustCreativeDesignBlog" type="rss" />

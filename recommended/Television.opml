@@ -8,7 +8,7 @@
 			<outline text="TVLine" title="TVLine" description="TV News, Previews, Spoilers, Casting Scoop, Interviews" xmlUrl="https://tvline.com/feed/" type="rss" />
 			<outline text="Television News and Discussion" title="Television News and Discussion" description="‎" xmlUrl="https://reddit.com/r/television/.rss" type="rss" />
 			<outline text="The A.V. Club" title="The A.V. Club" description="Pop culture obsessives writing for the pop culture obsessed." xmlUrl="https://tv.avclub.com/rss" type="rss" />
-			<outline text="the TV addict" title="the TV addict" description="TV News, Previews, Spoilers and Reviews" xmlUrl="http://feeds.feedburner.com/thetvaddict/AXob" type="rss" />
+			<outline text="the TV addict" title="the TV addict" description="TV News, Previews, Spoilers and Reviews" xmlUrl="https://feeds.feedburner.com/thetvaddict/AXob" type="rss" />
 		</outline>
 	</body>
 </opml>

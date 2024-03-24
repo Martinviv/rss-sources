@@ -14,7 +14,6 @@
 			<outline text="Информационное агентство УНИАН" title="Информационное агентство УНИАН" description="Информационное агентство УНИАН :: Новости, Политика, Бизнес, Фотосервис, Регионы" xmlUrl="https://rss.unian.net/site/news_rus.rss" type="rss" />
 			<outline text="Еспресо - український погляд на світ!" title="Еспресо - український погляд на світ!" description="Новини України та світу" xmlUrl="https://espreso.tv/rss" type="rss" />
 			<outline text="Gazeta.ua" title="Gazeta.ua" description="Всеукраїнська он-лайн газета. Оперативні новини з України і світу: події, політика, спорт, культура" xmlUrl="https://gazeta.ua/rss" type="rss" />
-			<outline text="Вести.ua" title="Вести.ua" description="Вести Украина – это новостной медиа ресурс. Мы рассказываем обо всех событиях одними из первых и всегда честно." xmlUrl="https://vesti.ua/feeds/partners" type="rss" />
 		</outline>
 	</body>
 </opml>

@@ -16,9 +16,9 @@
 			<outline text="Jalopnik" title="Jalopnik" description="Kinja RSS" xmlUrl="https://jalopnik.com/rss" type="rss" />
 			<outline text="Latest Content - Car and Driver" title="Latest Content - Car and Driver" description="" xmlUrl="https://www.caranddriver.com/rss/all.xml/" type="rss" />
 			<outline text="Petrolicious" title="Petrolicious" description="Petrolicious is a leading automotive lifestyle brand providing world class short films and tasteful editorial around the world’s finest classic vehicles." xmlUrl="https://petrolicious.com/feed" type="rss" />
-			<outline text="Section Page News - Automotive News" title="Section Page News - Automotive News" description="Section Page news and features from Automotive News" xmlUrl="http://feeds.feedburner.com/autonews/AutomakerNews" type="rss" />
-			<outline text="Section Page News - Automotive News" title="Section Page News - Automotive News" description="Section Page news and features from Automotive News" xmlUrl="http://feeds.feedburner.com/autonews/EditorsPicks" type="rss" />
-			<outline text="Speedhunters" title="Speedhunters" description="Global Car Culture Since 2008" xmlUrl="http://feeds.feedburner.com/speedhunters" type="rss" />
+			<outline text="Section Page News - Automotive News" title="Section Page News - Automotive News" description="Section Page news and features from Automotive News" xmlUrl="https://feeds.feedburner.com/autonews/AutomakerNews" type="rss" />
+			<outline text="Section Page News - Automotive News" title="Section Page News - Automotive News" description="Section Page news and features from Automotive News" xmlUrl="https://feeds.feedburner.com/autonews/EditorsPicks" type="rss" />
+			<outline text="Speedhunters" title="Speedhunters" description="Global Car Culture Since 2008" xmlUrl="https://feeds.feedburner.com/speedhunters" type="rss" />
 			<outline text="The Truth About Cars" title="The Truth About Cars" description="The Truth About Cars is dedicated to providing candid, unbiased automobile reviews and the latest in auto industry news." xmlUrl="https://www.thetruthaboutcars.com/feed/" type="rss" />
 			<outline text="The best vintage and classic cars for sale online | Bring a Trailer" title="The best vintage and classic cars for sale online | Bring a Trailer" description="Barn finds, rally cars, and needles in the haystack." xmlUrl="https://bringatrailer.com/feed/" type="rss" />
 		</outline>

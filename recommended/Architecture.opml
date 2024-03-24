@@ -3,8 +3,8 @@
 	
 	<body>
 		<outline text="Architecture" title="Architecture">
-			<outline text="A Daily Dose of Architecture Books" title="A Daily Dose of Architecture Books" description="(Almost) daily reviews of architecture books" xmlUrl="http://feeds.feedburner.com/archidose" type="rss" />
-			<outline text="ArchDaily" title="ArchDaily" description="ArchDaily | Broadcasting Architecture Worldwide" xmlUrl="http://feeds.feedburner.com/Archdaily" type="rss" />
+			<outline text="A Daily Dose of Architecture Books" title="A Daily Dose of Architecture Books" description="(Almost) daily reviews of architecture books" xmlUrl="https://feeds.feedburner.com/archidose" type="rss" />
+			<outline text="ArchDaily" title="ArchDaily" description="ArchDaily | Broadcasting Architecture Worldwide" xmlUrl="https://feeds.feedburner.com/Archdaily" type="rss" />
 			<outline text="Archinect - News" title="Archinect - News" description="" xmlUrl="https://archinect.com/feed/1/news" type="rss" />
 			<outline text="Architectural Digest" title="Architectural Digest" description="The latest from www.architecturaldigest.com" xmlUrl="https://www.architecturaldigest.com/feed/rss" type="rss" />
 			<outline text="Architectural Digest" title="Architectural Digest" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=ArchitecturalDigest" type="rss" />

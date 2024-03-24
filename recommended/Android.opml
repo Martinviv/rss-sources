@@ -14,16 +14,16 @@ The Android Authority Podcast brings you all the top stories and features based 
 
 Check out androidauthority.com for all the best news and reviews for your favorite phones and tablets, then join our community forums to join in on the discussion. Don't forget to hit our YouTube channel for even more." xmlUrl="https://androidauthority.libsyn.com/rss" type="rss" />
 			<outline text="Android Central - Android Forums, News, Reviews, Help and Android Wallpapers" title="Android Central - Android Forums, News, Reviews, Help and Android Wallpapers" description="" xmlUrl="http://feeds.androidcentral.com/androidcentral" type="rss" />
-			<outline text="Android Central Podcast" title="Android Central Podcast" description="The Android and Google Podcast for Everyone. Hosted by Daniel Bader." xmlUrl="http://feeds.feedburner.com/AndroidCentralPodcast" type="rss" />
+			<outline text="Android Central Podcast" title="Android Central Podcast" description="The Android and Google Podcast for Everyone. Hosted by Daniel Bader." xmlUrl="https://feeds.feedburner.com/AndroidCentralPodcast" type="rss" />
 			<outline text="Android Community" title="Android Community" description="Android News, Reviews, and Apps" xmlUrl="https://androidcommunity.com/feed/" type="rss" />
-			<outline text="Android Police – Android news, reviews, apps, games, phones, tablets" title="Android Police – Android news, reviews, apps, games, phones, tablets" description="Looking after everything Android" xmlUrl="http://feeds.feedburner.com/AndroidPolice" type="rss" />
+			<outline text="Android Police – Android news, reviews, apps, games, phones, tablets" title="Android Police – Android news, reviews, apps, games, phones, tablets" description="Looking after everything Android" xmlUrl="https://feeds.feedburner.com/AndroidPolice" type="rss" />
 			<outline text="AndroidGuys" title="AndroidGuys" description="Android news and opinion" xmlUrl="https://www.androidguys.com/feed" type="rss" />
 			<outline text="Cult of Android" title="Cult of Android" description="Breaking news for Android fans" xmlUrl="https://www.cultofandroid.com/feed" type="rss" />
 			<outline text="Cyanogen Mods" title="Cyanogen Mods" description="Mod APK | GCam | LineageOS" xmlUrl="https://www.cyanogenmods.org/feed" type="rss" />
 			<outline text="Droid Life" title="Droid Life" description="Opinionated Android news." xmlUrl="https://www.droid-life.com/feed" type="rss" />
 			<outline text="GSMArena.com - Latest articles" title="GSMArena.com - Latest articles" description="GSMArena.com is the ultimate resource for GSM handset information. This feed contains the latest articles (news and reviews) in chronological order." xmlUrl="https://www.gsmarena.com/rss-news-reviews.php3" type="rss" />
-			<outline text="Phandroid" title="Phandroid" description="Android Phone News, Rumors, Reviews, Apps, Forums and More!" xmlUrl="http://feeds2.feedburner.com/AndroidPhoneFans" type="rss" />
-			<outline text="TalkAndroid" title="TalkAndroid" description="The latest in android news, rumours, and updates, including device news and apps!" xmlUrl="http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums" type="rss" />
+			<outline text="Phandroid" title="Phandroid" description="Android Phone News, Rumors, Reviews, Apps, Forums and More!" xmlUrl="https://feeds2.feedburner.com/AndroidPhoneFans" type="rss" />
+			<outline text="TalkAndroid" title="TalkAndroid" description="The latest in android news, rumours, and updates, including device news and apps!" xmlUrl="https://feeds.feedburner.com/AndroidNewsGoogleAndroidForums" type="rss" />
 			<outline text="xda-developers" title="xda-developers" description="Android and Windows Phone Development Community" xmlUrl="https://www.xda-developers.com/feed/" type="rss" />
 		</outline>
 	</body>

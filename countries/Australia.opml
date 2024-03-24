@@ -12,7 +12,7 @@
 			<outline text="PerthNow" title="PerthNow" description="PerthNow news" xmlUrl="https://www.perthnow.com.au/news/feed" type="rss" />
 			<outline text="The Canberra Times - Local News" title="The Canberra Times - Local News" description="Latest Canberra news, sport, football and business news from The Canberra Times." xmlUrl="https://www.canberratimes.com.au/rss.xml" type="rss" />
 			<outline text="Brisbane Times - Latest News" title="Brisbane Times - Latest News" description="The top News headlines from The Brisbane Times. For all the news, visit https://www.brisbanetimes.com.au/" xmlUrl="https://www.brisbanetimes.com.au/rss/feed.xml" type="rss" />
-			<outline text="Independent Australia" title="Independent Australia" description="Independent Australia News" xmlUrl="http://feeds.feedburner.com/IndependentAustralia" type="rss" />
+			<outline text="Independent Australia" title="Independent Australia" description="Independent Australia News" xmlUrl="https://feeds.feedburner.com/IndependentAustralia" type="rss" />
 			<outline text="Business News - Latest Headlines" title="Business News - Latest Headlines" description="Latest news headlines from Business News." xmlUrl="https://www.businessnews.com.au/rssfeed/latest.rss" type="rss" />
 			<outline text="InDaily" title="InDaily" description="" xmlUrl="https://indaily.com.au/feed/" type="rss" />
 			<outline text="The Mercury" title="The Mercury" description="Latest Hobart and Tasmania News | The Mercury" xmlUrl="https://www.themercury.com.au/rss" type="rss" />

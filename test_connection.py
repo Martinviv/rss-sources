@@ -55,7 +55,7 @@ def process_file(file_path, csv_writer):
 
 
 # Directory containing the XML files to process
-directory_path = 'countries'
+directory_path = 'recommended'
 
 # Get the list of XML files in the directory
 file_paths = glob.glob(directory_path + '/*.opml')

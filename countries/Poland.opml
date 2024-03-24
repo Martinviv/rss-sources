@@ -3,7 +3,7 @@
 	
 	<body>
 		<outline text="Poland" title="Poland">
-			<outline text="Najnowsze" title="Najnowsze" description="Nowoczesny portal ludzi myślących założony przez Jacka i Michała Karnowskich. Porządkujemy rzeczywistość, dociekamy prawdy, prowadzimy poważną debatę o Polsce." xmlUrl="http://feeds.feedburner.com/wPolitycepl" type="rss" />
+			<outline text="Najnowsze" title="Najnowsze" description="Nowoczesny portal ludzi myślących założony przez Jacka i Michała Karnowskich. Porządkujemy rzeczywistość, dociekamy prawdy, prowadzimy poważną debatę o Polsce." xmlUrl="https://feeds.feedburner.com/wPolitycepl" type="rss" />
 			<outline text="Newsweek Polska" title="Newsweek Polska" description="Wiadomości newsweek.pl" xmlUrl="https://www.newsweek.pl/rss.xml" type="rss" />
 			<outline text="Dziennik.pl Dziennik - dziennik.pl" title="Dziennik.pl Dziennik - dziennik.pl" description="" xmlUrl="http://rss.dziennik.pl/Dziennik-PL/" type="rss" />
 			<outline text="www.wirtualnemedia.pl" title="www.wirtualnemedia.pl" description="Newsy ze wszystkich działów" xmlUrl="https://www.wirtualnemedia.pl/rss/wirtualnemedia_rss.xml" type="rss" />

@@ -12,7 +12,7 @@
 			<outline text="RT - Daily news" title="RT - Daily news" description="RT : Today" xmlUrl="https://www.rt.com/rss/" type="rss" />
 			<outline text="Meduza.io" title="Meduza.io" description="Мы выбираем для вас самые важные новости и готовим лучшие тексты о том, что происходит в России и мире." xmlUrl="https://meduza.io/rss/all" type="rss" />
 			<outline text="Russia Insider Daily Headlines" title="Russia Insider Daily Headlines" description="" xmlUrl="https://russia-insider.com/en/all-content/rss" type="rss" />
-			<outline text="TASS" title="TASS" description="TASS News Agency" xmlUrl="http://tass.com/rss/v2.xml" type="rss" />
+			<outline text="TASS" title="TASS" description="TASS News Agency" xmlUrl="https://tass.com/rss/v2.xml" type="rss" />
 			<outline text="The Moscow Times - Independent News From Russia" title="The Moscow Times - Independent News From Russia" description="The Moscow Times offers everything you need to know about Russia: Breaking news, top stories, business, analysis, opinion, multimedia, upcoming cultural events" xmlUrl="https://www.themoscowtimes.com/rss/news" type="rss" />
 			<outline text="PravdaReport" title="PravdaReport" description="PravdaReport: Russian news and analysis" xmlUrl="https://www.pravdareport.com/export.xml" type="rss" />
 		</outline>
