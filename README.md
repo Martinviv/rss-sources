@@ -17,7 +17,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Title | URL |
 |-------|-----|
 | Articles on Smashing Magazine — For Web Designers And Developers | [https://www.smashingmagazine.com/feed](https://www.smashingmagazine.com/feed) |
-| Boxes and Arrows | [http://boxesandarrows.com/rss/](http://boxesandarrows.com/rss/) |
+| Boxes and Arrows | [https://boxesandarrows.com/feed/](https://boxesandarrows.com/feed/) |
 | Designer News Feed | [https://www.designernews.co/?format=rss](https://www.designernews.co/?format=rss) |
 | Inside Design | [https://www.invisionapp.com/inside-design/feed](https://www.invisionapp.com/inside-design/feed) |
 | JUST™ Creative | [https://feeds.feedburner.com/JustCreativeDesignBlog](https://feeds.feedburner.com/JustCreativeDesignBlog) |
@@ -33,21 +33,21 @@ Currently, the suggested sources for topics are primarily in English. However, y
 |-------|-----|
 | Better Living Through Design | [https://www.betterlivingthroughdesign.com/feed/](https://www.betterlivingthroughdesign.com/feed/) |
 | Blog - decor8 | [https://www.decor8blog.com/blog?format=rss](https://www.decor8blog.com/blog?format=rss) |
-| Core77 | [http://feeds.feedburner.com/core77/blog](http://feeds.feedburner.com/core77/blog) |
+| Core77 | [https://feeds.feedburner.com/core77/blog](https://feeds.feedburner.com/core77/blog) |
 | Design MilkInterior Design – Design Milk | [https://design-milk.com/category/interior-design/feed/](https://design-milk.com/category/interior-design/feed/) |
-| Fubiz Media | [http://feeds.feedburner.com/fubiz](http://feeds.feedburner.com/fubiz) |
+| Fubiz Media | [https://feeds.feedburner.com/fubiz](https://feeds.feedburner.com/fubiz) |
 | Ideal Home | [https://www.idealhome.co.uk/feed](https://www.idealhome.co.uk/feed) |
 | In My Own Style | [https://inmyownstyle.com/feed](https://inmyownstyle.com/feed) |
 | Interior Design (Interior Architecture) | [https://www.reddit.com/r/InteriorDesign/.rss](https://www.reddit.com/r/InteriorDesign/.rss) |
-| Interior Design Ideas | [http://www.home-designing.com/feed](http://www.home-designing.com/feed) |
+| Interior Design Ideas | [https://www.home-designing.com/feed](https://www.home-designing.com/feed) |
 | Interior Design Latest | [https://www.interiordesign.net/rss/](https://www.interiordesign.net/rss/) |
 | Interiors – Dezeen | [https://www.dezeen.com/interiors/feed/](https://www.dezeen.com/interiors/feed/) |
 | Liz Marie Blog | [https://www.lizmarieblog.com/feed/](https://www.lizmarieblog.com/feed/) |
 | The Design Files \| Australia's most popular design blog.The Design Files \| Australia's most popular design blog. | [https://thedesignfiles.net/feed/](https://thedesignfiles.net/feed/) |
 | The Inspired Room | [https://theinspiredroom.net/feed/](https://theinspiredroom.net/feed/) |
-| Thrifty Decor Chick | [http://feeds.feedburner.com/blogspot/ZBcZ](http://feeds.feedburner.com/blogspot/ZBcZ) |
+| Thrifty Decor Chick | [https://feeds.feedburner.com/blogspot/ZBcZ](https://feeds.feedburner.com/blogspot/ZBcZ) |
 | Trendir | [https://www.trendir.com/feed/](https://www.trendir.com/feed/) |
-| Yanko Design | [http://feeds.feedburner.com/yankodesign](http://feeds.feedburner.com/yankodesign) |
+| Yanko Design | [https://feeds.feedburner.com/yankodesign](https://feeds.feedburner.com/yankodesign) |
 | Yatzer RSS Feed | [https://www.yatzer.com/rss.xml](https://www.yatzer.com/rss.xml) |
 | Young House Love | [https://www.younghouselove.com/feed/](https://www.younghouselove.com/feed/) |
 | decoist | [https://www.decoist.com/feed/](https://www.decoist.com/feed/) |
@@ -61,15 +61,15 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Eurogamer.net | [https://www.eurogamer.net/?format=rss](https://www.eurogamer.net/?format=rss) |
 | Game Developer | [https://www.gamedeveloper.com/rss.xml](https://www.gamedeveloper.com/rss.xml) |
 | GameSpot - All Content | [https://www.gamespot.com/feeds/mashup/](https://www.gamespot.com/feeds/mashup/) |
-| IGN All | [http://feeds.ign.com/ign/all](http://feeds.ign.com/ign/all) |
+| IGN All | [https://www.ign.com/rss/articles/feed](https://www.ign.com/rss/articles/feed) |
 | Indie Games Plus | [https://indiegamesplus.com/feed](https://indiegamesplus.com/feed) |
 | Kotaku | [https://kotaku.com/rss](https://kotaku.com/rss) |
 | Makeup and Beauty Blog \| Makeup Reviews, Swatches and How-To Makeup | [https://www.makeupandbeautyblog.com/feed/](https://www.makeupandbeautyblog.com/feed/) |
-| PlayStation.Blog | [http://feeds.feedburner.com/psblog](http://feeds.feedburner.com/psblog) |
+| PlayStation.Blog | [https://feeds.feedburner.com/psblog](https://feeds.feedburner.com/psblog) |
 | Polygon -  All | [https://www.polygon.com/rss/index.xml](https://www.polygon.com/rss/index.xml) |
-| Rock, Paper, Shotgun | [http://feeds.feedburner.com/RockPaperShotgun](http://feeds.feedburner.com/RockPaperShotgun) |
+| Rock, Paper, Shotgun | [https://feeds.feedburner.com/RockPaperShotgun](https://feeds.feedburner.com/RockPaperShotgun) |
 | Steam RSS News Feed | [https://store.steampowered.com/feeds/news.xml](https://store.steampowered.com/feeds/news.xml) |
-| The Ancient Gaming Noob | [http://feeds.feedburner.com/TheAncientGamingNoob](http://feeds.feedburner.com/TheAncientGamingNoob) |
+| The Ancient Gaming Noob | [https://feeds.feedburner.com/TheAncientGamingNoob](https://feeds.feedburner.com/TheAncientGamingNoob) |
 | TouchArcade - iPhone, iPad, Android Games Forum | [https://toucharcade.com/community/forums/-/index.rss](https://toucharcade.com/community/forums/-/index.rss) |
 | Xbox's Major Nelson | [https://majornelson.com/feed/](https://majornelson.com/feed/) |
 | r/gaming | [https://www.reddit.com/r/gaming.rss](https://www.reddit.com/r/gaming.rss) |
@@ -105,12 +105,12 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Title | URL |
 |-------|-----|
 | Billboard | [https://www.billboard.com/feed/](https://www.billboard.com/feed/) |
-| Consequence | [http://consequenceofsound.net/feed](http://consequenceofsound.net/feed) |
+| Consequence | [https://consequence.net/feed/](https://consequence.net/feed/) |
 | EDM.com - The Latest Electronic Dance Music News, Reviews and Artists | [https://edm.com/.rss/full/](https://edm.com/.rss/full/) |
-| Metal Injection | [http://feeds.feedburner.com/metalinjection](http://feeds.feedburner.com/metalinjection) |
+| Metal Injection | [https://feeds.feedburner.com/metalinjection](https://feeds.feedburner.com/metalinjection) |
 | Music Business Worldwide | [https://www.musicbusinessworldwide.com/feed/](https://www.musicbusinessworldwide.com/feed/) |
-| RSS: News | [http://pitchfork.com/rss/news](http://pitchfork.com/rss/news) |
-| Song Exploder | [http://songexploder.net/feed](http://songexploder.net/feed) |
+| RSS: News | [https://pitchfork.com/rss/news](https://pitchfork.com/rss/news) |
+| Song Exploder | [https://songexploder.net/feed](https://songexploder.net/feed) |
 | Your EDM | [https://www.youredm.com/feed](https://www.youredm.com/feed) |
 ### [Startups](recommended/Startups.opml)
 
@@ -118,7 +118,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 |-------|-----|
 | AVC | [https://avc.com/feed/](https://avc.com/feed/) |
 | Both Sides of the Table - Medium | [https://bothsidesofthetable.com/feed](https://bothsidesofthetable.com/feed) |
-| Entrepreneur | [http://feeds.feedburner.com/entrepreneur/latest](http://feeds.feedburner.com/entrepreneur/latest) |
+| Entrepreneur | [https://feeds.feedburner.com/entrepreneur/latest](https://feeds.feedburner.com/entrepreneur/latest) |
 | Feld Thoughts | [https://feld.com/feed](https://feld.com/feed) |
 | Forbes - Entrepreneurs | [https://www.forbes.com/entrepreneurs/feed/](https://www.forbes.com/entrepreneurs/feed/) |
 | GaryVee | [https://www.youtube.com/feeds/videos.xml?user=GaryVaynerchuk](https://www.youtube.com/feeds/videos.xml?user=GaryVaynerchuk) |
@@ -129,11 +129,11 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Paul Graham: Essays | [http://www.aaronsw.com/2002/feeds/pgessays.rss](http://www.aaronsw.com/2002/feeds/pgessays.rss) |
 | Product Hunt — The best new products, every day | [https://www.producthunt.com/feed](https://www.producthunt.com/feed) |
 | Quick Sprout | [https://www.quicksprout.com/rss](https://www.quicksprout.com/rss) |
-| Smart Passive Income | [http://feeds.feedburner.com/smartpassiveincome](http://feeds.feedburner.com/smartpassiveincome) |
+| Smart Passive Income | [https://feeds.feedburner.com/smartpassiveincome](https://feeds.feedburner.com/smartpassiveincome) |
 | Springwise | [https://www.springwise.com/feed](https://www.springwise.com/feed) |
 | Steve Blank | [https://steveblank.com/feed/](https://steveblank.com/feed/) |
 | The Startup Junkies Podcast | [https://startupjunkie.libsyn.com/rss](https://startupjunkie.libsyn.com/rss) |
-| This Week in Startups - Video | [http://feeds.feedburner.com/twistvid](http://feeds.feedburner.com/twistvid) |
+| This Week in Startups - Video | [https://feeds.feedburner.com/twistvid](https://feeds.feedburner.com/twistvid) |
 | VentureBeat | [https://feeds.feedburner.com/venturebeat/SZYF](https://feeds.feedburner.com/venturebeat/SZYF) |
 | blog – Feld Thoughts | [https://feld.com/archives/tag/blog/feed](https://feld.com/archives/tag/blog/feed) |
 ### [Tech](recommended/Tech.opml)
@@ -142,7 +142,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 |-------|-----|
 | Accidental Tech Podcast | [https://atp.fm/rss](https://atp.fm/rss) |
 | Analog(ue) | [https://www.relay.fm/analogue/feed](https://www.relay.fm/analogue/feed) |
-| Ars Technica | [http://feeds.arstechnica.com/arstechnica/index](http://feeds.arstechnica.com/arstechnica/index) |
+| Ars Technica | [https://feeds.arstechnica.com/arstechnica/index](https://feeds.arstechnica.com/arstechnica/index) |
 | CNET | [https://www.youtube.com/feeds/videos.xml?user=CNETTV](https://www.youtube.com/feeds/videos.xml?user=CNETTV) |
 | CNET News | [https://www.cnet.com/rss/news/](https://www.cnet.com/rss/news/) |
 | Clockwise | [https://www.relay.fm/clockwise/feed](https://www.relay.fm/clockwise/feed) |
@@ -155,8 +155,8 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | ReadWrite | [https://readwrite.com/feed/](https://readwrite.com/feed/) |
 | Rocket | [https://www.relay.fm/rocket/feed](https://www.relay.fm/rocket/feed) |
 | Slashdot | [https://rss.slashdot.org/Slashdot/slashdotMain](https://rss.slashdot.org/Slashdot/slashdotMain) |
-| Stratechery by Ben Thompson | [http://stratechery.com/feed/](http://stratechery.com/feed/) |
-| TechCrunch | [http://feeds.feedburner.com/TechCrunch](http://feeds.feedburner.com/TechCrunch) |
+| Stratechery by Ben Thompson | [https://stratechery.com/feed/](https://stratechery.com/feed/) |
+| TechCrunch | [https://feeds.feedburner.com/TechCrunch](https://feeds.feedburner.com/TechCrunch) |
 | The Keyword | [https://www.blog.google/rss/](https://www.blog.google/rss/) |
 | The Next Web | [https://thenextweb.com/feed/](https://thenextweb.com/feed/) |
 | The Verge | [https://www.youtube.com/feeds/videos.xml?user=TheVerge](https://www.youtube.com/feeds/videos.xml?user=TheVerge) |
@@ -197,7 +197,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | How-To Geek | [https://www.howtogeek.com/feed/](https://www.howtogeek.com/feed/) |
 | IKEA Hackers | [https://www.ikeahackers.net/feed](https://www.ikeahackers.net/feed) |
 | MUO - Feed | [https://www.makeuseof.com/feed/](https://www.makeuseof.com/feed/) |
-| Oh Happy Day! | [http://ohhappyday.com/feed/](http://ohhappyday.com/feed/) |
+| Oh Happy Day! | [https://ohhappyday.com/feed/](https://ohhappyday.com/feed/) |
 | WonderHowTo | [https://www.wonderhowto.com/rss.xml](https://www.wonderhowto.com/rss.xml) |
 ### [Cars](recommended/Cars.opml)
 
@@ -216,9 +216,9 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Jalopnik | [https://jalopnik.com/rss](https://jalopnik.com/rss) |
 | Latest Content - Car and Driver | [https://www.caranddriver.com/rss/all.xml/](https://www.caranddriver.com/rss/all.xml/) |
 | Petrolicious | [https://petrolicious.com/feed](https://petrolicious.com/feed) |
-| Section Page News - Automotive News | [http://feeds.feedburner.com/autonews/AutomakerNews](http://feeds.feedburner.com/autonews/AutomakerNews) |
-| Section Page News - Automotive News | [http://feeds.feedburner.com/autonews/EditorsPicks](http://feeds.feedburner.com/autonews/EditorsPicks) |
-| Speedhunters | [http://feeds.feedburner.com/speedhunters](http://feeds.feedburner.com/speedhunters) |
+| Section Page News - Automotive News | [https://feeds.feedburner.com/autonews/AutomakerNews](https://feeds.feedburner.com/autonews/AutomakerNews) |
+| Section Page News - Automotive News | [https://feeds.feedburner.com/autonews/EditorsPicks](https://feeds.feedburner.com/autonews/EditorsPicks) |
+| Speedhunters | [https://feeds.feedburner.com/speedhunters](https://feeds.feedburner.com/speedhunters) |
 | The Truth About Cars | [https://www.thetruthaboutcars.com/feed/](https://www.thetruthaboutcars.com/feed/) |
 | The best vintage and classic cars for sale online \| Bring a Trailer | [https://bringatrailer.com/feed/](https://bringatrailer.com/feed/) |
 ### [Books](recommended/Books.opml)
@@ -258,7 +258,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | 30 For 30 Podcasts | [https://feeds.megaphone.fm/ESP5765452710](https://feeds.megaphone.fm/ESP5765452710) |
 | Dan Carlin's Hardcore History | [https://feeds.feedburner.com/dancarlin/history?format=xml](https://feeds.feedburner.com/dancarlin/history?format=xml) |
 | History in 28-minutes | [https://www.historyisnowmagazine.com/blog?format=RSS](https://www.historyisnowmagazine.com/blog?format=RSS) |
-| HistoryNet | [http://www.historynet.com/feed](http://www.historynet.com/feed) |
+| HistoryNet | [https://www.historynet.com/feed/?r](https://www.historynet.com/feed/?r) |
 | Lore | [https://feeds.megaphone.fm/lore](https://feeds.megaphone.fm/lore) |
 | Revisionist History | [https://feeds.megaphone.fm/revisionisthistory](https://feeds.megaphone.fm/revisionisthistory) |
 | The History Reader | [https://www.thehistoryreader.com/feed/](https://www.thehistoryreader.com/feed/) |
@@ -272,10 +272,10 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | BBC News - World | [https://feeds.bbci.co.uk/news/world/rss.xml](https://feeds.bbci.co.uk/news/world/rss.xml) |
 | CNN.com - RSS Channel - World | [http://rss.cnn.com/rss/edition_world.rss](http://rss.cnn.com/rss/edition_world.rss) |
 | International: Top News And Analysis | [https://www.cnbc.com/id/100727362/device/rss/rss.html](https://www.cnbc.com/id/100727362/device/rss/rss.html) |
-| NDTV News - World-news | [http://feeds.feedburner.com/ndtvnews-world-news](http://feeds.feedburner.com/ndtvnews-world-news) |
+| NDTV News - World-news | [https://feeds.feedburner.com/ndtvnews-world-news](https://feeds.feedburner.com/ndtvnews-world-news) |
 | NYT > World News | [https://rss.nytimes.com/services/xml/rss/nyt/World.xml](https://rss.nytimes.com/services/xml/rss/nyt/World.xml) |
 | Top stories - Google News | [https://news.google.com/rss](https://news.google.com/rss) |
-| World | [http://feeds.washingtonpost.com/rss/world](http://feeds.washingtonpost.com/rss/world) |
+| World | [https://feeds.washingtonpost.com/rss/world](https://feeds.washingtonpost.com/rss/world) |
 | World News | [https://www.reddit.com/r/worldnews/.rss](https://www.reddit.com/r/worldnews/.rss) |
 | World News Headlines, Latest International News, World Breaking News - Times of India | [https://timesofindia.indiatimes.com/rssfeeds/296589292.cms](https://timesofindia.indiatimes.com/rssfeeds/296589292.cms) |
 | World news \| The Guardian | [https://www.theguardian.com/world/rss](https://www.theguardian.com/world/rss) |
@@ -290,9 +290,9 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Digital Photography School | [https://feeds.feedburner.com/DigitalPhotographySchool](https://feeds.feedburner.com/DigitalPhotographySchool) |
 | Light Stalking | [https://www.lightstalking.com/feed/](https://www.lightstalking.com/feed/) |
 | Lightroom Killer Tips | [https://lightroomkillertips.com/feed/](https://lightroomkillertips.com/feed/) |
-| One Big Photo | [http://feeds.feedburner.com/OneBigPhoto](http://feeds.feedburner.com/OneBigPhoto) |
+| One Big Photo | [https://feeds.feedburner.com/OneBigPhoto](https://feeds.feedburner.com/OneBigPhoto) |
 | PetaPixel | [https://petapixel.com/feed/](https://petapixel.com/feed/) |
-| Strobist | [http://feeds.feedburner.com/blogspot/WOBq](http://feeds.feedburner.com/blogspot/WOBq) |
+| Strobist | [https://feeds.feedburner.com/blogspot/WOBq](https://feeds.feedburner.com/blogspot/WOBq) |
 | Stuck in Customs | [https://stuckincustoms.com/feed/](https://stuckincustoms.com/feed/) |
 | The Sartorialist | [https://feeds.feedburner.com/TheSartorialist](https://feeds.feedburner.com/TheSartorialist) |
 ### [Cricket](recommended/Cricket.opml)
@@ -300,15 +300,15 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Title | URL |
 |-------|-----|
 | BBC Sport - Cricket | [https://feeds.bbci.co.uk/sport/cricket/rss.xml](https://feeds.bbci.co.uk/sport/cricket/rss.xml) |
-| Can't Bowl Can't Throw Cricket Show | [http://feeds.feedburner.com/cantbowlcantthrow](http://feeds.feedburner.com/cantbowlcantthrow) |
+| Can't Bowl Can't Throw Cricket Show | [https://feeds.feedburner.com/cantbowlcantthrow](https://feeds.feedburner.com/cantbowlcantthrow) |
 | Cricbuzz | [https://www.youtube.com/feeds/videos.xml?channel_id=UCSRQXk5yErn4e14vN76upOw](https://www.youtube.com/feeds/videos.xml?channel_id=UCSRQXk5yErn4e14vN76upOw) |
 | Cricket | [https://www.reddit.com/r/Cricket/.rss](https://www.reddit.com/r/Cricket/.rss) |
 | Cricket Unfiltered | [https://rss.acast.com/cricket-unfiltered](https://rss.acast.com/cricket-unfiltered) |
-| Cricket news from ESPN Cricinfo.com | [http://www.espncricinfo.com/rss/content/story/feeds/0.xml](http://www.espncricinfo.com/rss/content/story/feeds/0.xml) |
+| Cricket news from ESPN Cricinfo.com | [https://www.espncricinfo.com/rss/content/story/feeds/0.xml](https://www.espncricinfo.com/rss/content/story/feeds/0.xml) |
 | Cricket \| The Guardian | [https://www.theguardian.com/sport/cricket/rss](https://www.theguardian.com/sport/cricket/rss) |
 | Cricket – The Roar | [https://www.theroar.com.au/cricket/feed/](https://www.theroar.com.au/cricket/feed/) |
 | England and Wales Cricket Board | [https://www.youtube.com/feeds/videos.xml?user=ecbcricket](https://www.youtube.com/feeds/videos.xml?user=ecbcricket) |
-| NDTV Sports - Cricket | [http://feeds.feedburner.com/ndtvsports-cricket](http://feeds.feedburner.com/ndtvsports-cricket) |
+| NDTV Sports - Cricket | [https://feeds.feedburner.com/ndtvsports-cricket](https://feeds.feedburner.com/ndtvsports-cricket) |
 | Pakistan Cricket | [https://www.youtube.com/feeds/videos.xml?channel_id=UCiWrjBhlICf_L_RK5y6Vrxw](https://www.youtube.com/feeds/videos.xml?channel_id=UCiWrjBhlICf_L_RK5y6Vrxw) |
 | Sky Sports Cricket Podcast | [https://www.spreaker.com/show/3387348/episodes/feed](https://www.spreaker.com/show/3387348/episodes/feed) |
 | Sri Lanka Cricket | [https://www.youtube.com/feeds/videos.xml?user=TheOfficialSLC](https://www.youtube.com/feeds/videos.xml?user=TheOfficialSLC) |
@@ -316,7 +316,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Switch Hit Podcast | [https://feeds.megaphone.fm/ESP9247246951](https://feeds.megaphone.fm/ESP9247246951) |
 | Tailenders | [https://podcasts.files.bbci.co.uk/p02pcb4w.rss](https://podcasts.files.bbci.co.uk/p02pcb4w.rss) |
 | Test Match Special | [https://podcasts.files.bbci.co.uk/p02nrsl2.rss](https://podcasts.files.bbci.co.uk/p02nrsl2.rss) |
-| The Analyst Inside Cricket | [http://rss.acast.com/theanalystinsidecricket](http://rss.acast.com/theanalystinsidecricket) |
+| The Analyst Inside Cricket | [https://feeds.megaphone.fm/COMG5373347098](https://feeds.megaphone.fm/COMG5373347098) |
 | The Grade Cricketer | [https://rss.whooshkaa.com/rss/podcast/id/1308](https://rss.whooshkaa.com/rss/podcast/id/1308) |
 | Wisden | [https://www.wisden.com/feed](https://www.wisden.com/feed) |
 | Wisden Cricket Weekly | [https://feeds.megaphone.fm/COMG4211358924](https://feeds.megaphone.fm/COMG4211358924) |
@@ -330,7 +330,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | TVLine | [https://tvline.com/feed/](https://tvline.com/feed/) |
 | Television News and Discussion | [https://reddit.com/r/television/.rss](https://reddit.com/r/television/.rss) |
 | The A.V. Club | [https://tv.avclub.com/rss](https://tv.avclub.com/rss) |
-| the TV addict | [http://feeds.feedburner.com/thetvaddict/AXob](http://feeds.feedburner.com/thetvaddict/AXob) |
+| the TV addict | [https://feeds.feedburner.com/thetvaddict/AXob](https://feeds.feedburner.com/thetvaddict/AXob) |
 ### [Science](recommended/Science.opml)
 
 | Title | URL |
@@ -347,24 +347,24 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Nature | [https://www.nature.com/nature.rss](https://www.nature.com/nature.rss) |
 | Phys.org - latest science and technology news stories | [https://phys.org/rss-feed/](https://phys.org/rss-feed/) |
 | Probably Science | [https://probablyscience.libsyn.com/rss](https://probablyscience.libsyn.com/rss) |
-| Radiolab | [http://feeds.wnyc.org/radiolab](http://feeds.wnyc.org/radiolab) |
+| Radiolab | [https://feeds.simplecast.com/EmVW7VGp](https://feeds.simplecast.com/EmVW7VGp) |
 | Reddit Science | [https://reddit.com/r/science/.rss](https://reddit.com/r/science/.rss) |
 | Sawbones: A Marital Tour of Misguided Medicine | [https://feeds.simplecast.com/y1LF_sn2](https://feeds.simplecast.com/y1LF_sn2) |
 | Science Latest | [https://www.wired.com/feed/category/science/latest/rss](https://www.wired.com/feed/category/science/latest/rss) |
-| Science Vs | [http://feeds.gimletmedia.com/ScienceVs](http://feeds.gimletmedia.com/ScienceVs) |
+| Science Vs | [https://feeds.megaphone.fm/sciencevs](https://feeds.megaphone.fm/sciencevs) |
 | Science-Based Medicine | [https://sciencebasedmedicine.org/feed/](https://sciencebasedmedicine.org/feed/) |
 | Scientific American Content: Global | [http://rss.sciam.com/ScientificAmerican-Global](http://rss.sciam.com/ScientificAmerican-Global) |
 | Shirtloads of Science | [https://shirtloadsofscience.libsyn.com/rss](https://shirtloadsofscience.libsyn.com/rss) |
 | TED Talks Daily (SD video) | [https://pa.tedcdn.com/feeds/talks.rss](https://pa.tedcdn.com/feeds/talks.rss) |
 | The Infinite Monkey Cage | [https://podcasts.files.bbci.co.uk/b00snr0w.rss](https://podcasts.files.bbci.co.uk/b00snr0w.rss) |
-| This Week in Science – The Kickass Science Podcast | [http://www.twis.org/feed/](http://www.twis.org/feed/) |
+| This Week in Science – The Kickass Science Podcast | [https://www.twis.org/feed/](https://www.twis.org/feed/) |
 ### [Sports](recommended/Sports.opml)
 
 | Title | URL |
 |-------|-----|
 | BBC Sport - Sport | [https://feeds.bbci.co.uk/sport/rss.xml](https://feeds.bbci.co.uk/sport/rss.xml) |
 | Reddit Sports | [https://www.reddit.com/r/sports.rss](https://www.reddit.com/r/sports.rss) |
-| Sports News - Latest Sports and Football News \| Sky News | [http://feeds.skynews.com/feeds/rss/sports.xml](http://feeds.skynews.com/feeds/rss/sports.xml) |
+| Sports News - Latest Sports and Football News \| Sky News | [https://feeds.skynews.com/feeds/rss/sports.xml](https://feeds.skynews.com/feeds/rss/sports.xml) |
 | Sportskeeda | [https://www.sportskeeda.com/feed](https://www.sportskeeda.com/feed) |
 | Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games | [https://sports.yahoo.com/rss/](https://sports.yahoo.com/rss/) |
 | www.espn.com - TOP | [https://www.espn.com/espn/rss/news](https://www.espn.com/espn/rss/news) |
@@ -399,23 +399,23 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Android Authority | [https://www.youtube.com/feeds/videos.xml?user=AndroidAuthority](https://www.youtube.com/feeds/videos.xml?user=AndroidAuthority) |
 | Android Authority Podcast | [https://androidauthority.libsyn.com/rss](https://androidauthority.libsyn.com/rss) |
 | Android Central - Android Forums, News, Reviews, Help and Android Wallpapers | [http://feeds.androidcentral.com/androidcentral](http://feeds.androidcentral.com/androidcentral) |
-| Android Central Podcast | [http://feeds.feedburner.com/AndroidCentralPodcast](http://feeds.feedburner.com/AndroidCentralPodcast) |
+| Android Central Podcast | [https://feeds.feedburner.com/AndroidCentralPodcast](https://feeds.feedburner.com/AndroidCentralPodcast) |
 | Android Community | [https://androidcommunity.com/feed/](https://androidcommunity.com/feed/) |
-| Android Police – Android news, reviews, apps, games, phones, tablets | [http://feeds.feedburner.com/AndroidPolice](http://feeds.feedburner.com/AndroidPolice) |
+| Android Police – Android news, reviews, apps, games, phones, tablets | [https://feeds.feedburner.com/AndroidPolice](https://feeds.feedburner.com/AndroidPolice) |
 | AndroidGuys | [https://www.androidguys.com/feed](https://www.androidguys.com/feed) |
 | Cult of Android | [https://www.cultofandroid.com/feed](https://www.cultofandroid.com/feed) |
 | Cyanogen Mods | [https://www.cyanogenmods.org/feed](https://www.cyanogenmods.org/feed) |
 | Droid Life | [https://www.droid-life.com/feed](https://www.droid-life.com/feed) |
 | GSMArena.com - Latest articles | [https://www.gsmarena.com/rss-news-reviews.php3](https://www.gsmarena.com/rss-news-reviews.php3) |
-| Phandroid | [http://feeds2.feedburner.com/AndroidPhoneFans](http://feeds2.feedburner.com/AndroidPhoneFans) |
-| TalkAndroid | [http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums](http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums) |
+| Phandroid | [https://feeds2.feedburner.com/AndroidPhoneFans](https://feeds2.feedburner.com/AndroidPhoneFans) |
+| TalkAndroid | [https://feeds.feedburner.com/AndroidNewsGoogleAndroidForums](https://feeds.feedburner.com/AndroidNewsGoogleAndroidForums) |
 | xda-developers | [https://www.xda-developers.com/feed/](https://www.xda-developers.com/feed/) |
 ### [Architecture](recommended/Architecture.opml)
 
 | Title | URL |
 |-------|-----|
-| A Daily Dose of Architecture Books | [http://feeds.feedburner.com/archidose](http://feeds.feedburner.com/archidose) |
-| ArchDaily | [http://feeds.feedburner.com/Archdaily](http://feeds.feedburner.com/Archdaily) |
+| A Daily Dose of Architecture Books | [https://feeds.feedburner.com/archidose](https://feeds.feedburner.com/archidose) |
+| ArchDaily | [https://feeds.feedburner.com/Archdaily](https://feeds.feedburner.com/Archdaily) |
 | Archinect - News | [https://archinect.com/feed/1/news](https://archinect.com/feed/1/news) |
 | Architectural Digest | [https://www.architecturaldigest.com/feed/rss](https://www.architecturaldigest.com/feed/rss) |
 | Architectural Digest | [https://www.youtube.com/feeds/videos.xml?user=ArchitecturalDigest](https://www.youtube.com/feeds/videos.xml?user=ArchitecturalDigest) |
@@ -444,7 +444,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Home Page | [https://www.business-standard.com/rss/home_page_top_stories.rss](https://www.business-standard.com/rss/home_page_top_stories.rss) |
 | Startup Stories - Mixergy | [https://feeds.feedburner.com/Mixergy-main-podcast](https://feeds.feedburner.com/Mixergy-main-podcast) |
 | The Blog of Author Tim Ferriss | [https://tim.blog/feed/](https://tim.blog/feed/) |
-| The Growth Show | [http://thegrowthshow.hubspot.libsynpro.com/](http://thegrowthshow.hubspot.libsynpro.com/) |
+| The Growth Show | [https://feeds.megaphone.fm/HS8360247339](https://feeds.megaphone.fm/HS8360247339) |
 | US Top News and Analysis | [https://www.cnbc.com/id/100003114/device/rss/rss.html](https://www.cnbc.com/id/100003114/device/rss/rss.html) |
 | Yahoo Finance | [https://finance.yahoo.com/news/rssindex](https://finance.yahoo.com/news/rssindex) |
 ### [Beauty](recommended/Beauty.opml)
@@ -454,7 +454,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Beauty - ELLE | [https://www.elle.com/rss/beauty.xml/](https://www.elle.com/rss/beauty.xml/) |
 | Beauty - Fashionista | [https://fashionista.com/.rss/excerpt/beauty](https://fashionista.com/.rss/excerpt/beauty) |
 | Blog – The Beauty Brains | [https://thebeautybrains.com/blog/feed/](https://thebeautybrains.com/blog/feed/) |
-| From Head To Toe | [http://feeds.feedburner.com/frmheadtotoe](http://feeds.feedburner.com/frmheadtotoe) |
+| From Head To Toe | [https://feeds.feedburner.com/frmheadtotoe](https://feeds.feedburner.com/frmheadtotoe) |
 | Into The Gloss - Beauty Tips, Trends, And Product Reviews | [https://feeds.feedburner.com/intothegloss/oqoU](https://feeds.feedburner.com/intothegloss/oqoU) |
 | POPSUGAR Beauty | [https://www.popsugar.com/beauty/feed](https://www.popsugar.com/beauty/feed) |
 | Refinery29 | [https://www.refinery29.com/beauty/rss.xml](https://www.refinery29.com/beauty/rss.xml) |
@@ -479,14 +479,14 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Cult of Mac | [https://www.cultofmac.com/feed](https://www.cultofmac.com/feed) |
 | Daring Fireball | [https://daringfireball.net/feeds/main](https://daringfireball.net/feeds/main) |
 | MacRumors | [https://www.youtube.com/feeds/videos.xml?user=macrumors](https://www.youtube.com/feeds/videos.xml?user=macrumors) |
-| MacRumors: Mac News and Rumors - Mac Blog | [http://feeds.macrumors.com/MacRumors-Mac](http://feeds.macrumors.com/MacRumors-Mac) |
+| MacRumors: Mac News and Rumors - Mac Blog | [https://feeds.macrumors.com/MacRumors-Mac](https://feeds.macrumors.com/MacRumors-Mac) |
 | MacStories | [https://www.macstories.net/feed](https://www.macstories.net/feed) |
 | Macworld.com | [https://www.macworld.com/index.rss](https://www.macworld.com/index.rss) |
 | Marco.org | [https://marco.org/rss](https://marco.org/rss) |
-| OS X Daily | [http://feeds.feedburner.com/osxdaily](http://feeds.feedburner.com/osxdaily) |
+| OS X Daily | [https://feeds.feedburner.com/osxdaily](https://feeds.feedburner.com/osxdaily) |
 | The Loop | [https://www.loopinsight.com/feed](https://www.loopinsight.com/feed) |
 | The unofficial Apple community | [https://www.reddit.com/r/apple/.rss](https://www.reddit.com/r/apple/.rss) |
-| iMore - The #1 iPhone, iPad, and iPod touch blog | [http://feeds.feedburner.com/TheiPhoneBlog](http://feeds.feedburner.com/TheiPhoneBlog) |
+| iMore - The #1 iPhone, iPad, and iPod touch blog | [https://feeds.feedburner.com/TheiPhoneBlog](https://feeds.feedburner.com/TheiPhoneBlog) |
 | r/iPhone | [https://www.reddit.com/r/iphone/.rss](https://www.reddit.com/r/iphone/.rss) |
 ### [Programming](recommended/Programming.opml)
 
@@ -502,7 +502,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | FLOSS Weekly (Audio) | [https://feeds.twit.tv/floss.xml](https://feeds.twit.tv/floss.xml) |
 | Facebook Engineering | [https://engineering.fb.com/feed/](https://engineering.fb.com/feed/) |
 | GitLab | [https://about.gitlab.com/atom.xml](https://about.gitlab.com/atom.xml) |
-| Google Developers Blog | [http://feeds.feedburner.com/GDBcode](http://feeds.feedburner.com/GDBcode) |
+| Google Developers Blog | [https://feeds.feedburner.com/GDBcode](https://feeds.feedburner.com/GDBcode) |
 | Google TechTalks | [https://www.youtube.com/feeds/videos.xml?user=GoogleTechTalks](https://www.youtube.com/feeds/videos.xml?user=GoogleTechTalks) |
 | HackerNoon.com - Medium | [https://medium.com/feed/hackernoon](https://medium.com/feed/hackernoon) |
 | Hanselminutes with Scott Hanselman | [https://feeds.simplecast.com/gvtxUiIf](https://feeds.simplecast.com/gvtxUiIf) |
@@ -518,23 +518,23 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Podcast – Software Engineering Daily | [https://softwareengineeringdaily.com/category/podcast/feed](https://softwareengineeringdaily.com/category/podcast/feed) |
 | Posts on > /dev/null | [https://www.thirtythreeforty.net/posts/index.xml](https://www.thirtythreeforty.net/posts/index.xml) |
 | Prezi Engineering - Medium | [https://engineering.prezi.com/feed](https://engineering.prezi.com/feed) |
-| Programming Throwdown | [http://feeds.feedburner.com/ProgrammingThrowdown](http://feeds.feedburner.com/ProgrammingThrowdown) |
+| Programming Throwdown | [https://feeds.feedburner.com/ProgrammingThrowdown](https://feeds.feedburner.com/ProgrammingThrowdown) |
 | Programming – The Crazy Programmer | [https://www.thecrazyprogrammer.com/category/programming/feed](https://www.thecrazyprogrammer.com/category/programming/feed) |
 | Robert Heaton \| Blog | [https://robertheaton.com/feed.xml](https://robertheaton.com/feed.xml) |
-| Scott Hanselman's Blog | [http://feeds.hanselman.com/ScottHanselman](http://feeds.hanselman.com/ScottHanselman) |
+| Scott Hanselman's Blog | [https://feeds.hanselman.com/ScottHanselman](https://feeds.hanselman.com/ScottHanselman) |
 | Scripting News | [http://scripting.com/rss.xml](http://scripting.com/rss.xml) |
 | Slack Engineering | [https://slack.engineering/feed](https://slack.engineering/feed) |
-| Software Engineering Radio - The Podcast for Professional Software Developers | [http://feeds.feedburner.com/se-radio](http://feeds.feedburner.com/se-radio) |
+| Software Engineering Radio - The Podcast for Professional Software Developers | [https://feeds.feedburner.com/se-radio](https://feeds.feedburner.com/se-radio) |
 | SoundCloud Backstage Blog | [https://developers.soundcloud.com/blog/blog.rss](https://developers.soundcloud.com/blog/blog.rss) |
 | Spotify Engineering | [https://labs.spotify.com/feed/](https://labs.spotify.com/feed/) |
 | Stack Abuse | [https://stackabuse.com/rss/](https://stackabuse.com/rss/) |
 | Stack Overflow Blog | [https://stackoverflow.blog/feed/](https://stackoverflow.blog/feed/) |
-| The 6 Figure Developer | [http://6figuredev.com/feed/rss/](http://6figuredev.com/feed/rss/) |
+| The 6 Figure Developer | [https://6figuredev.com/feed/](https://6figuredev.com/feed/) |
 | The Airbnb Tech Blog - Medium | [https://medium.com/feed/airbnb-engineering](https://medium.com/feed/airbnb-engineering) |
 | The Cynical Developer | [https://cynicaldeveloper.com/feed/podcast](https://cynicaldeveloper.com/feed/podcast) |
 | The GitHub Blog | [https://github.blog/feed/](https://github.blog/feed/) |
 | The PIT Show: Reflections and Interviews in the Tech World | [https://feeds.transistor.fm/productivity-in-tech-podcast](https://feeds.transistor.fm/productivity-in-tech-podcast) |
-| The Rabbit Hole: The Definitive Developer's Podcast | [http://therabbithole.libsyn.com/rss](http://therabbithole.libsyn.com/rss) |
+| The Rabbit Hole: The Definitive Developer's Podcast | [https://therabbithole.libsyn.com/rss](https://therabbithole.libsyn.com/rss) |
 | The Stack Overflow Podcast | [https://feeds.simplecast.com/XA_851k3](https://feeds.simplecast.com/XA_851k3) |
 | The Women in Tech Show: A Technical Podcast | [https://thewomenintechshow.com/category/podcast/feed/](https://thewomenintechshow.com/category/podcast/feed/) |
 | programming | [https://www.reddit.com/r/programming/.rss](https://www.reddit.com/r/programming/.rss) |
@@ -547,30 +547,30 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Bon Appétit | [https://www.youtube.com/feeds/videos.xml?user=BonAppetitDotCom](https://www.youtube.com/feeds/videos.xml?user=BonAppetitDotCom) |
 | Chocolate and Zucchini | [https://cnz.to/feed/](https://cnz.to/feed/) |
 | David Lebovitz | [https://www.davidlebovitz.com/feed/](https://www.davidlebovitz.com/feed/) |
-| Food52 | [http://feeds.feedburner.com/food52-TheAandMBlog](http://feeds.feedburner.com/food52-TheAandMBlog) |
+| Food52 | [https://feeds.feedburner.com/food52-TheAandMBlog](https://feeds.feedburner.com/food52-TheAandMBlog) |
 | Green Kitchen Stories | [https://greenkitchenstories.com/feed/](https://greenkitchenstories.com/feed/) |
 | How Sweet Eats | [https://www.howsweeteats.com/feed/](https://www.howsweeteats.com/feed/) |
-| Joy the Baker | [http://joythebaker.com/feed/](http://joythebaker.com/feed/) |
+| Joy the Baker | [https://joythebaker.com/feed/](https://joythebaker.com/feed/) |
 | Kitchn \| Inspiring cooks, nourishing homes | [https://www.thekitchn.com/main.rss](https://www.thekitchn.com/main.rss) |
 | Laura in the Kitchen | [https://www.youtube.com/feeds/videos.xml?user=LauraVitalesKitchen](https://www.youtube.com/feeds/videos.xml?user=LauraVitalesKitchen) |
 | Love and Olive Oil | [https://www.loveandoliveoil.com/feed](https://www.loveandoliveoil.com/feed) |
 | NYT > Food | [https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml](https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml) |
 | Oh She Glows | [https://ohsheglows.com/feed/](https://ohsheglows.com/feed/) |
 | Serious Eats | [https://www.youtube.com/feeds/videos.xml?user=SeriousEats](https://www.youtube.com/feeds/videos.xml?user=SeriousEats) |
-| Serious Eats: Recipes | [http://feeds.feedburner.com/seriouseats/recipes](http://feeds.feedburner.com/seriouseats/recipes) |
-| Shutterbean | [http://www.shutterbean.com/feed/](http://www.shutterbean.com/feed/) |
+| Serious Eats: Recipes | [https://feeds.feedburner.com/seriouseats/recipes](https://feeds.feedburner.com/seriouseats/recipes) |
+| Shutterbean | [https://www.shutterbean.com/feed/](https://www.shutterbean.com/feed/) |
 | Skinnytaste | [https://www.skinnytaste.com/feed/](https://www.skinnytaste.com/feed/) |
 | Sprouted Kitchen | [https://www.sproutedkitchen.com/home?format=rss](https://www.sproutedkitchen.com/home?format=rss) |
 | Williams-Sonoma Taste | [https://blog.williams-sonoma.com/feed/](https://blog.williams-sonoma.com/feed/) |
-| smitten kitchen | [http://feeds.feedburner.com/smittenkitchen](http://feeds.feedburner.com/smittenkitchen) |
+| smitten kitchen | [https://feeds.feedburner.com/smittenkitchen](https://feeds.feedburner.com/smittenkitchen) |
 ### [Android Development](recommended/Android%20Development.opml)
 
 | Title | URL |
 |-------|-----|
 | Android Developers | [https://www.youtube.com/feeds/videos.xml?user=androiddevelopers](https://www.youtube.com/feeds/videos.xml?user=androiddevelopers) |
 | Android Developers - Medium | [https://medium.com/feed/androiddevelopers](https://medium.com/feed/androiddevelopers) |
-| Android Developers Backstage | [http://feeds.feedburner.com/blogspot/androiddevelopersbackstage](http://feeds.feedburner.com/blogspot/androiddevelopersbackstage) |
-| Android Developers Blog | [http://feeds.feedburner.com/blogspot/hsDu](http://feeds.feedburner.com/blogspot/hsDu) |
+| Android Developers Backstage | [https://feeds.feedburner.com/blogspot/androiddevelopersbackstage](https://feeds.feedburner.com/blogspot/androiddevelopersbackstage) |
+| Android Developers Blog | [https://feeds.feedburner.com/blogspot/hsDu](https://feeds.feedburner.com/blogspot/hsDu) |
 | Android in Instagram Engineering on Medium | [https://instagram-engineering.com/feed/tagged/android](https://instagram-engineering.com/feed/tagged/android) |
 | Android in MindOrks on Medium | [https://medium.com/feed/mindorks/tagged/android](https://medium.com/feed/mindorks/tagged/android) |
 | Android in The Airbnb Tech Blog on Medium | [https://medium.com/feed/airbnb-engineering/tagged/android](https://medium.com/feed/airbnb-engineering/tagged/android) |
@@ -600,17 +600,17 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Title | URL |
 |-------|-----|
 | AwkwardFamilyPhotos.com | [https://awkwardfamilyphotos.com/feed/](https://awkwardfamilyphotos.com/feed/) |
-| Cracked: All Posts | [http://feeds.feedburner.com/CrackedRSS](http://feeds.feedburner.com/CrackedRSS) |
-| Explosm.net | [http://feeds.feedburner.com/Explosm](http://feeds.feedburner.com/Explosm) |
-| FAIL Blog | [http://feeds.feedburner.com/failblog](http://feeds.feedburner.com/failblog) |
-| I Can Has Cheezburger? | [http://feeds.feedburner.com/icanhascheezburger](http://feeds.feedburner.com/icanhascheezburger) |
+| Cracked: All Posts | [https://feeds.feedburner.com/CrackedRSS](https://feeds.feedburner.com/CrackedRSS) |
+| Explosm.net | [https://feeds.feedburner.com/Explosm](https://feeds.feedburner.com/Explosm) |
+| FAIL Blog | [https://feeds.feedburner.com/failblog](https://feeds.feedburner.com/failblog) |
+| I Can Has Cheezburger? | [https://feeds.feedburner.com/icanhascheezburger](https://feeds.feedburner.com/icanhascheezburger) |
 | PHD Comics | [https://phdcomics.com/gradfeed.php](https://phdcomics.com/gradfeed.php) |
 | Penny Arcade | [https://www.penny-arcade.com/feed](https://www.penny-arcade.com/feed) |
 | PostSecret | [https://postsecret.com/feed/?alt=rss](https://postsecret.com/feed/?alt=rss) |
 | Saturday Morning Breakfast Cereal | [https://www.smbc-comics.com/comic/rss](https://www.smbc-comics.com/comic/rss) |
 | The Bloggess | [https://thebloggess.com/feed/](https://thebloggess.com/feed/) |
-| The Daily WTF | [http://syndication.thedailywtf.com/TheDailyWtf](http://syndication.thedailywtf.com/TheDailyWtf) |
-| The Oatmeal - Comics by Matthew Inman | [http://feeds.feedburner.com/oatmealfeed](http://feeds.feedburner.com/oatmealfeed) |
+| The Daily WTF | [https://feeds.feedburner.com/TheDailyWtf](https://feeds.feedburner.com/TheDailyWtf) |
+| The Oatmeal - Comics by Matthew Inman | [https://feeds.feedburner.com/oatmealfeed](https://feeds.feedburner.com/oatmealfeed) |
 | The Onion | [https://www.theonion.com/rss](https://www.theonion.com/rss) |
 | xkcd.com | [https://xkcd.com/rss.xml](https://xkcd.com/rss.xml) |
 ## countries
@@ -657,22 +657,21 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Manila Standard | [https://manilastandard.net/feed/](https://manilastandard.net/feed/) |
 | GMA News Online / News | [https://data.gmanews.tv/gno/rss/news/feed.xml](https://data.gmanews.tv/gno/rss/news/feed.xml) |
 | Current PH | [https://currentph.com/feed/](https://currentph.com/feed/) |
-| Top Gear: The Philippine authority on cars and the automotive industry | [https://www.topgear.com.ph/feed/rss1](https://www.topgear.com.ph/feed/rss1) |
 | Eagle News | [https://www.eaglenews.ph/feed/](https://www.eaglenews.ph/feed/) |
 | UNBOX PH | [https://www.unbox.ph/feed/](https://www.unbox.ph/feed/) |
 | Tempo – The Nation's Fastest Growing Newspaper | [https://tempo.com.ph/feed/](https://tempo.com.ph/feed/) |
 | Abante Tonite | [https://tonite.abante.com.ph/feed/](https://tonite.abante.com.ph/feed/) |
 | BusinessMirror | [https://businessmirror.com.ph/feed/](https://businessmirror.com.ph/feed/) |
-| TechPinas : Philippines' Technology News, Tips and Reviews Blog | [http://feeds.feedburner.com/Techpinas](http://feeds.feedburner.com/Techpinas) |
+| TechPinas : Philippines' Technology News, Tips and Reviews Blog | [https://feeds.feedburner.com/Techpinas](https://feeds.feedburner.com/Techpinas) |
 ### [Japan](countries/Japan.opml)
 
 | Title | URL |
 |-------|-----|
 | Japan Times latest articles | [https://www.japantimes.co.jp/feed/](https://www.japantimes.co.jp/feed/) |
 | Japan Today | [https://japantoday.com/feed](https://japantoday.com/feed) |
-| News On Japan | [http://www.newsonjapan.com/rss/top.xml](http://www.newsonjapan.com/rss/top.xml) |
+| News On Japan | [https://newsonjapan.com/rss/top.xml](https://newsonjapan.com/rss/top.xml) |
 | All - Kyodo News+ | [https://english.kyodonews.net/rss/all.xml](https://english.kyodonews.net/rss/all.xml) |
-| BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報 | [http://feeds.feedburner.com/SdJapan](http://feeds.feedburner.com/SdJapan) |
+| BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報 | [https://feeds.feedburner.com/SdJapan](https://feeds.feedburner.com/SdJapan) |
 | NYT > Japan | [https://www.nytimes.com/svc/collections/v1/publish/http://www.nytimes.com/topic/destination/japan/rss.xml](https://www.nytimes.com/svc/collections/v1/publish/http://www.nytimes.com/topic/destination/japan/rss.xml) |
 | ライブドアニュース - 主要トピックス | [https://news.livedoor.com/topics/rss/top.xml](https://news.livedoor.com/topics/rss/top.xml) |
 | 朝日新聞デジタル | [https://rss.asahi.com/rss/asahi/newsheadlines.rdf](https://rss.asahi.com/rss/asahi/newsheadlines.rdf) |
@@ -704,24 +703,24 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Front Page \| The Indian Express | [https://indianexpress.com/feed/](https://indianexpress.com/feed/) |
 | Top World News- News18.com | [https://www.news18.com/rss/world.xml](https://www.news18.com/rss/world.xml) |
 | India News | [https://www.dnaindia.com/feeds/india.xml](https://www.dnaindia.com/feeds/india.xml) |
-| Firstpost India Latest News | [https://www.firstpost.com/rss/india.xml](https://www.firstpost.com/rss/india.xml) |
+| Firstpost India Latest News | [https://www.firstpost.com/commonfeeds/v1/mfp/rss/india.xml](https://www.firstpost.com/commonfeeds/v1/mfp/rss/india.xml) |
 | Home Page | [https://www.business-standard.com/rss/home_page_top_stories.rss](https://www.business-standard.com/rss/home_page_top_stories.rss) |
 | Outlook India | [https://www.outlookindia.com/rss](https://www.outlookindia.com/rss) |
 | Free Press Journal | [https://www.freepressjournal.in/stories.rss](https://www.freepressjournal.in/stories.rss) |
 | Economic Times | [https://economictimes.indiatimes.com/rssfeedsdefault.cms](https://economictimes.indiatimes.com/rssfeedsdefault.cms) |
 | News, Latest News, Today's News Headlines, Breaking News, LIVE News - Oneindia | [https://www.oneindia.com/rss/news-fb.xml](https://www.oneindia.com/rss/news-fb.xml) |
-| Scroll.in | [http://feeds.feedburner.com/ScrollinArticles.rss](http://feeds.feedburner.com/ScrollinArticles.rss) |
+| Scroll.in | [https://feeds.feedburner.com/ScrollinArticles.rss](https://feeds.feedburner.com/ScrollinArticles.rss) |
 | Business Line - Home | [https://www.thehindubusinessline.com/feeder/default.rss](https://www.thehindubusinessline.com/feeder/default.rss) |
-| TechGenyz | [http://feeds.feedburner.com/techgenyz](http://feeds.feedburner.com/techgenyz) |
+| TechGenyz | [https://feeds.feedburner.com/techgenyz](https://feeds.feedburner.com/techgenyz) |
 | Top Stories News - Gujarat Samachar : World's Leading Gujarati Newspaper | [https://www.gujaratsamachar.com/rss/top-stories](https://www.gujaratsamachar.com/rss/top-stories) |
 | Marathi News: मराठी बातम्या,  Latest News in Marathi, Breaking Marathi News, Marathi News Paper \| Maharashtra Times | [https://maharashtratimes.com/rssfeedsdefault.cms](https://maharashtratimes.com/rssfeedsdefault.cms) |
-| Latest News program News18 Lokmat | [https://lokmat.news18.com/rss/program.xml](https://lokmat.news18.com/rss/program.xml) |
+| Latest News program News18 Lokmat | [https://lokmat.news18.com/commonfeeds/v1/lok/rss/program.xml](https://lokmat.news18.com/commonfeeds/v1/lok/rss/program.xml) |
 | OpIndia | [https://feeds.feedburner.com/opindia](https://feeds.feedburner.com/opindia) |
 | ThePrint | [https://theprint.in/feed/](https://theprint.in/feed/) |
 | Swarajya | [https://prod-qt-images.s3.amazonaws.com/production/swarajya/feed.xml](https://prod-qt-images.s3.amazonaws.com/production/swarajya/feed.xml) |
 | Latest And Breaking Hindi News Headlines, News In Hindi \| अमर उजाला हिंदी न्यूज़ \| - Amar Ujala | [https://www.amarujala.com/rss/breaking-news.xml](https://www.amarujala.com/rss/breaking-news.xml) |
 | Navbharat Times | [https://navbharattimes.indiatimes.com/rssfeedsdefault.cms](https://navbharattimes.indiatimes.com/rssfeedsdefault.cms) |
-| Patrika : India's Leading Hindi News Portal | [http://api.patrika.com/rss/india-news](http://api.patrika.com/rss/india-news) |
+| Patrika : India's Leading Hindi News Portal | [https://api.patrika.com/rss/india-news](https://api.patrika.com/rss/india-news) |
 | Live Hindustan Rss feed | [https://feed.livehindustan.com/rss/3127](https://feed.livehindustan.com/rss/3127) |
 | देश \| दैनिक भास्कर | [https://www.bhaskar.com/rss-feed/1061/](https://www.bhaskar.com/rss-feed/1061/) |
 | ઈન્ડિયા \| દિવ્ય ભાસ્કર | [https://www.divyabhaskar.co.in/rss-feed/1037/](https://www.divyabhaskar.co.in/rss-feed/1037/) |
@@ -743,7 +742,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | PerthNow | [https://www.perthnow.com.au/news/feed](https://www.perthnow.com.au/news/feed) |
 | The Canberra Times - Local News | [https://www.canberratimes.com.au/rss.xml](https://www.canberratimes.com.au/rss.xml) |
 | Brisbane Times - Latest News | [https://www.brisbanetimes.com.au/rss/feed.xml](https://www.brisbanetimes.com.au/rss/feed.xml) |
-| Independent Australia | [http://feeds.feedburner.com/IndependentAustralia](http://feeds.feedburner.com/IndependentAustralia) |
+| Independent Australia | [https://feeds.feedburner.com/IndependentAustralia](https://feeds.feedburner.com/IndependentAustralia) |
 | Business News - Latest Headlines | [https://www.businessnews.com.au/rssfeed/latest.rss](https://www.businessnews.com.au/rssfeed/latest.rss) |
 | InDaily | [https://indaily.com.au/feed/](https://indaily.com.au/feed/) |
 | The Mercury | [https://www.themercury.com.au/rss](https://www.themercury.com.au/rss) |
@@ -768,7 +767,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | ZEIT ONLINE \| Nachrichten, Hintergründe und Debatten | [http://newsfeed.zeit.de/index](http://newsfeed.zeit.de/index) |
 | FOCUS Online | [https://rss.focus.de/fol/XML/rss_folnews.xml](https://rss.focus.de/fol/XML/rss_folnews.xml) |
 | Aktuell - FAZ.NET | [https://www.faz.net/rss/aktuell/](https://www.faz.net/rss/aktuell/) |
-| tagesschau.de - Die Nachrichten der ARD | [http://www.tagesschau.de/xml/rss2](http://www.tagesschau.de/xml/rss2) |
+| tagesschau.de - Die Nachrichten der ARD | [https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml](https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml) |
 | Deutsche Welle | [https://rss.dw.com/rdf/rss-en-all](https://rss.dw.com/rdf/rss-en-all) |
 ### [Bangladesh](countries/Bangladesh.opml)
 
@@ -801,9 +800,9 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Title | URL |
 |-------|-----|
 | Folha de S.Paulo - Em cima da hora - Principal | [https://feeds.folha.uol.com.br/emcimadahora/rss091.xml](https://feeds.folha.uol.com.br/emcimadahora/rss091.xml) |
-| Portal EBC - RSS | [http://www.ebc.com.br/rss/feed.xml](http://www.ebc.com.br/rss/feed.xml) |
+| Portal EBC - RSS | [https://memoria.ebc.com.br/rss/feed.xml](https://memoria.ebc.com.br/rss/feed.xml) |
 | R7 - Notícias | [https://noticias.r7.com/feed.xml](https://noticias.r7.com/feed.xml) |
-| UOL | [http://rss.home.uol.com.br/index.xml](http://rss.home.uol.com.br/index.xml) |
+| UOL | [https://www.uol.com.br/vueland/api/?loadComponent=XmlFeedRss](https://www.uol.com.br/vueland/api/?loadComponent=XmlFeedRss) |
 | The Rio Times | [https://riotimesonline.com/feed/](https://riotimesonline.com/feed/) |
 | Brasil Wire | [https://www.brasilwire.com/feed/](https://www.brasilwire.com/feed/) |
 | Jornal de Brasília | [https://jornaldebrasilia.com.br/feed/](https://jornaldebrasilia.com.br/feed/) |
@@ -811,7 +810,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 
 | Title | URL |
 |-------|-----|
-| Najnowsze | [http://feeds.feedburner.com/wPolitycepl](http://feeds.feedburner.com/wPolitycepl) |
+| Najnowsze | [https://feeds.feedburner.com/wPolitycepl](https://feeds.feedburner.com/wPolitycepl) |
 | Newsweek Polska | [https://www.newsweek.pl/rss.xml](https://www.newsweek.pl/rss.xml) |
 | Dziennik.pl Dziennik - dziennik.pl | [http://rss.dziennik.pl/Dziennik-PL/](http://rss.dziennik.pl/Dziennik-PL/) |
 | www.wirtualnemedia.pl | [https://www.wirtualnemedia.pl/rss/wirtualnemedia_rss.xml](https://www.wirtualnemedia.pl/rss/wirtualnemedia_rss.xml) |
@@ -825,12 +824,12 @@ Currently, the suggested sources for topics are primarily in English. However, y
 |-------|-----|
 | SowetanLIVE | [https://www.sowetanlive.co.za/rss/?publication=sowetan-live](https://www.sowetanlive.co.za/rss/?publication=sowetan-live) |
 | TechCentral | [https://techcentral.co.za/feed](https://techcentral.co.za/feed) |
-| News24 Top Stories | [http://feeds.news24.com/articles/news24/TopStories/rss](http://feeds.news24.com/articles/news24/TopStories/rss) |
+| News24 Top Stories | [https://feeds.capi24.com/v1/Search/articles/news24/TopStories/rss](https://feeds.capi24.com/v1/Search/articles/news24/TopStories/rss) |
 | Eyewitness News \| Latest News | [https://ewn.co.za/RSS%20Feeds/Latest%20News](https://ewn.co.za/RSS%20Feeds/Latest%20News) |
 | The Citizen | [https://citizen.co.za/feed/](https://citizen.co.za/feed/) |
 | Daily Maverick | [https://www.dailymaverick.co.za/dmrss/](https://www.dailymaverick.co.za/dmrss/) |
 | Moneyweb | [https://www.moneyweb.co.za/feed/](https://www.moneyweb.co.za/feed/) |
-| IOL section feed for News | [http://rss.iol.io/iol/news](http://rss.iol.io/iol/news) |
+| IOL section feed for News | [https://rss.iol.io/iol/news](https://rss.iol.io/iol/news) |
 | TimesLIVE | [https://www.timeslive.co.za/rss/](https://www.timeslive.co.za/rss/) |
 | The South African | [https://www.thesouthafrican.com/feed/](https://www.thesouthafrican.com/feed/) |
 | Axios | [https://api.axios.com/feed/](https://api.axios.com/feed/) |
@@ -840,7 +839,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 |-------|-----|
 | Sahara Reporters | [https://saharareporters.com/articles/rss-feed](https://saharareporters.com/articles/rss-feed) |
 | Nigeria News Links \| Today's Updates - Nigerian Bulletin | [https://www.nigerianbulletin.com/forums/-/index.rss](https://www.nigerianbulletin.com/forums/-/index.rss) |
-| Nigerian News. Latest Nigeria News. Your online Nigerian Newspaper. | [http://feeds.feedburner.com/Nigerianeye](http://feeds.feedburner.com/Nigerianeye) |
+| Nigerian News. Latest Nigeria News. Your online Nigerian Newspaper. | [https://feeds.feedburner.com/Nigerianeye](https://feeds.feedburner.com/Nigerianeye) |
 | Legit.ng | [https://www.legit.ng/rss/all.rss](https://www.legit.ng/rss/all.rss) |
 | Latest Nigeria News, Nigerian Newspapers, Politics | [https://thenationonlineng.net/feed/](https://thenationonlineng.net/feed/) |
 | Daily Post Nigeria | [https://dailypost.ng/feed](https://dailypost.ng/feed) |
@@ -872,7 +871,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | RT - Daily news | [https://www.rt.com/rss/](https://www.rt.com/rss/) |
 | Meduza.io | [https://meduza.io/rss/all](https://meduza.io/rss/all) |
 | Russia Insider Daily Headlines | [https://russia-insider.com/en/all-content/rss](https://russia-insider.com/en/all-content/rss) |
-| TASS | [http://tass.com/rss/v2.xml](http://tass.com/rss/v2.xml) |
+| TASS | [https://tass.com/rss/v2.xml](https://tass.com/rss/v2.xml) |
 | The Moscow Times - Independent News From Russia | [https://www.themoscowtimes.com/rss/news](https://www.themoscowtimes.com/rss/news) |
 | PravdaReport | [https://www.pravdareport.com/export.xml](https://www.pravdareport.com/export.xml) |
 ### [United Kingdom](countries/United%20Kingdom.opml)
@@ -882,8 +881,8 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | BBC News - Home | [https://feeds.bbci.co.uk/news/rss.xml](https://feeds.bbci.co.uk/news/rss.xml) |
 | World news \| The Guardian | [https://www.theguardian.com/world/rss](https://www.theguardian.com/world/rss) |
 | Home \| Mail Online | [https://www.dailymail.co.uk/home/index.rss](https://www.dailymail.co.uk/home/index.rss) |
-| The Independent | [http://www.independent.co.uk/news/uk/rss](http://www.independent.co.uk/news/uk/rss) |
-| Daily Express :: News Feed | [http://feeds.feedburner.com/daily-express-news-showbiz](http://feeds.feedburner.com/daily-express-news-showbiz) |
+| The Independent | [https://www.independent.co.uk/news/uk/rss](https://www.independent.co.uk/news/uk/rss) |
+| Daily Express :: News Feed | [https://feeds.feedburner.com/daily-express-news-showbiz](https://feeds.feedburner.com/daily-express-news-showbiz) |
 ### [United States](countries/United%20States.opml)
 
 | Title | URL |
@@ -938,7 +937,6 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Информационное агентство УНИАН | [https://rss.unian.net/site/news_rus.rss](https://rss.unian.net/site/news_rus.rss) |
 | Еспресо - український погляд на світ! | [https://espreso.tv/rss](https://espreso.tv/rss) |
 | Gazeta.ua | [https://gazeta.ua/rss](https://gazeta.ua/rss) |
-| Вести.ua | [https://vesti.ua/feeds/partners](https://vesti.ua/feeds/partners) |
 ### [Indonesia](countries/Indonesia.opml)
 
 | Title | URL |
