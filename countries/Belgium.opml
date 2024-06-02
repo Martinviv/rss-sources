@@ -3,14 +3,7 @@
 
     <body>
         <outline text="Belgium" title="Belgium">
-          
-            <outline description="Les dernières nouvelles en Belgique" text="Le Soir"
-                title="Le Soir"
-                type="rss" xmlUrl="https://www.lesoir.be/rss2/9/cible_principale" />
-            <outline description="Toute l'info belge" text="La Dernière Heure"
-                title="La Dernière Heure"
-                type="rss"
-                xmlUrl="https://www.dhnet.be/arc/outboundfeeds/rss/section/actu/?outputType=xml" />
+            
             <outline description="Actualité belge et internationale" text="RTBF Info"
                 title="RTBF Info"
                 type="rss"

@@ -32,6 +32,8 @@ def create_readme(directory, template_file):
     for root, dirs, files in os.walk(directory):
         if '.git' in dirs:
             dirs.remove('.git')  # Exclude the .git directory from further processing
+        if '.github' in dirs:
+            dirs.remove('.github')
         if root != directory:
             # Get the relative path for the directory
             relative_path = os.path.relpath(root, directory)
