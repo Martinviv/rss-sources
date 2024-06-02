@@ -784,6 +784,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 
 | Title | URL |
 |-------|-----|
+| La Libre Belgique | [https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/?outputType=xml](https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/?outputType=xml) |
 | Le Soir | [https://www.lesoir.be/rss2/9/cible_principale](https://www.lesoir.be/rss2/9/cible_principale) |
 | La Dernière Heure | [https://www.dhnet.be/arc/outboundfeeds/rss/section/actu/?outputType=xml](https://www.dhnet.be/arc/outboundfeeds/rss/section/actu/?outputType=xml) |
 | RTBF Info | [https://rss.rtbf.be/article/rss/highlight_rtbf_info.xml?source=internal](https://rss.rtbf.be/article/rss/highlight_rtbf_info.xml?source=internal) |
