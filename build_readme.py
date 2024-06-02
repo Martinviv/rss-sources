@@ -61,6 +61,6 @@ def create_readme(directory, template_file):
 
 directory_to_document = os.path.dirname(__file__)
 
-template_file = "readme1.md"
+template_file = "readme_header.md"
 
 create_readme(directory_to_document, template_file)
