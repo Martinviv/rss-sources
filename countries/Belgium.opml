@@ -3,10 +3,7 @@
 
     <body>
         <outline text="Belgium" title="Belgium">
-            <outline description="L'actualité en Belgique" text="La Libre Belgique"
-                title="La Libre Belgique"
-                type="rss"
-                xmlUrl="https://www.lalibre.be/arc/outboundfeeds/rss/section/belgique/?outputType=xml" />
+          
             <outline description="Les dernières nouvelles en Belgique" text="Le Soir"
                 title="Le Soir"
                 type="rss" xmlUrl="https://www.lesoir.be/rss2/9/cible_principale" />
