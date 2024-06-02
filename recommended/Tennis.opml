@@ -1,14 +1,26 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <opml version="1.0">
-	
-	<body>
-		<outline text="Tennis" title="Tennis">
-			<outline text="BBC Sport - Tennis" title="BBC Sport - Tennis" description="BBC Sport - Tennis" xmlUrl="https://feeds.bbci.co.uk/sport/tennis/rss.xml" type="rss" />
-			<outline text="Essential Tennis Podcast - Instruction, Lessons, Tips" title="Essential Tennis Podcast - Instruction, Lessons, Tips" description="Improve your tennis with the Essential Tennis Podcast, the very first podcast dedicated to tennis lessons and instruction! Tennis professional Ian Westermann answers listener questions about technique, strategy, mental toughness, and much more." xmlUrl="https://feed.podbean.com/essentialtennis/feed.xml" type="rss" />
-			<outline text="Tennis - ATP World Tour" title="Tennis - ATP World Tour" description="Headline News - powered by FeedBurner" xmlUrl="https://www.atptour.com/en/media/rss-feed/xml-feed" type="rss" />
-			<outline text="Tennis News and Discussion" title="Tennis News and Discussion" description="Tennis News and Discussion" xmlUrl="https://www.reddit.com/r/tennis/.rss" type="rss" />
-			<outline text="peRFect Tennis" title="peRFect Tennis" description="UK Tennis Blog" xmlUrl="https://www.perfect-tennis.com/feed/" type="rss" />
-			<outline text="www.espn.com - TENNIS" title="www.espn.com - TENNIS" description="Latest TENNIS news from www.espn.com" xmlUrl="https://www.espn.com/espn/rss/tennis/news" type="rss" />
-		</outline>
-	</body>
+
+    <body>
+        <outline text="Tennis" title="Tennis">
+            <outline description="BBC Sport - Tennis" text="BBC Sport - Tennis"
+                title="BBC Sport - Tennis"
+                type="rss" xmlUrl="https://feeds.bbci.co.uk/sport/tennis/rss.xml" />
+            <outline description="Improve your tennis with the Essential Tennis Podcast, the very first podcast dedicated to tennis lessons and instruction! Tennis professional Ian Westermann answers listener questions about technique, strategy, mental toughness, and much more."
+                text="Essential Tennis Podcast - Instruction, Lessons, Tips"
+                title="Essential Tennis Podcast - Instruction, Lessons, Tips"
+                type="rss" xmlUrl="https://feed.podbean.com/essentialtennis/feed.xml" />
+            <outline description="Headline News - powered by FeedBurner" text="Tennis - ATP World Tour"
+                title="Tennis - ATP World Tour"
+                type="rss" xmlUrl="https://www.atptour.com/en/media/rss-feed/xml-feed" />
+            <outline description="Tennis News and Discussion" text="Tennis News and Discussion"
+                title="Tennis News and Discussion"
+                type="rss" xmlUrl="https://www.reddit.com/r/tennis/.rss" />
+            <outline description="UK Tennis Blog" text="peRFect Tennis" title="peRFect Tennis"
+                type="rss" xmlUrl="https://www.perfect-tennis.com/feed/" />
+            <outline description="Latest TENNIS news from www.espn.com" text="www.espn.com - TENNIS"
+                title="www.espn.com - TENNIS"
+                type="rss" xmlUrl="https://www.espn.com/espn/rss/tennis/news" />
+        </outline>
+    </body>
 </opml>

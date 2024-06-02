@@ -1,15 +1,26 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <opml version="1.0">
-	
-	<body>
-		<outline text="Brazil" title="Brazil">
-			<outline text="Folha de S.Paulo - Em cima da hora - Principal" title="Folha de S.Paulo - Em cima da hora - Principal" description="Primeiro jornal em tempo real em l�ngua portuguesa" xmlUrl="https://feeds.folha.uol.com.br/emcimadahora/rss091.xml" type="rss" />
-			<outline text="Portal EBC - RSS" title="Portal EBC - RSS" description="" xmlUrl="https://memoria.ebc.com.br/rss/feed.xml" type="rss" />
-			<outline text="R7 - Notícias" title="R7 - Notícias" description="" xmlUrl="https://noticias.r7.com/feed.xml" type="rss" />
-			<outline text="UOL" title="UOL" description="Home UOL" xmlUrl="https://www.uol.com.br/vueland/api/?loadComponent=XmlFeedRss" type="rss" />
-			<outline text="The Rio Times" title="The Rio Times" description="News in Rio de Janeiro, Brazil" xmlUrl="https://riotimesonline.com/feed/" type="rss" />
-			<outline text="Brasil Wire" title="Brasil Wire" description="" xmlUrl="https://www.brasilwire.com/feed/" type="rss" />
-			<outline text="Jornal de Brasília" title="Jornal de Brasília" description="Informação e Opinião" xmlUrl="https://jornaldebrasilia.com.br/feed/" type="rss" />
-		</outline>
-	</body>
+
+    <body>
+        <outline text="Brazil" title="Brazil">
+            <outline description="Primeiro jornal em tempo real em l�ngua portuguesa"
+                text="Folha de S.Paulo - Em cima da hora - Principal"
+                title="Folha de S.Paulo - Em cima da hora - Principal"
+                type="rss" xmlUrl="https://feeds.folha.uol.com.br/emcimadahora/rss091.xml" />
+            <outline description="" text="Portal EBC - RSS" title="Portal EBC - RSS"
+                type="rss" xmlUrl="https://memoria.ebc.com.br/rss/feed.xml" />
+            <outline description="" text="R7 - Notícias" title="R7 - Notícias"
+                type="rss" xmlUrl="https://noticias.r7.com/feed.xml" />
+            <outline description="Home UOL" text="UOL" title="UOL"
+                type="rss" xmlUrl="https://www.uol.com.br/vueland/api/?loadComponent=XmlFeedRss" />
+            <outline description="News in Rio de Janeiro, Brazil" text="The Rio Times"
+                title="The Rio Times"
+                type="rss" xmlUrl="https://riotimesonline.com/feed/" />
+            <outline description="" text="Brasil Wire" title="Brasil Wire"
+                type="rss" xmlUrl="https://www.brasilwire.com/feed/" />
+            <outline description="Informação e Opinião" text="Jornal de Brasília"
+                title="Jornal de Brasília" type="rss"
+                xmlUrl="https://jornaldebrasilia.com.br/feed/" />
+        </outline>
+    </body>
 </opml>

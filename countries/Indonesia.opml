@@ -1,12 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <opml version="1.0">
-	
-	<body>
-		<outline text="Indonesia" title="Indonesia">
-			<outline text="Republika Online RSS Feed" title="Republika Online RSS Feed" description="" xmlUrl="https://www.republika.co.id/rss/" type="rss" />
-			<outline text="Tribunnews.com" title="Tribunnews.com" description="Berita Terkini dari Tribunnews.com" xmlUrl="https://www.tribunnews.com/rss" type="rss" />
-			<outline text="Merdeka.com" title="Merdeka.com" description="Merdeka.com RSS 2.0" xmlUrl="https://www.merdeka.com/feed/" type="rss" />
-			<outline text="Suara.com" title="Suara.com" description="Kumpulan Kabar Berita Terkini Suara.Com" xmlUrl="https://www.suara.com/rss" type="rss" />
-		</outline>
-	</body>
+
+    <body>
+        <outline text="Indonesia" title="Indonesia">
+            <outline description="" text="Republika Online RSS Feed"
+                title="Republika Online RSS Feed" type="rss" xmlUrl="https://www.republika.co.id/rss/" />
+            <outline description="Berita Terkini dari Tribunnews.com" text="Tribunnews.com"
+                title="Tribunnews.com"
+                type="rss" xmlUrl="https://www.tribunnews.com/rss" />
+            <outline description="Merdeka.com RSS 2.0" text="Merdeka.com" title="Merdeka.com"
+                type="rss" xmlUrl="https://www.merdeka.com/feed/" />
+            <outline description="Kumpulan Kabar Berita Terkini Suara.Com" text="Suara.com"
+                title="Suara.com"
+                type="rss" xmlUrl="https://www.suara.com/rss" />
+        </outline>
+    </body>
 </opml>

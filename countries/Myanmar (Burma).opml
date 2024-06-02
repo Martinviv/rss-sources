@@ -1,9 +1,11 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <opml version="1.0">
-	
-	<body>
-		<outline text="Myanmar (Burma)" title="Myanmar (Burma)">
-			<outline text="THIT HTOO LWIN (Daily News)" title="THIT HTOO LWIN (Daily News)" description="နေ့စဉ် မြန်မာသတင်း၊ နိုင်ငံတကာသတင်း၊ နိုင်ငံရေး၊ လူမှုရေး၊ စီးပွားရေး၊ အနုပညာ၊ မြန်မာဂျာနယ်၊ ဗီဒီယိုသတင်းနှင့် ကျန်းမာရေး ဆောင်းပါးများကို ဝေဝေဆာဆာတင်ပြနေသည့် ဆိုဒ်ဖြစ်ပါသည်။ http://feeds.feedburner.com/thithtoolwin/yIWV" xmlUrl="http://www.thithtoolwin.com/feeds/posts/default" type="rss" />
-		</outline>
-	</body>
+
+    <body>
+        <outline text="Myanmar (Burma)" title="Myanmar (Burma)">
+            <outline description="နေ့စဉ် မြန်မာသတင်း၊ နိုင်ငံတကာသတင်း၊ နိုင်ငံရေး၊ လူမှုရေး၊ စီးပွားရေး၊ အနုပညာ၊ မြန်မာဂျာနယ်၊ ဗီဒီယိုသတင်းနှင့် ကျန်းမာရေး ဆောင်းပါးများကို ဝေဝေဆာဆာတင်ပြနေသည့် ဆိုဒ်ဖြစ်ပါသည်။ http://feeds.feedburner.com/thithtoolwin/yIWV" text="THIT HTOO LWIN (Daily News)"
+                title="THIT HTOO LWIN (Daily News)"
+                type="rss" xmlUrl="http://www.thithtoolwin.com/feeds/posts/default" />
+        </outline>
+    </body>
 </opml>

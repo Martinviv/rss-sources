@@ -1,23 +1,54 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <opml version="1.0">
-	
-	<body>
-		<outline text="Philippines" title="Philippines">
-			<outline text="INQUIRER.net" title="INQUIRER.net" description="Philippine News for Filipinos" xmlUrl="https://www.inquirer.net/fullfeed" type="rss" />
-			<outline text="Interaksyon" title="Interaksyon" description="Philippines news features and explanatory reports." xmlUrl="https://www.interaksyon.com/feed/" type="rss" />
-			<outline text="- The Manila Times" title="- The Manila Times" description="News | Opinion | Philippines | Asia | World" xmlUrl="https://www.manilatimes.net/news/feed/" type="rss" />
-			<outline text="philstar.com - RSS Headlines" title="philstar.com - RSS Headlines" description="Philippine News for the Filipino Global Community" xmlUrl="https://www.philstar.com/rss/headlines" type="rss" />
-			<outline text="BusinessWorld" title="BusinessWorld" description="The most trusted source of Philippine business news and analysis" xmlUrl="https://www.bworldonline.com/feed/" type="rss" />
-			<outline text="https://www.sunstar.com.ph/" title="https://www.sunstar.com.ph/" description="" xmlUrl="https://prod-qt-images.s3.amazonaws.com/production/sunstar/feed.xml" type="rss" />
-			<outline text="Manila Standard" title="Manila Standard" description="Manila Standard | Defining The News" xmlUrl="https://manilastandard.net/feed/" type="rss" />
-			<outline text="GMA News Online / News" title="GMA News Online / News" description="GMA News Online RSS Feed - News Section" xmlUrl="https://data.gmanews.tv/gno/rss/news/feed.xml" type="rss" />
-			<outline text="Current PH" title="Current PH" description="Latest Philippine Breaking News and Stories" xmlUrl="https://currentph.com/feed/" type="rss" />
-			<outline text="Eagle News" title="Eagle News" description="Breaking News, Latest Philippines Headlines, World, Entertainment, Politics, Weather and Video News" xmlUrl="https://www.eaglenews.ph/feed/" type="rss" />
-			<outline text="UNBOX PH" title="UNBOX PH" description="Taking Awesome Out of the Box" xmlUrl="https://www.unbox.ph/feed/" type="rss" />
-			<outline text="Tempo – The Nation's Fastest Growing Newspaper" title="Tempo – The Nation's Fastest Growing Newspaper" description="Tempo - News in a Flash" xmlUrl="https://tempo.com.ph/feed/" type="rss" />
-			<outline text="Abante Tonite" title="Abante Tonite" description="Mabilis sa Balita" xmlUrl="https://tonite.abante.com.ph/feed/" type="rss" />
-			<outline text="BusinessMirror" title="BusinessMirror" description="A broader look at today’s business" xmlUrl="https://businessmirror.com.ph/feed/" type="rss" />
-			<outline text="TechPinas : Philippines' Technology News, Tips and Reviews Blog" title="TechPinas : Philippines' Technology News, Tips and Reviews Blog" description="Sharing Specs and Beyond to Help Build a Tech-Informed, Tech-Empowered Nation. TechPinas is a Proudly-Filipino Technology Blog created and led by Mark Milan Macanas." xmlUrl="https://feeds.feedburner.com/Techpinas" type="rss" />
-		</outline>
-	</body>
+
+    <body>
+        <outline text="Philippines" title="Philippines">
+            <outline description="Philippine News for Filipinos" text="INQUIRER.net"
+                title="INQUIRER.net"
+                type="rss" xmlUrl="https://www.inquirer.net/fullfeed" />
+            <outline description="Philippines news features and explanatory reports." text="Interaksyon"
+                title="Interaksyon"
+                type="rss" xmlUrl="https://www.interaksyon.com/feed/" />
+            <outline description="News | Opinion | Philippines | Asia | World" text="- The Manila Times"
+                title="- The Manila Times"
+                type="rss" xmlUrl="https://www.manilatimes.net/news/feed/" />
+            <outline description="Philippine News for the Filipino Global Community" text="philstar.com - RSS Headlines"
+                title="philstar.com - RSS Headlines"
+                type="rss" xmlUrl="https://www.philstar.com/rss/headlines" />
+            <outline description="The most trusted source of Philippine business news and analysis" text="BusinessWorld"
+                title="BusinessWorld"
+                type="rss" xmlUrl="https://www.bworldonline.com/feed/" />
+            <outline description="" text="https://www.sunstar.com.ph/"
+                title="https://www.sunstar.com.ph/"
+                type="rss"
+                xmlUrl="https://prod-qt-images.s3.amazonaws.com/production/sunstar/feed.xml" />
+            <outline description="Manila Standard | Defining The News" text="Manila Standard"
+                title="Manila Standard"
+                type="rss" xmlUrl="https://manilastandard.net/feed/" />
+            <outline description="GMA News Online RSS Feed - News Section" text="GMA News Online / News"
+                title="GMA News Online / News"
+                type="rss" xmlUrl="https://data.gmanews.tv/gno/rss/news/feed.xml" />
+            <outline description="Latest Philippine Breaking News and Stories" text="Current PH"
+                title="Current PH"
+                type="rss" xmlUrl="https://currentph.com/feed/" />
+            <outline description="Breaking News, Latest Philippines Headlines, World, Entertainment, Politics, Weather and Video News" text="Eagle News"
+                title="Eagle News"
+                type="rss" xmlUrl="https://www.eaglenews.ph/feed/" />
+            <outline description="Taking Awesome Out of the Box" text="UNBOX PH" title="UNBOX PH"
+                type="rss" xmlUrl="https://www.unbox.ph/feed/" />
+            <outline description="Tempo - News in a Flash"
+                text="Tempo – The Nation's Fastest Growing Newspaper"
+                title="Tempo – The Nation's Fastest Growing Newspaper" type="rss"
+                xmlUrl="https://tempo.com.ph/feed/" />
+            <outline description="Mabilis sa Balita" text="Abante Tonite" title="Abante Tonite"
+                type="rss" xmlUrl="https://tonite.abante.com.ph/feed/" />
+            <outline description="A broader look at today’s business" text="BusinessMirror"
+                title="BusinessMirror"
+                type="rss" xmlUrl="https://businessmirror.com.ph/feed/" />
+            <outline description="Sharing Specs and Beyond to Help Build a Tech-Informed, Tech-Empowered Nation. TechPinas is a Proudly-Filipino Technology Blog created and led by Mark Milan Macanas."
+                text="TechPinas : Philippines' Technology News, Tips and Reviews Blog"
+                title="TechPinas : Philippines' Technology News, Tips and Reviews Blog"
+                type="rss" xmlUrl="https://feeds.feedburner.com/Techpinas" />
+        </outline>
+    </body>
 </opml>

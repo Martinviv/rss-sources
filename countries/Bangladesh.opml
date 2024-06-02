@@ -1,14 +1,23 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <opml version="1.0">
-	
-	<body>
-		<outline text="Bangladesh" title="Bangladesh">
-			<outline text="The Daily Star" title="The Daily Star" description="Headlines from The Daily Star" xmlUrl="https://www.thedailystar.net/frontpage/rss.xml" type="rss" />
-			<outline text="Bangla News" title="Bangla News" description="banglanews24.com RSS Feed" xmlUrl="https://www.banglanews24.com/rss/rss.xml" type="rss" />
-			<outline text="JUGANTOR" title="JUGANTOR" description="RSS feed of latest topics" xmlUrl="https://www.jugantor.com/feed/rss.xml" type="rss" />
-			<outline text="jagonews24.com | rss Feed" title="jagonews24.com | rss Feed" description="A RSS news feed containing the latest Jago News articles." xmlUrl="https://www.jagonews24.com/rss/rss.xml" type="rss" />
-			<outline text="kalerkantho Kantho" title="kalerkantho Kantho" description="kalerkantho.com RSS Feed" xmlUrl="https://www.kalerkantho.com/rss.xml" type="rss" />
-			<outline text="প্রথম আলো" title="প্রথম আলো" description="" xmlUrl="https://www.prothomalo.com/feed/" type="rss" />
-		</outline>
-	</body>
+
+    <body>
+        <outline text="Bangladesh" title="Bangladesh">
+            <outline description="Headlines from The Daily Star" text="The Daily Star"
+                title="The Daily Star"
+                type="rss" xmlUrl="https://www.thedailystar.net/frontpage/rss.xml" />
+            <outline description="banglanews24.com RSS Feed" text="Bangla News" title="Bangla News"
+                type="rss" xmlUrl="https://www.banglanews24.com/rss/rss.xml" />
+            <outline description="RSS feed of latest topics" text="JUGANTOR" title="JUGANTOR"
+                type="rss" xmlUrl="https://www.jugantor.com/feed/rss.xml" />
+            <outline description="A RSS news feed containing the latest Jago News articles." text="jagonews24.com | rss Feed"
+                title="jagonews24.com | rss Feed"
+                type="rss" xmlUrl="https://www.jagonews24.com/rss/rss.xml" />
+            <outline description="kalerkantho.com RSS Feed" text="kalerkantho Kantho"
+                title="kalerkantho Kantho" type="rss"
+                xmlUrl="https://www.kalerkantho.com/rss.xml" />
+            <outline description="" text="প্রথম আলো" title="প্রথম আলো"
+                type="rss" xmlUrl="https://www.prothomalo.com/feed/" />
+        </outline>
+    </body>
 </opml>

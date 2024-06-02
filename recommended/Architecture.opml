@@ -1,22 +1,53 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <opml version="1.0">
-	
-	<body>
-		<outline text="Architecture" title="Architecture">
-			<outline text="A Daily Dose of Architecture Books" title="A Daily Dose of Architecture Books" description="(Almost) daily reviews of architecture books" xmlUrl="https://feeds.feedburner.com/archidose" type="rss" />
-			<outline text="ArchDaily" title="ArchDaily" description="ArchDaily | Broadcasting Architecture Worldwide" xmlUrl="https://feeds.feedburner.com/Archdaily" type="rss" />
-			<outline text="Archinect - News" title="Archinect - News" description="" xmlUrl="https://archinect.com/feed/1/news" type="rss" />
-			<outline text="Architectural Digest" title="Architectural Digest" description="The latest from www.architecturaldigest.com" xmlUrl="https://www.architecturaldigest.com/feed/rss" type="rss" />
-			<outline text="Architectural Digest" title="Architectural Digest" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=ArchitecturalDigest" type="rss" />
-			<outline text="Architecture" title="Architecture" description="A community for students, professionals, and lovers of architecture." xmlUrl="https://www.reddit.com/r/architecture/.rss" type="rss" />
-			<outline text="Architecture – Dezeen" title="Architecture – Dezeen" description="architecture and design magazine" xmlUrl="https://www.dezeen.com/architecture/feed/" type="rss" />
-			<outline text="CONTEMPORIST" title="CONTEMPORIST" description="Contemporist features great ideas from the world of design, architecture, interior design, furniture, lighting, and art" xmlUrl="https://www.contemporist.com/feed/" type="rss" />
-			<outline text="Comments on:" title="Comments on:" description="Green design and innovation for a better world" xmlUrl="https://inhabitat.com/architecture/feed/" type="rss" />
-			<outline text="Design MilkArchitecture – Design Milk" title="Design MilkArchitecture – Design Milk" description="Dedicated to modern design" xmlUrl="https://design-milk.com/category/architecture/feed/" type="rss" />
-			<outline text="Journal" title="Journal" description="Inspiration and Tools for Architects" xmlUrl="https://architizer.wpengine.com/feed/" type="rss" />
-			<outline text="Living Big In A Tiny House" title="Living Big In A Tiny House" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=livingbigtinyhouse" type="rss" />
-			<outline text="The Architect’s Newspaper" title="The Architect’s Newspaper" description="The most authoritative voice on architecture and design in the United States." xmlUrl="https://archpaper.com/feed" type="rss" />
-			<outline text="architecture – designboom | architecture and design magazine" title="architecture – designboom | architecture and design magazine" description="designboom magazine | your first source for architecture, design and art news" xmlUrl="https://www.designboom.com/architecture/feed/" type="rss" />
-		</outline>
-	</body>
+
+    <body>
+        <outline text="Architecture" title="Architecture">
+            <outline description="(Almost) daily reviews of architecture books"
+                text="A Daily Dose of Architecture Books"
+                title="A Daily Dose of Architecture Books"
+                type="rss" xmlUrl="https://feeds.feedburner.com/archidose" />
+            <outline description="ArchDaily | Broadcasting Architecture Worldwide" text="ArchDaily"
+                title="ArchDaily"
+                type="rss" xmlUrl="https://feeds.feedburner.com/Archdaily" />
+            <outline description="" text="Archinect - News" title="Archinect - News"
+                type="rss" xmlUrl="https://archinect.com/feed/1/news" />
+            <outline description="The latest from www.architecturaldigest.com" text="Architectural Digest"
+                title="Architectural Digest"
+                type="rss" xmlUrl="https://www.architecturaldigest.com/feed/rss" />
+            <outline description="" text="Architectural Digest" title="Architectural Digest"
+                type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?user=ArchitecturalDigest" />
+            <outline description="A community for students, professionals, and lovers of architecture." text="Architecture"
+                title="Architecture"
+                type="rss" xmlUrl="https://www.reddit.com/r/architecture/.rss" />
+            <outline description="architecture and design magazine" text="Architecture – Dezeen"
+                title="Architecture – Dezeen"
+                type="rss" xmlUrl="https://www.dezeen.com/architecture/feed/" />
+            <outline description="Contemporist features great ideas from the world of design, architecture, interior design, furniture, lighting, and art" text="CONTEMPORIST"
+                title="CONTEMPORIST"
+                type="rss" xmlUrl="https://www.contemporist.com/feed/" />
+            <outline description="Green design and innovation for a better world" text="Comments on:"
+                title="Comments on:"
+                type="rss" xmlUrl="https://inhabitat.com/architecture/feed/" />
+            <outline description="Dedicated to modern design"
+                text="Design MilkArchitecture – Design Milk"
+                title="Design MilkArchitecture – Design Milk"
+                type="rss" xmlUrl="https://design-milk.com/category/architecture/feed/" />
+            <outline description="Inspiration and Tools for Architects" text="Journal"
+                title="Journal"
+                type="rss" xmlUrl="https://architizer.wpengine.com/feed/" />
+            <outline description="" text="Living Big In A Tiny House"
+                title="Living Big In A Tiny House"
+                type="rss"
+                xmlUrl="https://www.youtube.com/feeds/videos.xml?user=livingbigtinyhouse" />
+            <outline description="The most authoritative voice on architecture and design in the United States." text="The Architect’s Newspaper"
+                title="The Architect’s Newspaper"
+                type="rss" xmlUrl="https://archpaper.com/feed" />
+            <outline description="designboom magazine | your first source for architecture, design and art news"
+                text="architecture – designboom | architecture and design magazine"
+                title="architecture – designboom | architecture and design magazine"
+                type="rss" xmlUrl="https://www.designboom.com/architecture/feed/" />
+        </outline>
+    </body>
 </opml>

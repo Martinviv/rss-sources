@@ -1,14 +1,23 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <opml version="1.0">
-	
-	<body>
-		<outline text="Television" title="Television">
-			<outline text="TV" title="TV" description="Comics, Movies, TV, Games" xmlUrl="https://www.bleedingcool.com/tv/feed/" type="rss" />
-			<outline text="TV Fanatic" title="TV Fanatic" description="" xmlUrl="https://www.tvfanatic.com/rss.xml" type="rss" />
-			<outline text="TVLine" title="TVLine" description="TV News, Previews, Spoilers, Casting Scoop, Interviews" xmlUrl="https://tvline.com/feed/" type="rss" />
-			<outline text="Television News and Discussion" title="Television News and Discussion" description="‎" xmlUrl="https://reddit.com/r/television/.rss" type="rss" />
-			<outline text="The A.V. Club" title="The A.V. Club" description="Pop culture obsessives writing for the pop culture obsessed." xmlUrl="https://tv.avclub.com/rss" type="rss" />
-			<outline text="the TV addict" title="the TV addict" description="TV News, Previews, Spoilers and Reviews" xmlUrl="https://feeds.feedburner.com/thetvaddict/AXob" type="rss" />
-		</outline>
-	</body>
+
+    <body>
+        <outline text="Television" title="Television">
+            <outline description="Comics, Movies, TV, Games" text="TV" title="TV"
+                type="rss" xmlUrl="https://www.bleedingcool.com/tv/feed/" />
+            <outline description="" text="TV Fanatic" title="TV Fanatic"
+                type="rss" xmlUrl="https://www.tvfanatic.com/rss.xml" />
+            <outline description="TV News, Previews, Spoilers, Casting Scoop, Interviews" text="TVLine"
+                title="TVLine"
+                type="rss" xmlUrl="https://tvline.com/feed/" />
+            <outline description="‎" text="Television News and Discussion"
+                title="Television News and Discussion" type="rss" xmlUrl="https://reddit.com/r/television/.rss" />
+            <outline description="Pop culture obsessives writing for the pop culture obsessed." text="The A.V. Club"
+                title="The A.V. Club"
+                type="rss" xmlUrl="https://tv.avclub.com/rss" />
+            <outline description="TV News, Previews, Spoilers and Reviews" text="the TV addict"
+                title="the TV addict"
+                type="rss" xmlUrl="https://feeds.feedburner.com/thetvaddict/AXob" />
+        </outline>
+    </body>
 </opml>

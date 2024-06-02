@@ -1,13 +1,23 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <opml version="1.0">
-	
-	<body>
-		<outline text="Football" title="Football">
-			<outline text="EFL Championship" title="EFL Championship" description="Home of the EFL Championship on Reddit" xmlUrl="https://www.reddit.com/r/Championship/.rss?format=xml" type="rss" />
-			<outline text="Football - The People's Sport" title="Football - The People's Sport" description="Home of Football. News, Rumours, Analysis, gossip and much more." xmlUrl="https://www.reddit.com/r/football/.rss?format=xml" type="rss" />
-			<outline text="www.espn.com - SOCCER" title="www.espn.com - SOCCER" description="Latest SOCCER news from www.espn.com" xmlUrl="https://www.espn.com/espn/rss/soccer/news" type="rss" />
-			<outline text="Football365" title="Football365" description="Views, Live Matches, Gossip and more | Football365.com" xmlUrl="https://www.football365.com/f365-features/feed" type="rss" />
-			<outline text="Soccer News" title="Soccer News" description="The Latest Soccer News from around the globe." xmlUrl="https://www.soccernews.com/feed" type="rss" />
-		</outline>
-	</body>
+
+    <body>
+        <outline text="Football" title="Football">
+            <outline description="Home of the EFL Championship on Reddit" text="EFL Championship"
+                title="EFL Championship"
+                type="rss" xmlUrl="https://www.reddit.com/r/Championship/.rss?format=xml" />
+            <outline description="Home of Football. News, Rumours, Analysis, gossip and much more." text="Football - The People's Sport"
+                title="Football - The People's Sport"
+                type="rss" xmlUrl="https://www.reddit.com/r/football/.rss?format=xml" />
+            <outline description="Latest SOCCER news from www.espn.com" text="www.espn.com - SOCCER"
+                title="www.espn.com - SOCCER"
+                type="rss" xmlUrl="https://www.espn.com/espn/rss/soccer/news" />
+            <outline description="Views, Live Matches, Gossip and more | Football365.com" text="Football365"
+                title="Football365"
+                type="rss" xmlUrl="https://www.football365.com/f365-features/feed" />
+            <outline description="The Latest Soccer News from around the globe." text="Soccer News"
+                title="Soccer News"
+                type="rss" xmlUrl="https://www.soccernews.com/feed" />
+        </outline>
+    </body>
 </opml>

@@ -383,6 +383,10 @@ Currently, the suggested sources for topics are primarily in English. However, y
 |-------|-----|
 | /r/space: news, articles and discussion | [https://www.reddit.com/r/space/.rss?format=xml](https://www.reddit.com/r/space/.rss?format=xml) |
 | NASA Breaking News | [https://www.nasa.gov/rss/dyn/breaking_news.rss](https://www.nasa.gov/rss/dyn/breaking_news.rss) |
+| NASA Image of the Day | [https://www.nasa.gov/feeds/iotd-feed/](https://www.nasa.gov/feeds/iotd-feed/) |
+| ESA Top News | [https://www.esa.int/rssfeed/Our_Activities/Space_News](https://www.esa.int/rssfeed/Our_Activities/Space_News) |
+| ESA Observing the Earth | [https://www.esa.int/rssfeed/Our_Activities/Observing_the_Earth](https://www.esa.int/rssfeed/Our_Activities/Observing_the_Earth) |
+| Roscosmos | [https://www.roscosmos.ru/rss/news.xml](https://www.roscosmos.ru/rss/news.xml) |
 | New Scientist - Space | [https://www.newscientist.com/subject/space/feed/](https://www.newscientist.com/subject/space/feed/) |
 | Sky and Telescope | [https://www.skyandtelescope.com/feed/](https://www.skyandtelescope.com/feed/) |
 | Space \| The Guardian | [https://www.theguardian.com/science/space/rss](https://www.theguardian.com/science/space/rss) |

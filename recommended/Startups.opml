@@ -1,28 +1,62 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <opml version="1.0">
-	
-	<body>
-		<outline text="Startups" title="Startups">
-			<outline text="AVC" title="AVC" description="Musings of a VC in NYC" xmlUrl="https://avc.com/feed/" type="rss" />
-			<outline text="Both Sides of the Table - Medium" title="Both Sides of the Table - Medium" description="Perspectives of a 2x entrepreneur turned VC at @UpfrontVC, the largest and most active early-stage fund in Southern California. Snapchat: msuster - Medium" xmlUrl="https://bothsidesofthetable.com/feed" type="rss" />
-			<outline text="Entrepreneur" title="Entrepreneur" description="The latest stories from Entrepreneur." xmlUrl="https://feeds.feedburner.com/entrepreneur/latest" type="rss" />
-			<outline text="Feld Thoughts" title="Feld Thoughts" description="" xmlUrl="https://feld.com/feed" type="rss" />
-			<outline text="Forbes - Entrepreneurs" title="Forbes - Entrepreneurs" description="Forbes - Entrepreneurs" xmlUrl="https://www.forbes.com/entrepreneurs/feed/" type="rss" />
-			<outline text="GaryVee" title="GaryVee" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=GaryVaynerchuk" type="rss" />
-			<outline text="Hacker News: Front Page" title="Hacker News: Front Page" description="Hacker News RSS" xmlUrl="https://hnrss.org/frontpage" type="rss" />
-			<outline text="Inc.com" title="Inc.com" description="Inc.com, the daily resource for entrepreneurs." xmlUrl="https://www.inc.com/rss/" type="rss" />
-			<outline text="Inside Intercom" title="Inside Intercom" description="Product, Marketing, and Customer Support Blog" xmlUrl="https://www.intercom.com/blog/feed" type="rss" />
-			<outline text="Marie Forleo" title="Marie Forleo" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=marieforleo" type="rss" />
-			<outline text="Paul Graham: Essays" title="Paul Graham: Essays" description="Scraped feed provided by aaronsw.com" xmlUrl="http://www.aaronsw.com/2002/feeds/pgessays.rss" type="rss" />
-			<outline text="Product Hunt — The best new products, every day" title="Product Hunt — The best new products, every day" description="" xmlUrl="https://www.producthunt.com/feed" type="rss" />
-			<outline text="Quick Sprout" title="Quick Sprout" description="Start and Grow Your Business" xmlUrl="https://www.quicksprout.com/rss" type="rss" />
-			<outline text="Smart Passive Income" title="Smart Passive Income" description="Smart Passive Income" xmlUrl="https://feeds.feedburner.com/smartpassiveincome" type="rss" />
-			<outline text="Springwise" title="Springwise" description="Innovation That Matters" xmlUrl="https://www.springwise.com/feed" type="rss" />
-			<outline text="Steve Blank" title="Steve Blank" description="Innovation and Entrepreneurship" xmlUrl="https://steveblank.com/feed/" type="rss" />
-			<outline text="The Startup Junkies Podcast" title="The Startup Junkies Podcast" description="The Startup Junkies podcast is hosted by Jeff Amerine and his team at Startup Junkie Consulting. We’ll cover topics ranging from getting started, planning, growing your business, proving your concept, leadership, marketing, exit strategies and so much more. We’ll interview business owners, entrepreneurs, experts and people we think will bring value to our audience. Subscribe and together we will move your business to the next level." xmlUrl="https://startupjunkie.libsyn.com/rss" type="rss" />
-			<outline text="This Week in Startups - Video" title="This Week in Startups - Video" description="Angel investor Jason Calacanis (Uber, Calm, Robinhood) interviews the world’s greatest founders, operators, investors and innovators. Get an insider’s look into venture capital, learn how to start and scale your own startup, and ride the cutting edge of technology in today’s headlines and beyond." xmlUrl="https://feeds.feedburner.com/twistvid" type="rss" />
-			<outline text="VentureBeat" title="VentureBeat" description="Transformative tech coverage that matters" xmlUrl="https://feeds.feedburner.com/venturebeat/SZYF" type="rss" />
-			<outline text="blog – Feld Thoughts" title="blog – Feld Thoughts" description="" xmlUrl="https://feld.com/archives/tag/blog/feed" type="rss" />
-		</outline>
-	</body>
+
+    <body>
+        <outline text="Startups" title="Startups">
+            <outline description="Musings of a VC in NYC" text="AVC" title="AVC"
+                type="rss" xmlUrl="https://avc.com/feed/" />
+            <outline description="Perspectives of a 2x entrepreneur turned VC at @UpfrontVC, the largest and most active early-stage fund in Southern California. Snapchat: msuster - Medium"
+                text="Both Sides of the Table - Medium"
+                title="Both Sides of the Table - Medium"
+                type="rss" xmlUrl="https://bothsidesofthetable.com/feed" />
+            <outline description="The latest stories from Entrepreneur." text="Entrepreneur"
+                title="Entrepreneur"
+                type="rss" xmlUrl="https://feeds.feedburner.com/entrepreneur/latest" />
+            <outline description="" text="Feld Thoughts" title="Feld Thoughts"
+                type="rss" xmlUrl="https://feld.com/feed" />
+            <outline description="Forbes - Entrepreneurs" text="Forbes - Entrepreneurs"
+                title="Forbes - Entrepreneurs"
+                type="rss" xmlUrl="https://www.forbes.com/entrepreneurs/feed/" />
+            <outline description="" text="GaryVee" title="GaryVee"
+                type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=GaryVaynerchuk" />
+            <outline description="Hacker News RSS" text="Hacker News: Front Page"
+                title="Hacker News: Front Page" type="rss" xmlUrl="https://hnrss.org/frontpage" />
+            <outline description="Inc.com, the daily resource for entrepreneurs." text="Inc.com"
+                title="Inc.com"
+                type="rss" xmlUrl="https://www.inc.com/rss/" />
+            <outline description="Product, Marketing, and Customer Support Blog" text="Inside Intercom"
+                title="Inside Intercom"
+                type="rss" xmlUrl="https://www.intercom.com/blog/feed" />
+            <outline description="" text="Marie Forleo" title="Marie Forleo"
+                type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=marieforleo" />
+            <outline description="Scraped feed provided by aaronsw.com" text="Paul Graham: Essays"
+                title="Paul Graham: Essays"
+                type="rss" xmlUrl="http://www.aaronsw.com/2002/feeds/pgessays.rss" />
+            <outline description=""
+                text="Product Hunt — The best new products, every day" title="Product Hunt — The best new products, every day"
+                type="rss" xmlUrl="https://www.producthunt.com/feed" />
+            <outline description="Start and Grow Your Business" text="Quick Sprout"
+                title="Quick Sprout" type="rss"
+                xmlUrl="https://www.quicksprout.com/rss" />
+            <outline description="Smart Passive Income" text="Smart Passive Income"
+                title="Smart Passive Income"
+                type="rss" xmlUrl="https://feeds.feedburner.com/smartpassiveincome" />
+            <outline description="Innovation That Matters" text="Springwise" title="Springwise"
+                type="rss" xmlUrl="https://www.springwise.com/feed" />
+            <outline description="Innovation and Entrepreneurship" text="Steve Blank"
+                title="Steve Blank" type="rss"
+                xmlUrl="https://steveblank.com/feed/" />
+            <outline description="The Startup Junkies podcast is hosted by Jeff Amerine and his team at Startup Junkie Consulting. We’ll cover topics ranging from getting started, planning, growing your business, proving your concept, leadership, marketing, exit strategies and so much more. We’ll interview business owners, entrepreneurs, experts and people we think will bring value to our audience. Subscribe and together we will move your business to the next level." text="The Startup Junkies Podcast"
+                title="The Startup Junkies Podcast"
+                type="rss" xmlUrl="https://startupjunkie.libsyn.com/rss" />
+            <outline description="Angel investor Jason Calacanis (Uber, Calm, Robinhood) interviews the world’s greatest founders, operators, investors and innovators. Get an insider’s look into venture capital, learn how to start and scale your own startup, and ride the cutting edge of technology in today’s headlines and beyond." text="This Week in Startups - Video"
+                title="This Week in Startups - Video"
+                type="rss" xmlUrl="https://feeds.feedburner.com/twistvid" />
+            <outline description="Transformative tech coverage that matters" text="VentureBeat"
+                title="VentureBeat"
+                type="rss" xmlUrl="https://feeds.feedburner.com/venturebeat/SZYF" />
+            <outline description="" text="blog – Feld Thoughts" title="blog – Feld Thoughts"
+                type="rss" xmlUrl="https://feld.com/archives/tag/blog/feed" />
+        </outline>
+    </body>
 </opml>

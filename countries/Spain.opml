@@ -1,16 +1,29 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <opml version="1.0">
-	
-	<body>
-		<outline text="Spain" title="Spain">
-			<outline text="The Local" title="The Local" description="Europe's news in English" xmlUrl="https://feeds.thelocal.com/rss/es" type="rss" />
-			<outline text="EL PAÍS: el periódico global" title="EL PAÍS: el periódico global" description="Noticias de última hora sobre la actualidad en España y el mundo: política, economía, deportes, cultura, sociedad, tecnología, gente, opinión, viajes, moda, televisión, los blogs y las firmas de EL PAÍS. Además especiales, vídeos, fotos, audios, gráficos, entrevistas, promociones y todos los servicios de EL PAÍS." xmlUrl="https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada" type="rss" />
-			<outline text="España" title="España" description="España" xmlUrl="https://rss.elconfidencial.com/espana/" type="rss" />
-			<outline text="ElDiario.es - ElDiario.es" title="ElDiario.es - ElDiario.es" description="ElDiario.es - ElDiario.es" xmlUrl="https://www.eldiario.es/rss/" type="rss" />
-			<outline text="Portada // expansion" title="Portada // expansion" description="Portada // expansion" xmlUrl="https://e00-expansion.uecdn.es/rss/portada.xml" type="rss" />
-			<outline text="El Periódico - portada" title="El Periódico - portada" description="El Periódico - Todas las noticias de la portada" xmlUrl="https://www.elperiodico.com/es/rss/rss_portada.xml" type="rss" />
-			<outline text="huffingtonpost.es" title="huffingtonpost.es" description="" xmlUrl="https://www.huffingtonpost.es/feeds/index.xml" type="rss" />
-			<outline text="Euro Weekly News Spain" title="Euro Weekly News Spain" description="Spain News" xmlUrl="https://www.euroweeklynews.com/feed/" type="rss" />
-		</outline>
-	</body>
+
+    <body>
+        <outline text="Spain" title="Spain">
+            <outline description="Europe's news in English" text="The Local" title="The Local"
+                type="rss" xmlUrl="https://feeds.thelocal.com/rss/es" />
+            <outline description="Noticias de última hora sobre la actualidad en España y el mundo: política, economía, deportes, cultura, sociedad, tecnología, gente, opinión, viajes, moda, televisión, los blogs y las firmas de EL PAÍS. Además especiales, vídeos, fotos, audios, gráficos, entrevistas, promociones y todos los servicios de EL PAÍS." text="EL PAÍS: el periódico global"
+                title="EL PAÍS: el periódico global"
+                type="rss"
+                xmlUrl="https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada" />
+            <outline description="España" text="España" title="España"
+                type="rss" xmlUrl="https://rss.elconfidencial.com/espana/" />
+            <outline description="ElDiario.es - ElDiario.es" text="ElDiario.es - ElDiario.es"
+                title="ElDiario.es - ElDiario.es" type="rss"
+                xmlUrl="https://www.eldiario.es/rss/" />
+            <outline description="Portada // expansion" text="Portada // expansion"
+                title="Portada // expansion"
+                type="rss" xmlUrl="https://e00-expansion.uecdn.es/rss/portada.xml" />
+            <outline description="El Periódico - Todas las noticias de la portada" text="El Periódico - portada"
+                title="El Periódico - portada"
+                type="rss" xmlUrl="https://www.elperiodico.com/es/rss/rss_portada.xml" />
+            <outline description="" text="huffingtonpost.es" title="huffingtonpost.es"
+                type="rss" xmlUrl="https://www.huffingtonpost.es/feeds/index.xml" />
+            <outline description="Spain News" text="Euro Weekly News Spain"
+                title="Euro Weekly News Spain" type="rss" xmlUrl="https://www.euroweeklynews.com/feed/" />
+        </outline>
+    </body>
 </opml>

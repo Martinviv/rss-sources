@@ -1,13 +1,23 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <opml version="1.0">
-	
-	<body>
-		<outline text="Travel" title="Travel">
-			<outline text="Atlas Obscura - Latest Articles and Places" title="Atlas Obscura - Latest Articles and Places" description="New wonders and curiosities added to the Atlas." xmlUrl="https://www.atlasobscura.com/feeds/latest" type="rss" />
-			<outline text="Live Life Travel" title="Live Life Travel" description="Your travel partner for life" xmlUrl="https://www.livelifetravel.world/feed/" type="rss" />
-			<outline text="NYT > Travel" title="NYT > Travel" description="" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml" type="rss" />
-			<outline text="Nomadic Matt's Travel Site" title="Nomadic Matt's Travel Site" description="Travel Better, Cheaper, Longer" xmlUrl="https://www.nomadicmatt.com/travel-blog/feed/" type="rss" />
-			<outline text="Travel | The Guardian" title="Travel | The Guardian" description="Latest travel news and reviews on UK and world holidays, travel guides to global destinations, city breaks, hotels and restaurant information from the Guardian, the world's leading liberal voice" xmlUrl="https://www.theguardian.com/uk/travel/rss" type="rss" />
-		</outline>
-	</body>
+
+    <body>
+        <outline text="Travel" title="Travel">
+            <outline description="New wonders and curiosities added to the Atlas."
+                text="Atlas Obscura - Latest Articles and Places"
+                title="Atlas Obscura - Latest Articles and Places"
+                type="rss" xmlUrl="https://www.atlasobscura.com/feeds/latest" />
+            <outline description="Your travel partner for life" text="Live Life Travel"
+                title="Live Life Travel"
+                type="rss" xmlUrl="https://www.livelifetravel.world/feed/" />
+            <outline description="" text="NYT > Travel" title="NYT > Travel"
+                type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml" />
+            <outline description="Travel Better, Cheaper, Longer" text="Nomadic Matt's Travel Site"
+                title="Nomadic Matt's Travel Site"
+                type="rss" xmlUrl="https://www.nomadicmatt.com/travel-blog/feed/" />
+            <outline description="Latest travel news and reviews on UK and world holidays, travel guides to global destinations, city breaks, hotels and restaurant information from the Guardian, the world's leading liberal voice" text="Travel | The Guardian"
+                title="Travel | The Guardian"
+                type="rss" xmlUrl="https://www.theguardian.com/uk/travel/rss" />
+        </outline>
+    </body>
 </opml>

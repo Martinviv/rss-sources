@@ -1,13 +1,23 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <opml version="1.0">
-	
-	<body>
-		<outline text="Web Development" title="Web Development">
-			<outline text="A List Apart: The Full Feed" title="A List Apart: The Full Feed" description="Articles for people who make web sites." xmlUrl="https://alistapart.com/main/feed/" type="rss" />
-			<outline text="CSS-Tricks" title="CSS-Tricks" description="Tips, Tricks, and Techniques on using Cascading Style Sheets." xmlUrl="https://css-tricks.com/feed/" type="rss" />
-			<outline text="David Walsh Blog" title="David Walsh Blog" description="A blog featuring tutorials about JavaScript, HTML5, AJAX, PHP, CSS, WordPress, and everything else development." xmlUrl="https://davidwalsh.name/feed" type="rss" />
-			<outline text="Mozilla Hacks – the Web developer blog" title="Mozilla Hacks – the Web developer blog" description="hacks.mozilla.org" xmlUrl="https://hacks.mozilla.org/feed/" type="rss" />
-			<outline text="Sink In - Tech and Travel" title="Sink In - Tech and Travel" description="Sink In - Tech and Travel" xmlUrl="https://gosink.in/rss/" type="rss" />
-		</outline>
-	</body>
+
+    <body>
+        <outline text="Web Development" title="Web Development">
+            <outline description="Articles for people who make web sites." text="A List Apart: The Full Feed"
+                title="A List Apart: The Full Feed"
+                type="rss" xmlUrl="https://alistapart.com/main/feed/" />
+            <outline description="Tips, Tricks, and Techniques on using Cascading Style Sheets." text="CSS-Tricks"
+                title="CSS-Tricks"
+                type="rss" xmlUrl="https://css-tricks.com/feed/" />
+            <outline description="A blog featuring tutorials about JavaScript, HTML5, AJAX, PHP, CSS, WordPress, and everything else development." text="David Walsh Blog"
+                title="David Walsh Blog"
+                type="rss" xmlUrl="https://davidwalsh.name/feed" />
+            <outline description="hacks.mozilla.org"
+                text="Mozilla Hacks – the Web developer blog" title="Mozilla Hacks – the Web developer blog"
+                type="rss" xmlUrl="https://hacks.mozilla.org/feed/" />
+            <outline description="Sink In - Tech and Travel" text="Sink In - Tech and Travel"
+                title="Sink In - Tech and Travel" type="rss"
+                xmlUrl="https://gosink.in/rss/" />
+        </outline>
+    </body>
 </opml>

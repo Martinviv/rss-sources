@@ -1,19 +1,42 @@
 <?xml version='1.0' encoding='UTF-8' ?>
 <opml version="1.0">
-	
-	<body>
-		<outline text="Space" title="Space">
-			<outline text="/r/space: news, articles and discussion" title="/r/space: news, articles and discussion" description="Share and discuss informative content on: * Astrophysics * Cosmology * Space Exploration * Planetary Science * Astrobiology" xmlUrl="https://www.reddit.com/r/space/.rss?format=xml" type="rss" />
-			<outline text="NASA Breaking News" title="NASA Breaking News" description="A RSS news feed containing the latest NASA news articles and press releases." xmlUrl="https://www.nasa.gov/rss/dyn/breaking_news.rss" type="rss" />
-			<outline text="NASA Image of the Day" title="NASA Image of the Day" description="A RSS news feed containing the latest NASA Image of the Day articles." xmlUrl="https://www.nasa.gov/feeds/iotd-feed/" type="rss" />
-			<outline text="ESA Top News" title="ESA Top News" description="The latest news from the European Space Agency" xmlUrl="https://www.esa.int/rssfeed/Our_Activities/Space_News" type="rss" />
-			<outline text="ESA Observing the Earth" title="ESA Observing the Earth" description="The latest news from the European Space Agency" xmlUrl="https://www.esa.int/rssfeed/Our_Activities/Observing_the_Earth" type="rss" />
-			<outline text="Roscosmos" title="Roscosmos" description="The latest news from the Russian space agency" xmlUrl="https://www.roscosmos.ru/rss/news.xml" type="rss" />
-			<outline text="New Scientist - Space" title="New Scientist - Space" description="New Scientist - Space" xmlUrl="https://www.newscientist.com/subject/space/feed/" type="rss" />
-			<outline text="Sky and Telescope" title="Sky and Telescope" description="The essential guide to astronomy" xmlUrl="https://www.skyandtelescope.com/feed/" type="rss" />
-			<outline text="Space | The Guardian" title="Space | The Guardian" description="Latest news and features from theguardian.com, the world's leading liberal voice" xmlUrl="https://www.theguardian.com/science/space/rss" type="rss" />
-			<outline text="Space.com" title="Space.com" description="Get the latest space exploration, innovation and astronomy news. Space.com celebrates humanity's ongoing expansion across the final frontier." xmlUrl="https://www.space.com/feeds/all" type="rss" />
-			<outline text="SpaceX" title="SpaceX" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=spacexchannel" type="rss" />
-		</outline>
-	</body>
+
+    <body>
+        <outline text="Space" title="Space">
+            <outline description="Share and discuss informative content on: * Astrophysics * Cosmology * Space Exploration * Planetary Science * Astrobiology"
+                text="/r/space: news, articles and discussion"
+                title="/r/space: news, articles and discussion"
+                type="rss" xmlUrl="https://www.reddit.com/r/space/.rss?format=xml" />
+            <outline description="A RSS news feed containing the latest NASA news articles and press releases." text="NASA Breaking News"
+                title="NASA Breaking News"
+                type="rss" xmlUrl="https://www.nasa.gov/rss/dyn/breaking_news.rss" />
+            <outline description="A RSS news feed containing the latest NASA Image of the Day articles." text="NASA Image of the Day"
+                title="NASA Image of the Day"
+                type="rss" xmlUrl="https://www.nasa.gov/feeds/iotd-feed/" />
+            <outline description="The latest news from the European Space Agency" text="ESA Top News"
+                title="ESA Top News"
+                type="rss" xmlUrl="https://www.esa.int/rssfeed/Our_Activities/Space_News" />
+            <outline description="The latest news from the European Space Agency" text="ESA Observing the Earth"
+                title="ESA Observing the Earth"
+                type="rss"
+                xmlUrl="https://www.esa.int/rssfeed/Our_Activities/Observing_the_Earth" />
+            <outline description="The latest news from the Russian space agency" text="Roscosmos"
+                title="Roscosmos"
+                type="rss" xmlUrl="https://www.roscosmos.ru/rss/news.xml" />
+            <outline description="New Scientist - Space" text="New Scientist - Space"
+                title="New Scientist - Space"
+                type="rss" xmlUrl="https://www.newscientist.com/subject/space/feed/" />
+            <outline description="The essential guide to astronomy" text="Sky and Telescope"
+                title="Sky and Telescope"
+                type="rss" xmlUrl="https://www.skyandtelescope.com/feed/" />
+            <outline description="Latest news and features from theguardian.com, the world's leading liberal voice" text="Space | The Guardian"
+                title="Space | The Guardian"
+                type="rss" xmlUrl="https://www.theguardian.com/science/space/rss" />
+            <outline description="Get the latest space exploration, innovation and astronomy news. Space.com celebrates humanity's ongoing expansion across the final frontier." text="Space.com"
+                title="Space.com"
+                type="rss" xmlUrl="https://www.space.com/feeds/all" />
+            <outline description="" text="SpaceX" title="SpaceX"
+                type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=spacexchannel" />
+        </outline>
+    </body>
 </opml>
