@@ -31,7 +31,7 @@
                 type="rss" xmlUrl="https://www.bleedingcool.com/movies/feed/" />
             <outline description="Pop culture obsessives writing for the pop culture obsessed." text="The A.V. Club"
                 title="The A.V. Club"
-                type="rss" xmlUrl="https://film.avclub.com/rss" />
+                type="rss" xmlUrl="https://www.avclub.com/rss.xml" />
             <outline description="" text="Variety" title="Variety"
                 type="rss" xmlUrl="https://variety.com/feed/" />
         </outline>
