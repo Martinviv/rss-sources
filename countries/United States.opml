@@ -23,7 +23,7 @@
             <outline description="CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more."
                 text="CNN.com - RSS Channel - App International Edition"
                 title="CNN.com - RSS Channel - App International Edition"
-                type="rss" xmlUrl="http://rss.cnn.com/rss/edition.rss" />
+                type="rss" xmlUrl="http://rss.cnn.com/rss/cnn_latest.rss" />
             <outline description="The latest news and headlines from Yahoo! News. Get breaking news stories and in-depth coverage with videos and photos."
                 text="Yahoo News - Latest News and Headlines"
                 title="Yahoo News - Latest News and Headlines"
