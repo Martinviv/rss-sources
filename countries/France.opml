@@ -3,7 +3,7 @@
 
     <body>
         <outline text="France" title="France">
-            <outline description="" text="france24.com" title="france24.com"
+            <outline description="" text="france24.com" title="France 24"
                 type="rss" xmlUrl="https://www.france24.com/en/rss" />
             <outline description="Mediapart" text="Mediapart" title="Mediapart"
                 type="rss" xmlUrl="https://www.mediapart.fr/articles/feed" />

@@ -8,8 +8,6 @@
                 type="rss" xmlUrl="https://www.thedailystar.net/frontpage/rss.xml" />
             <outline description="banglanews24.com RSS Feed" text="Bangla News" title="Bangla News"
                 type="rss" xmlUrl="https://www.banglanews24.com/rss/rss.xml" />
-            <outline description="RSS feed of latest topics" text="JUGANTOR" title="JUGANTOR"
-                type="rss" xmlUrl="https://www.jugantor.com/feed/rss.xml" />
             <outline description="A RSS news feed containing the latest Jago News articles." text="jagonews24.com | rss Feed"
                 title="jagonews24.com | rss Feed"
                 type="rss" xmlUrl="https://www.jagonews24.com/rss/rss.xml" />
