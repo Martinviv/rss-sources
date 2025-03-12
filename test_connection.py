@@ -15,8 +15,9 @@ def test_rss_content(url):
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
         }
-        response = requests.get(url, headers=headers)
-        if response.status_code == 200 and 'xml' in response.headers['content-type']:
+        response = requests.get(url, headers=headers, timeout=10)
+        content_type = response.headers.get('content-type', '').lower()
+        if response.status_code == 200 and 'xml' in content_type:
             # Check if the content is in XML format (RSS)
             try:
                 tree = ET.fromstring(response.text)
@@ -34,8 +35,12 @@ def test_rss_content(url):
         return f"HTTP request error: {str(e)}"
 
 def process_file(file_path, csv_writer):
-    tree = ET.parse(file_path)
-    root = tree.getroot()
+    try:
+        tree = ET.parse(file_path)
+        root = tree.getroot()
+    except ET.ParseError:
+        print(f"Error parsing {file_path}")
+        return
     
     outlines = root.findall(".//outline")
     
@@ -43,7 +48,7 @@ def process_file(file_path, csv_writer):
     progress_bar = tqdm(total = total_outlines, desc=f"Processing {file_path}", unit="link")
    
 
-    for outline in root.findall(".//outline"):
+    for outline in outlines:
         if 'xmlUrl' in outline.attrib:
             url = outline.attrib['xmlUrl']
             reason = test_rss_content(url)
@@ -61,7 +66,7 @@ directory_path = 'recommended'
 file_paths = glob.glob(directory_path + '/*.opml')
 
 # Open the CSV file in write mode
-with open('countries_report.csv', 'w', newline='') as csv_file:
+with open(directory_path + '_' + 'report.csv', 'w', newline='') as csv_file:
     csv_writer = csv.writer(csv_file)
     csv_writer.writerow(['URL', 'Success', 'Reason'])  # Write the CSV header
 
