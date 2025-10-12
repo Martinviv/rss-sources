@@ -910,7 +910,7 @@ Currently, the suggested sources for topics are primarily in English. However, y
 | Kotaku | [https://kotaku.com/rss](https://kotaku.com/rss) |
 | Makeup and Beauty Blog \| Makeup Reviews, Swatches and How-To Makeup | [https://www.makeupandbeautyblog.com/feed/](https://www.makeupandbeautyblog.com/feed/) |
 | PlayStation.Blog | [https://feeds.feedburner.com/psblog](https://feeds.feedburner.com/psblog) |
-| Polygon -  All | [https://www.polygon.com/rss/index.xml](https://www.polygon.com/rss/index.xml) |
+| Polygon.com | [https://www.polygon.com/feed/](https://www.polygon.com/feed/) |
 | Rock, Paper, Shotgun | [https://feeds.feedburner.com/RockPaperShotgun](https://feeds.feedburner.com/RockPaperShotgun) |
 | Steam RSS News Feed | [https://store.steampowered.com/feeds/news.xml](https://store.steampowered.com/feeds/news.xml) |
 | The Ancient Gaming Noob | [https://feeds.feedburner.com/TheAncientGamingNoob](https://feeds.feedburner.com/TheAncientGamingNoob) |
