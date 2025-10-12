@@ -28,8 +28,9 @@
             <outline description="Official PlayStation Blog for news and video updates on PlayStation, PS5, PS4, PS VR, PlayStation Plus and more." text="PlayStation.Blog"
                 title="PlayStation.Blog"
                 type="rss" xmlUrl="https://feeds.feedburner.com/psblog" />
-            <outline description="" text="Polygon -  All" title="Polygon -  All"
-                type="rss" xmlUrl="https://www.polygon.com/rss/index.xml" />
+            <outline description="Your source for the latest in video games, sci-fi, fantasy, tabletop games, anime, horror, books, and comics." text="Polygon.com"
+                title="Polygon.com"
+                type="rss" xmlUrl="https://www.polygon.com/feed/" />
             <outline description="This is a feed of all the latest articles from Rock Paper Shotgun." text="Rock, Paper, Shotgun"
                 title="Rock, Paper, Shotgun"
                 type="rss" xmlUrl="https://feeds.feedburner.com/RockPaperShotgun" />
