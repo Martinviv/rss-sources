@@ -1,0 +1,82 @@
+{
+  "title": "Space",
+  "feeds": [
+    {
+      "title": "/r/space: news, articles and discussion",
+      "text": "/r/space: news, articles and discussion",
+      "type": "rss",
+      "url": "https://www.reddit.com/r/space/.rss?format=xml",
+      "description": "Share and discuss informative content on: * Astrophysics * Cosmology * Space Exploration * Planetary Science * Astrobiology"
+    },
+    {
+      "title": "NASA Breaking News",
+      "text": "NASA Breaking News",
+      "type": "rss",
+      "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+      "description": "A RSS news feed containing the latest NASA news articles and press releases."
+    },
+    {
+      "title": "NASA Image of the Day",
+      "text": "NASA Image of the Day",
+      "type": "rss",
+      "url": "https://www.nasa.gov/feeds/iotd-feed/",
+      "description": "A RSS news feed containing the latest NASA Image of the Day articles."
+    },
+    {
+      "title": "ESA Top News",
+      "text": "ESA Top News",
+      "type": "rss",
+      "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News",
+      "description": "The latest news from the European Space Agency"
+    },
+    {
+      "title": "ESA Observing the Earth",
+      "text": "ESA Observing the Earth",
+      "type": "rss",
+      "url": "https://www.esa.int/rssfeed/Our_Activities/Observing_the_Earth",
+      "description": "The latest news from the European Space Agency"
+    },
+    {
+      "title": "Roscosmos",
+      "text": "Roscosmos",
+      "type": "rss",
+      "url": "https://www.roscosmos.ru/rss/news.xml",
+      "description": "The latest news from the Russian space agency"
+    },
+    {
+      "title": "New Scientist - Space",
+      "text": "New Scientist - Space",
+      "type": "rss",
+      "url": "https://www.newscientist.com/subject/space/feed/",
+      "description": ""
+    },
+    {
+      "title": "Sky and Telescope",
+      "text": "Sky and Telescope",
+      "type": "rss",
+      "url": "https://www.skyandtelescope.com/feed/",
+      "description": "The essential guide to astronomy"
+    },
+    {
+      "title": "Space | The Guardian",
+      "text": "Space | The Guardian",
+      "type": "rss",
+      "url": "https://www.theguardian.com/science/space/rss",
+      "description": "Latest news and features from theguardian.com, the world's leading liberal voice"
+    },
+    {
+      "title": "Space.com",
+      "text": "Space.com",
+      "type": "rss",
+      "url": "https://www.space.com/feeds/all",
+      "description": "Get the latest space exploration, innovation and astronomy news. Space.com celebrates humanity's ongoing expansion across the final frontier."
+    },
+    {
+      "title": "SpaceX",
+      "text": "SpaceX",
+      "type": "rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?user=spacexchannel",
+      "description": ""
+    }
+  ]
+}

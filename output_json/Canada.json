@@ -1,0 +1,75 @@
+{
+  "title": "Canada",
+  "feeds": [
+    {
+      "title": "CBC | Top Stories News",
+      "text": "CBC | Top Stories News",
+      "type": "rss",
+      "url": "https://www.cbc.ca/cmlink/rss-topstories",
+      "description": "FOR PERSONAL USE ONLY"
+    },
+    {
+      "title": "CTVNews.ca - Top Stories - Public RSS",
+      "text": "CTVNews.ca - Top Stories - Public RSS",
+      "type": "rss",
+      "url": "https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009",
+      "description": "Latest news from CTVNews.ca"
+    },
+    {
+      "title": "Global News",
+      "text": "Global News",
+      "type": "rss",
+      "url": "https://globalnews.ca/feed/",
+      "description": ""
+    },
+    {
+      "title": "Financial Post",
+      "text": "Financial Post",
+      "type": "rss",
+      "url": "https://business.financialpost.com/feed/",
+      "description": "Canada Business News | Financial Updates and Information"
+    },
+    {
+      "title": "National Post",
+      "text": "National Post",
+      "type": "rss",
+      "url": "https://nationalpost.com/feed/",
+      "description": "Canadian News, World News and Breaking Headlines"
+    },
+    {
+      "title": "Ottawa Citizen",
+      "text": "Ottawa Citizen",
+      "type": "rss",
+      "url": "https://ottawacitizen.com/feed/",
+      "description": "Ottawa Latest News, Breaking Headlines and Sports"
+    },
+    {
+      "title": "The Province",
+      "text": "The Province",
+      "type": "rss",
+      "url": "https://theprovince.com/feed/",
+      "description": "Vancouver, BC News, Sports and Breaking Headlines"
+    },
+    {
+      "title": "LaPresse.ca - Actualités",
+      "text": "LaPresse.ca - Actualités",
+      "type": "rss",
+      "url": "https://www.lapresse.ca/actualites/rss",
+      "description": ""
+    },
+    {
+      "title": "Toronto Star",
+      "text": "Toronto Star",
+      "type": "rss",
+      "url": "https://www.thestar.com/search/?f=rss",
+      "description": "Toronto Star"
+    },
+    {
+      "title": "Toronto Sun - RSS Feed",
+      "text": "Toronto Sun - RSS Feed",
+      "type": "rss",
+      "url": "https://torontosun.com/category/news/feed",
+      "description": ""
+    }
+  ]
+}

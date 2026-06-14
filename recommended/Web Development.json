@@ -1,0 +1,40 @@
+{
+  "title": "Web Development",
+  "feeds": [
+    {
+      "title": "A List Apart: The Full Feed",
+      "text": "A List Apart: The Full Feed",
+      "type": "rss",
+      "url": "https://alistapart.com/main/feed/",
+      "description": "Articles for people who make web sites."
+    },
+    {
+      "title": "CSS-Tricks",
+      "text": "CSS-Tricks",
+      "type": "rss",
+      "url": "https://css-tricks.com/feed/",
+      "description": "Tips, Tricks, and Techniques on using Cascading Style Sheets."
+    },
+    {
+      "title": "David Walsh Blog",
+      "text": "David Walsh Blog",
+      "type": "rss",
+      "url": "https://davidwalsh.name/feed",
+      "description": "A blog featuring tutorials about JavaScript, HTML5, AJAX, PHP, CSS, WordPress, and everything else development."
+    },
+    {
+      "title": "Mozilla Hacks – the Web developer blog",
+      "text": "Mozilla Hacks – the Web developer blog",
+      "type": "rss",
+      "url": "https://hacks.mozilla.org/feed/",
+      "description": "hacks.mozilla.org"
+    },
+    {
+      "title": "Sink In - Tech and Travel",
+      "text": "Sink In - Tech and Travel",
+      "type": "rss",
+      "url": "https://gosink.in/rss/",
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Travel",
+  "feeds": [
+    {
+      "title": "Atlas Obscura - Latest Articles and Places",
+      "text": "Atlas Obscura - Latest Articles and Places",
+      "type": "rss",
+      "url": "https://www.atlasobscura.com/feeds/latest",
+      "description": "New wonders and curiosities added to the Atlas."
+    },
+    {
+      "title": "Live Life Travel",
+      "text": "Live Life Travel",
+      "type": "rss",
+      "url": "https://www.livelifetravel.world/feed/",
+      "description": "Your travel partner for life"
+    },
+    {
+      "title": "NYT > Travel",
+      "text": "NYT > Travel",
+      "type": "rss",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
+      "description": ""
+    },
+    {
+      "title": "Nomadic Matt's Travel Site",
+      "text": "Nomadic Matt's Travel Site",
+      "type": "rss",
+      "url": "https://www.nomadicmatt.com/travel-blog/feed/",
+      "description": "Travel Better, Cheaper, Longer"
+    },
+    {
+      "title": "Travel | The Guardian",
+      "text": "Travel | The Guardian",
+      "type": "rss",
+      "url": "https://www.theguardian.com/uk/travel/rss",
+      "description": "Latest travel news and reviews on UK and world holidays, travel guides to global destinations, city breaks, hotels and restaurant information from the Guardian, the world's leading liberal voice"
+    }
+  ]
+}

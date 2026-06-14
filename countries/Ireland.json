@@ -1,0 +1,47 @@
+{
+  "title": "Ireland",
+  "feeds": [
+    {
+      "title": "TheJournal.ie",
+      "text": "TheJournal.ie",
+      "type": "rss",
+      "url": "https://www.thejournal.ie/feed/",
+      "description": "Ireland's Internet Newspaper"
+    },
+    {
+      "title": "All: BreakingNews.ie",
+      "text": "All: BreakingNews.ie",
+      "type": "rss",
+      "url": "https://feeds.breakingnews.ie/bntopstories",
+      "description": "Ireland's premier breaking news website providing up to the minute news and sports reports. With e-mail news releases following breaking stories throughout the day."
+    },
+    {
+      "title": "The42",
+      "text": "The42",
+      "type": "rss",
+      "url": "https://www.the42.ie/feed/",
+      "description": "Ireland's Internet Newspaper"
+    },
+    {
+      "title": "IrishExaminer.com",
+      "text": "IrishExaminer.com",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/ietopstories",
+      "description": "Ireland's premier breaking news website providing up to the minute news and sports reports. With e-mail news releases following breaking stories throughout the day."
+    },
+    {
+      "title": "IrishCentral.com - Top Stories",
+      "text": "IrishCentral.com - Top Stories",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/IrishCentral",
+      "description": "Whether you are looking for Irish news, Irish entertainment, Irish sport, Irish culture or Irish celebrities - IrishCentral.com is the best daily source for everything Irish."
+    },
+    {
+      "title": "Irish Mirror - Home",
+      "text": "Irish Mirror - Home",
+      "type": "rss",
+      "url": "https://www.irishmirror.ie/?service=rss",
+      "description": "RSS feed from Irish Mirror"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "title": "Cricket",
+  "feeds": [
+    {
+      "title": "BBC Sport - Cricket",
+      "text": "BBC Sport - Cricket",
+      "type": "rss",
+      "url": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
+      "description": ""
+    },
+    {
+      "title": "Can't Bowl Can't Throw Cricket Show",
+      "text": "Can't Bowl Can't Throw Cricket Show",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/cantbowlcantthrow",
+      "description": "The second season of the Can't Bowl Can't Throw Cricket Show, in which we talk about cricket on a podcast. In a second season."
+    },
+    {
+      "title": "Cricbuzz",
+      "text": "Cricbuzz",
+      "type": "rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSRQXk5yErn4e14vN76upOw",
+      "description": ""
+    },
+    {
+      "title": "Cricket",
+      "text": "Cricket",
+      "type": "rss",
+      "url": "https://www.reddit.com/r/Cricket/.rss",
+      "description": "News, banter and occasional serious discussion on the great game."
+    },
+    {
+      "title": "Cricket Unfiltered",
+      "text": "Cricket Unfiltered",
+      "type": "rss",
+      "url": "https://rss.acast.com/cricket-unfiltered",
+      "description": "If you love cricket then this podcast is for you. Get closer to the game than ever before with the longest running weekly Australian cricket podcast. The show has twice been a finalist in the Australian Podcast Awards and has episodes placed in the National Film Sound Archive. The podcast is hosted by Andrew Menczel, Paul Dennett and Jelisa Apps. The show features a wide variety of cricket journalists, current players and retired cricket greats. This is must listen for cricket fans."
+    },
+    {
+      "title": "Cricket news from ESPN Cricinfo.com",
+      "text": "Cricket news from ESPN Cricinfo.com",
+      "type": "rss",
+      "url": "https://www.espncricinfo.com/rss/content/story/feeds/0.xml",
+      "description": "Visit Cricinfo.com for up-to-the-minute cricket news, breaking cricket news, live cricket commentary, ball-by-ball commentary, cricket video, cricket audio and features."
+    },
+    {
+      "title": "Cricket | The Guardian",
+      "text": "Cricket | The Guardian",
+      "type": "rss",
+      "url": "https://www.theguardian.com/sport/cricket/rss",
+      "description": "Latest news and features from theguardian.com, the world's leading liberal voice"
+    },
+    {
+      "title": "Cricket – The Roar",
+      "text": "Cricket – The Roar",
+      "type": "rss",
+      "url": "https://www.theroar.com.au/cricket/feed/",
+      "description": "Australia's Biggest Sporting Debate"
+    },
+    {
+      "title": "England and Wales Cricket Board",
+      "text": "England and Wales Cricket Board",
+      "type": "rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?user=ecbcricket",
+      "description": ""
+    },
+    {
+      "title": "NDTV Sports - Cricket",
+      "text": "NDTV Sports - Cricket",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/ndtvsports-cricket",
+      "description": "NDTV.com provides the latest information from and in-depth coverage of India and the world. Find breaking news, India news, top stories, elections, politics, business, cricket, movies, lifestyle, health, live TV, videos, photos and more."
+    },
+    {
+      "title": "Pakistan Cricket",
+      "text": "Pakistan Cricket",
+      "type": "rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiWrjBhlICf_L_RK5y6Vrxw",
+      "description": ""
+    },
+    {
+      "title": "Sky Sports Cricket Podcast",
+      "text": "Sky Sports Cricket Podcast",
+      "type": "rss",
+      "url": "https://www.spreaker.com/show/3387348/episodes/feed",
+      "description": "Sky's pundits analyse and debate the big stories emerging from international and domestic cricket. Join in the debate on Twitter @SkyCricket."
+    },
+    {
+      "title": "Sri Lanka Cricket",
+      "text": "Sri Lanka Cricket",
+      "type": "rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?user=TheOfficialSLC",
+      "description": ""
+    },
+    {
+      "title": "Stumped",
+      "text": "Stumped",
+      "type": "rss",
+      "url": "https://podcasts.files.bbci.co.uk/p02gsrmh.rss",
+      "description": "The weekly cricket show from BBC Sport in association with ABC and All India Radio."
+    },
+    {
+      "title": "Switch Hit Podcast",
+      "text": "Switch Hit Podcast",
+      "type": "rss",
+      "url": "https://feeds.megaphone.fm/ESP9247246951",
+      "description": "Lively debate and discussion about the game on and off the field with a focus on English cricket. Featuring former England batsman Mark Butcher alongside ESPNcricinfo's writers and reporters."
+    },
+    {
+      "title": "Tailenders",
+      "text": "Tailenders",
+      "type": "rss",
+      "url": "https://podcasts.files.bbci.co.uk/p02pcb4w.rss",
+      "description": "Greg James, Jimmy Anderson and Felix White with an alternative (and sometimes musical) look at cricket..."
+    },
+    {
+      "title": "Test Match Special",
+      "text": "Test Match Special",
+      "type": "rss",
+      "url": "https://podcasts.files.bbci.co.uk/p02nrsl2.rss",
+      "description": "Insight and analysis from the Test Match Special team - including interviews with top players and special features."
+    },
+    {
+      "title": "The Analyst Inside Cricket",
+      "text": "The Analyst Inside Cricket",
+      "type": "rss",
+      "url": "https://feeds.megaphone.fm/COMG5373347098",
+      "description": "Sharp analysis and opinion from the cricket world with Simon Hughes, The Analyst and the BBC's Simon Mann, featuring comment, analysis, interviews with international players and celebrity guests."
+    },
+    {
+      "title": "The Grade Cricketer",
+      "text": "The Grade Cricketer",
+      "type": "rss",
+      "url": "https://rss.whooshkaa.com/rss/podcast/id/1308",
+      "description": "Cricket is great if you're into things like wasted youth, failed relationships, sun damage and broken dreams. A weekly show featuring news, views and interviews with major names from across the cricket scene."
+    },
+    {
+      "title": "Wisden",
+      "text": "Wisden",
+      "type": "rss",
+      "url": "https://www.wisden.com/feed",
+      "description": "The independent voice of cricket"
+    },
+    {
+      "title": "Wisden Cricket Weekly",
+      "text": "Wisden Cricket Weekly",
+      "type": "rss",
+      "url": "https://feeds.megaphone.fm/COMG4211358924",
+      "description": "Join Mark Butcher, Yas Rana and the rest of the Wisden Cricket Weekly Podcast team for a weekly reflection on all the big stories from the game that week."
+    },
+    {
+      "title": "cricket.com.au",
+      "text": "cricket.com.au",
+      "type": "rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?user=cricketaustraliatv",
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Television",
+  "feeds": [
+    {
+      "title": "TV",
+      "text": "TV",
+      "type": "rss",
+      "url": "https://www.bleedingcool.com/tv/feed/",
+      "description": "Comics, Movies, TV, Games"
+    },
+    {
+      "title": "TV Fanatic",
+      "text": "TV Fanatic",
+      "type": "rss",
+      "url": "https://www.tvfanatic.com/rss.xml",
+      "description": ""
+    },
+    {
+      "title": "TVLine",
+      "text": "TVLine",
+      "type": "rss",
+      "url": "https://tvline.com/feed/",
+      "description": "TV News, Previews, Spoilers, Casting Scoop, Interviews"
+    },
+    {
+      "title": "Television News and Discussion",
+      "text": "Television News and Discussion",
+      "type": "rss",
+      "url": "https://reddit.com/r/television/.rss",
+      "description": "‎"
+    },
+    {
+      "title": "The A.V. Club",
+      "text": "The A.V. Club",
+      "type": "rss",
+      "url": "https://tv.avclub.com/rss",
+      "description": "Pop culture obsessives writing for the pop culture obsessed."
+    },
+    {
+      "title": "The TV Addict",
+      "text": "The TV Addict",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/thetvaddict/AXob",
+      "description": "TV News, Previews, Spoilers and Reviews"
+    }
+  ]
+}

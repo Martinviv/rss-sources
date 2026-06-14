@@ -1,0 +1,180 @@
+{
+  "title": "Tech",
+  "feeds": [
+    {
+      "title": "Accidental Tech Podcast",
+      "text": "Accidental Tech Podcast",
+      "type": "rss",
+      "url": "https://atp.fm/rss",
+      "description": "Three nerds discussing tech, Apple, programming, and loosely related matters."
+    },
+    {
+      "title": "Analog(ue)",
+      "text": "Analog(ue)",
+      "type": "rss",
+      "url": "https://www.relay.fm/analogue/feed",
+      "description": "So many podcasts are about our digital devices. Analog(ue) is a show about how these devices make us feel and how they change our lives for the better, but also for the worse. Hosted by Casey Liss and Myke Hurley."
+    },
+    {
+      "title": "Ars Technica",
+      "text": "Ars Technica",
+      "type": "rss",
+      "url": "https://feeds.arstechnica.com/arstechnica/index",
+      "description": "Serving the Technologist for more than a decade. IT news, reviews, and analysis."
+    },
+    {
+      "title": "CNET",
+      "text": "CNET",
+      "type": "rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?user=CNETTV",
+      "description": ""
+    },
+    {
+      "title": "CNET News",
+      "text": "CNET News",
+      "type": "rss",
+      "url": "https://www.cnet.com/rss/news/",
+      "description": "CNET news editors and reporters provide top technology news, with investigative reporting and in-depth coverage of tech issues and events."
+    },
+    {
+      "title": "Clockwise",
+      "text": "Clockwise",
+      "type": "rss",
+      "url": "https://www.relay.fm/clockwise/feed",
+      "description": "Clockwise is a rapid-fire discussion of current technology issues hosted by Dan Moren and Mikah Sargent and featuring two special guests each week. Four people, four topics--and because we're always watching the clock, no episode is longer than 30 minutes. Hosted by Dan Moren and Mikah Sargent."
+    },
+    {
+      "title": "Gizmodo",
+      "text": "Gizmodo",
+      "type": "rss",
+      "url": "https://gizmodo.com/rss",
+      "description": "We come from the future"
+    },
+    {
+      "title": "Hacker News",
+      "text": "Hacker News",
+      "type": "rss",
+      "url": "https://news.ycombinator.com/rss",
+      "description": "Links for the intellectually curious, ranked by readers."
+    },
+    {
+      "title": "Lifehacker",
+      "text": "Lifehacker",
+      "type": "rss",
+      "url": "https://lifehacker.com/rss",
+      "description": "Do everything better"
+    },
+    {
+      "title": "Linus Tech Tips",
+      "text": "Linus Tech Tips",
+      "type": "rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?user=LinusTechTips",
+      "description": ""
+    },
+    {
+      "title": "Marques Brownlee",
+      "text": "Marques Brownlee",
+      "type": "rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?user=marquesbrownlee",
+      "description": ""
+    },
+    {
+      "title": "Mashable",
+      "text": "Mashable",
+      "type": "rss",
+      "url": "http://feeds.mashable.com/Mashable",
+      "description": "Mashable is a leading source for news, information and resources for the Connected Generation. Mashable reports on the importance of digital innovation and how it empowers and inspires people around the world. Mashable's 25 million monthly unique visitors and 10 million social media followers have become one of the most engaged online news communities. Founded in 2005, Mashable is headquartered in New York City with an office in San Francisco."
+    },
+    {
+      "title": "ReadWrite",
+      "text": "ReadWrite",
+      "type": "rss",
+      "url": "https://readwrite.com/feed/",
+      "description": "The Blog of Things"
+    },
+    {
+      "title": "Rocket",
+      "text": "Rocket",
+      "type": "rss",
+      "url": "https://www.relay.fm/rocket/feed",
+      "description": "Countdown to excitement! Every week Christina Warren, Brianna Wu and Simone de Rochefort have accelerated geek conversation. Tech, comics, movies, games and books, no galaxy is off limits! Hosted by Christina Warren, Brianna Wu, and Simone De Rochefort."
+    },
+    {
+      "title": "Slashdot",
+      "text": "Slashdot",
+      "type": "rss",
+      "url": "https://rss.slashdot.org/Slashdot/slashdotMain",
+      "description": "News for nerds, stuff that matters"
+    },
+    {
+      "title": "Stratechery by Ben Thompson",
+      "text": "Stratechery by Ben Thompson",
+      "type": "rss",
+      "url": "https://stratechery.com/feed/",
+      "description": "On the business, strategy, and impact of technology."
+    },
+    {
+      "title": "TechCrunch",
+      "text": "TechCrunch",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/TechCrunch",
+      "description": "TechCrunch is a group-edited blog that profiles the companies, products and events defining and transforming the new web."
+    },
+    {
+      "title": "The Keyword",
+      "text": "The Keyword",
+      "type": "rss",
+      "url": "https://www.blog.google/rss/",
+      "description": ""
+    },
+    {
+      "title": "The Next Web",
+      "text": "The Next Web",
+      "type": "rss",
+      "url": "https://thenextweb.com/feed/",
+      "description": "Original and proudly opinionated perspectives for Generation T"
+    },
+    {
+      "title": "The Verge",
+      "text": "The Verge",
+      "type": "rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?user=TheVerge",
+      "description": ""
+    },
+    {
+      "title": "The Verge - All Posts",
+      "text": "The Verge - All Posts",
+      "type": "rss",
+      "url": "https://www.theverge.com/rss/index.xml",
+      "description": ""
+    },
+    {
+      "title": "The Vergecast",
+      "text": "The Vergecast",
+      "type": "rss",
+      "url": "https://feeds.megaphone.fm/vergecast",
+      "description": "Hello! This is The Vergecast, the flagship podcast of The Verge... and your life. Every Friday, Nilay Patel and Dieter Bohn make sense of the week's tech news with help from our wide-ranging staff. And on Tuesdays, Nilay hosts in-depth, one-on-one interviews with major technology leaders. Join us every week for a fun, deeply nerdy, often off-the-rails conversation about what's happening now (and next) in technology and gadgets."
+    },
+    {
+      "title": "This Week in Tech (Audio)",
+      "text": "This Week in Tech (Audio)",
+      "type": "rss",
+      "url": "https://feeds.twit.tv/twit.xml",
+      "description": "Your first podcast of the week is the last word in tech. Join the top tech pundits in a roundtable discussion of the latest trends in high tech. Records live every Sunday at 5:15pm Eastern / 2:15pm Pacific / 21:15 UTC."
+    },
+    {
+      "title": "Unbox Therapy",
+      "text": "Unbox Therapy",
+      "type": "rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?user=unboxtherapy",
+      "description": ""
+    },
+    {
+      "title": "Engadget",
+      "text": "Engadget",
+      "type": "rss",
+      "url": "https://www.engadget.com/rss.xml",
+      "description": "https://www.engadget.com/"
+    }
+  ]
+}

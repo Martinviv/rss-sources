@@ -1,0 +1,124 @@
+{
+  "title": "iOS Development",
+  "feeds": [
+    {
+      "title": "ALL SHOWS - Devchat.tv",
+      "text": "ALL SHOWS - Devchat.tv",
+      "type": "rss",
+      "url": "https://feeds.feedwrench.com/all-shows-devchattv.rss",
+      "description": ""
+    },
+    {
+      "title": "Alberto De Bortoli",
+      "text": "Alberto De Bortoli",
+      "type": "rss",
+      "url": "https://albertodebortoli.com/rss/",
+      "description": "Principal Software Engineer @ Just Eat Takeaway. Based in London, made in Italy."
+    },
+    {
+      "title": "Augmented Code",
+      "text": "Augmented Code",
+      "type": "rss",
+      "url": "https://augmentedcode.io/feed/",
+      "description": "Performant, sleek and elegant."
+    },
+    {
+      "title": "Benoit Pasquier - Swift, Data and more",
+      "text": "Benoit Pasquier - Swift, Data and more",
+      "type": "rss",
+      "url": "https://benoitpasquier.com/index.xml",
+      "description": "Recent content on Benoit Pasquier - Swift, Data and more"
+    },
+    {
+      "title": "Fabisevi.ch",
+      "text": "Fabisevi.ch",
+      "type": "rss",
+      "url": "https://www.fabisevi.ch/feed.xml",
+      "description": "iOS Developer [@Twitter](https://twitter.com/mergesort)"
+    },
+    {
+      "title": "Mobile A11y",
+      "text": "Mobile A11y",
+      "type": "rss",
+      "url": "https://mobilea11y.com/index.xml",
+      "description": "Recent content on Mobile A11y"
+    },
+    {
+      "title": "More Than Just Code podcast - iOS and Swift development, news and advice",
+      "text": "More Than Just Code podcast - iOS and Swift development, news and advice",
+      "type": "rss",
+      "url": "https://feeds.fireside.fm/mtjc/rss",
+      "description": "MTJC podcast is a show about mobile development. Each week Jaime Lopez, Mark Rubin (sometimes Greg Heo and Tammy Coron) and myself, Tim Mitra, will convene from across the continent to discuss iOS and Mac development. We discuss current issues to find out what developers are talking about, what their apps are about, what they are using to create their apps and what advice they have for other developers (or those looking to become one). We also have news, notes and tech tips for developers."
+    },
+    {
+      "title": "News - Apple Developer",
+      "text": "News - Apple Developer",
+      "type": "rss",
+      "url": "https://developer.apple.com/news/rss/news.rss",
+      "description": ""
+    },
+    {
+      "title": "Ole Begemann",
+      "text": "Ole Begemann",
+      "type": "rss",
+      "url": "https://oleb.net/blog/atom.xml",
+      "description": ""
+    },
+    {
+      "title": "Swift by Sundell",
+      "text": "Swift by Sundell",
+      "type": "rss",
+      "url": "https://www.swiftbysundell.com/feed.rss",
+      "description": "Weekly Swift articles, podcasts and tips by John Sundell"
+    },
+    {
+      "title": "Swift by Sundell",
+      "text": "Swift by Sundell",
+      "type": "rss",
+      "url": "https://swiftbysundell.com/feed.rss",
+      "description": "Weekly Swift articles, podcasts and tips by John Sundell"
+    },
+    {
+      "title": "SwiftRocks",
+      "text": "SwiftRocks",
+      "type": "rss",
+      "url": "https://swiftrocks.com/rss.xml",
+      "description": "SwiftRocks is a blog about how Swift works and general iOS tips and tricks."
+    },
+    {
+      "title": "The Atomic Birdhouse",
+      "text": "The Atomic Birdhouse",
+      "type": "rss",
+      "url": "https://atomicbird.com/index.xml",
+      "description": "Recent content on The Atomic Birdhouse"
+    },
+    {
+      "title": "Under the Radar",
+      "text": "Under the Radar",
+      "type": "rss",
+      "url": "https://www.relay.fm/radar/feed",
+      "description": "From development and design to marketing and support, Under the Radar is all about independent app development. It's never longer than 30 minutes. Hosted by Marco Arment and David Smith."
+    },
+    {
+      "title": "Use Your Loaf - iOS Development News and Tips",
+      "text": "Use Your Loaf - iOS Development News and Tips",
+      "type": "rss",
+      "url": "https://useyourloaf.com/blog/rss.xml",
+      "description": "Recent content on Use Your Loaf - iOS Development News and Tips"
+    },
+    {
+      "title": "inessential.com",
+      "text": "inessential.com",
+      "type": "rss",
+      "url": "https://inessential.com/xml/rss.xml",
+      "description": "Brent Simmons’s weblog."
+    },
+    {
+      "title": "tyler.io",
+      "text": "tyler.io",
+      "type": "rss",
+      "url": "https://tyler.io/feed/",
+      "description": ""
+    }
+  ]
+}

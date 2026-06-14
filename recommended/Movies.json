@@ -1,0 +1,82 @@
+{
+  "title": "Movies",
+  "feeds": [
+    {
+      "title": "/Film",
+      "text": "/Film",
+      "type": "rss",
+      "url": "https://feeds2.feedburner.com/slashfilm",
+      "description": "Movie News and Reviews This feed is for non commercial use. Content Copyright Slashfilm.com."
+    },
+    {
+      "title": "Ain't It Cool News Feed",
+      "text": "Ain't It Cool News Feed",
+      "type": "rss",
+      "url": "https://www.aintitcool.com/node/feed/",
+      "description": "The best in movie, TV, DVD and comic book news."
+    },
+    {
+      "title": "ComingSoon.net",
+      "text": "ComingSoon.net",
+      "type": "rss",
+      "url": "https://www.comingsoon.net/feed",
+      "description": "New Movies, Movie Trailers, TV, Streaming, Anime and Video Game News"
+    },
+    {
+      "title": "Deadline",
+      "text": "Deadline",
+      "type": "rss",
+      "url": "https://deadline.com/feed/",
+      "description": "Hollywood Entertainment Breaking News"
+    },
+    {
+      "title": "Film School Rejects",
+      "text": "Film School Rejects",
+      "type": "rss",
+      "url": "https://filmschoolrejects.com/feed/",
+      "description": "Movies, TV, and Culture"
+    },
+    {
+      "title": "FirstShowing.net",
+      "text": "FirstShowing.net",
+      "type": "rss",
+      "url": "https://www.firstshowing.net/feed/",
+      "description": "Connecting Hollywood with its Audience"
+    },
+    {
+      "title": "IndieWire",
+      "text": "IndieWire",
+      "type": "rss",
+      "url": "https://www.indiewire.com/feed",
+      "description": "The Voice of Creative Independence"
+    },
+    {
+      "title": "Movie News and Discussion",
+      "text": "Movie News and Discussion",
+      "type": "rss",
+      "url": "https://reddit.com/r/movies/.rss",
+      "description": "News and Discussion about Major Motion Pictures"
+    },
+    {
+      "title": "Movies",
+      "text": "Movies",
+      "type": "rss",
+      "url": "https://www.bleedingcool.com/movies/feed/",
+      "description": "Comics, Movies, TV, Games"
+    },
+    {
+      "title": "The A.V. Club",
+      "text": "The A.V. Club",
+      "type": "rss",
+      "url": "https://www.avclub.com/rss.xml",
+      "description": "Pop culture obsessives writing for the pop culture obsessed."
+    },
+    {
+      "title": "Variety",
+      "text": "Variety",
+      "type": "rss",
+      "url": "https://variety.com/feed/",
+      "description": ""
+    }
+  ]
+}

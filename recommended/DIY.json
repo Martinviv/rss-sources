@@ -1,0 +1,68 @@
+{
+  "title": "DIY",
+  "feeds": [
+    {
+      "title": "A Beautiful Mess",
+      "text": "A Beautiful Mess",
+      "type": "rss",
+      "url": "https://abeautifulmess.com/feed",
+      "description": "Crafts, Home Décor, Recipes"
+    },
+    {
+      "title": "Blog – Hackaday",
+      "text": "Blog – Hackaday",
+      "type": "rss",
+      "url": "https://hackaday.com/blog/feed/",
+      "description": "Fresh hacks every day"
+    },
+    {
+      "title": "Centsational Style",
+      "text": "Centsational Style",
+      "type": "rss",
+      "url": "https://centsationalstyle.com/feed/",
+      "description": "Design, Decorating and DIY"
+    },
+    {
+      "title": "Doityourself.com",
+      "text": "Doityourself.com",
+      "type": "rss",
+      "url": "https://www.doityourself.com/feed",
+      "description": "Do it yourself home improvement and diy repair at Doityourself.com. Includes home improvement projects, home repair, kitchen remodeling, plumbing, electrical, painting, real estate, and decorating."
+    },
+    {
+      "title": "How-To Geek",
+      "text": "How-To Geek",
+      "type": "rss",
+      "url": "https://www.howtogeek.com/feed/",
+      "description": "We Explain Technology"
+    },
+    {
+      "title": "IKEA Hackers",
+      "text": "IKEA Hackers",
+      "type": "rss",
+      "url": "https://www.ikeahackers.net/feed",
+      "description": "Clever ideas and hacks for your IKEA"
+    },
+    {
+      "title": "MUO - Feed",
+      "text": "MUO - Feed",
+      "type": "rss",
+      "url": "https://www.makeuseof.com/feed/",
+      "description": "MUO is your guide in modern tech. Learn how to make use of tech and gadgets around you and discover cool stuff on the Internet."
+    },
+    {
+      "title": "Oh Happy Day!",
+      "text": "Oh Happy Day!",
+      "type": "rss",
+      "url": "https://ohhappyday.com/feed/",
+      "description": "Oh Happy Day is a party and lifestyle blog based in San Francisco. We love to throw parties and make things!"
+    },
+    {
+      "title": "WonderHowTo",
+      "text": "WonderHowTo",
+      "type": "rss",
+      "url": "https://www.wonderhowto.com/rss.xml",
+      "description": "Hot new how-to videos and articles on WonderHowTo."
+    }
+  ]
+}

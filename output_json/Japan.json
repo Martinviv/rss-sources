@@ -1,0 +1,61 @@
+{
+  "title": "Japan",
+  "feeds": [
+    {
+      "title": "Japan Times latest articles",
+      "text": "Japan Times latest articles",
+      "type": "rss",
+      "url": "https://www.japantimes.co.jp/feed/",
+      "description": "The latest news from Japan Times, Japan's leading English-language daily newspaper"
+    },
+    {
+      "title": "Japan Today",
+      "text": "Japan Today",
+      "type": "rss",
+      "url": "https://japantoday.com/feed",
+      "description": "Japan News and Discussion"
+    },
+    {
+      "title": "News On Japan",
+      "text": "News On Japan",
+      "type": "rss",
+      "url": "https://newsonjapan.com/rss/top.xml",
+      "description": "All the latest news on Japan"
+    },
+    {
+      "title": "All - Kyodo News+",
+      "text": "All - Kyodo News+",
+      "type": "rss",
+      "url": "https://english.kyodonews.net/rss/all.xml",
+      "description": "Kyodo News on the Web: Daily international, Japan news, Japan News, national and local news coverage from the newspaper, breaking news updates, technology news, sports, reviews, listings."
+    },
+    {
+      "title": "BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報",
+      "text": "BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/SdJapan",
+      "description": "「起業家と投資家を繋ぐ」テクノロジー＆スタートアップ関連の話題をお届けするブログメディア"
+    },
+    {
+      "title": "NYT > Japan",
+      "text": "NYT > Japan",
+      "type": "rss",
+      "url": "https://www.nytimes.com/svc/collections/v1/publish/http://www.nytimes.com/topic/destination/japan/rss.xml",
+      "description": ""
+    },
+    {
+      "title": "ライブドアニュース - 主要トピックス",
+      "text": "ライブドアニュース - 主要トピックス",
+      "type": "rss",
+      "url": "https://news.livedoor.com/topics/rss/top.xml",
+      "description": "ライブドアニュース - 主要トピックス"
+    },
+    {
+      "title": "朝日新聞デジタル",
+      "text": "朝日新聞デジタル",
+      "type": "rss",
+      "url": "https://rss.asahi.com/rss/asahi/newsheadlines.rdf",
+      "description": "朝日新聞デジタル"
+    }
+  ]
+}

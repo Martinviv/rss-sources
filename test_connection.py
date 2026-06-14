@@ -1,74 +1,143 @@
+import os
+import json
+import csv
 import requests
 import xml.etree.ElementTree as ET
-import glob
-import csv
-from tqdm import tqdm # pip install tqdm
+from tqdm import tqdm
 
-
-'''
-This script reads a list of OPML files and checks if the RSS feeds are valid.
-'''
+"""
+Check all RSS/Atom feeds contained in JSON files.
+"""
 
 
 def test_rss_content(url):
     try:
         headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
+            "User-Agent": "Mozilla/5.0"
         }
-        response = requests.get(url, headers=headers, timeout=10)
-        content_type = response.headers.get('content-type', '').lower()
-        if response.status_code == 200 and 'xml' in content_type:
-            # Check if the content is in XML format (RSS)
-            try:
-                tree = ET.fromstring(response.text)
-                # Check for common RSS tags
-                rss_tags = ['rss', 'feed', 'rdf:RDF', 'channel'] 
-                if any(tree.tag.lower().endswith(tag.lower()) for tag in rss_tags):
-                    return "Success"
-                else:
-                    return "The content is not a valid RSS feed."
-            except ET.ParseError:
-                return "XML parsing error."
-        else:
-            return "The server returned an invalid response."
+
+        response = requests.get(
+            url,
+            headers=headers,
+            timeout=10,
+            allow_redirects=True
+        )
+
+        if response.status_code != 200:
+            return f"HTTP {response.status_code}"
+
+        try:
+            root = ET.fromstring(response.content)
+
+            tag = root.tag.lower()
+
+            if (
+                tag.endswith("rss")
+                or tag.endswith("feed")
+                or tag.endswith("rdf")
+                or tag.endswith("rdf:rdf")
+            ):
+                return "Success"
+
+            return f"Unknown feed type ({root.tag})"
+
+        except ET.ParseError:
+            return "Invalid XML"
+
+    except requests.exceptions.Timeout:
+        return "Timeout"
+
     except requests.exceptions.RequestException as e:
-        return f"HTTP request error: {str(e)}"
+        return f"Request error: {e}"
+
+
+def extract_urls_from_json(file_path):
+    with open(file_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    feeds = data.get("feeds", [])
+
+    urls = []
+
+    for feed in feeds:
+        url = feed.get("url")
+
+        if url:
+            urls.append(url)
+
+    return urls
+
 
 def process_file(file_path, csv_writer):
-    try:
-        tree = ET.parse(file_path)
-        root = tree.getroot()
-    except ET.ParseError:
-        print(f"Error parsing {file_path}")
-        return
-    
-    outlines = root.findall(".//outline")
-    
-    total_outlines = len(outlines) - 1
-    progress_bar = tqdm(total = total_outlines, desc=f"Processing {file_path}", unit="link")
-   
+    urls = extract_urls_from_json(file_path)
 
-    for outline in outlines:
-        if 'xmlUrl' in outline.attrib:
-            url = outline.attrib['xmlUrl']
-            reason = test_rss_content(url)
-            success = 1 if reason == "Success" else 0
-            csv_writer.writerow([url, success, reason])
-            
-            progress_bar.set_postfix({"Success": success, "Reason": reason})
-            progress_bar.update(1) 
+    progress_bar = tqdm(
+        urls,
+        desc=os.path.basename(file_path),
+        unit="feed"
+    )
+
+    for url in progress_bar:
+        reason = test_rss_content(url)
+        success = 1 if reason == "Success" else 0
+
+        csv_writer.writerow([
+            file_path,
+            url,
+            success,
+            reason
+        ])
+
+        progress_bar.set_postfix(
+            success=success,
+            reason=reason[:40]
+        )
 
 
-# Directory containing the XML files to process
-directory_path = 'recommended'
+def find_json_files(directory):
+    json_files = []
 
-# Get the list of XML files in the directory
-file_paths = glob.glob(directory_path + '/*.opml')
+    for root, dirs, files in os.walk(directory):
 
-# Open the CSV file in write mode
-with open(directory_path + '_' + 'report.csv', 'w', newline='') as csv_file:
-    csv_writer = csv.writer(csv_file)
-    csv_writer.writerow(['URL', 'Success', 'Reason'])  # Write the CSV header
+        dirs[:] = [
+            d for d in dirs
+            if d not in (".git", ".github", "__pycache__", "venv")
+        ]
 
-    for file_path in file_paths:
-        process_file(file_path, csv_writer)
+        for file in files:
+            if file.lower().endswith(".json"):
+                json_files.append(
+                    os.path.join(root, file)
+                )
+
+    return sorted(json_files)
+
+
+if __name__ == "__main__":
+
+    directory_path = "countries"
+
+    json_files = find_json_files(directory_path)
+
+    report_file = f"{directory_path}_report.csv"
+
+    with open(
+        report_file,
+        "w",
+        newline="",
+        encoding="utf-8"
+    ) as csv_file:
+
+        csv_writer = csv.writer(csv_file)
+
+        csv_writer.writerow([
+            "File",
+            "URL",
+            "Success",
+            "Reason"
+        ])
+
+        for file_path in json_files:
+            process_file(file_path, csv_writer)
+
+    print(f"\n✅ Report generated: {report_file}")

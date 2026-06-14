@@ -1,0 +1,75 @@
+{
+  "title": "UI / UX",
+  "feeds": [
+    {
+      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "text": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "type": "rss",
+      "url": "https://www.smashingmagazine.com/feed",
+      "description": "Recent content in Articles on Smashing Magazine — For Web Designers And Developers"
+    },
+    {
+      "title": "Boxes and Arrows",
+      "text": "Boxes and Arrows",
+      "type": "rss",
+      "url": "https://boxesandarrows.com/feed/",
+      "description": "The design behind the design."
+    },
+    {
+      "title": "Designer News Feed",
+      "text": "Designer News Feed",
+      "type": "rss",
+      "url": "https://www.designernews.co/?format=rss",
+      "description": "All of the stories from the frontpage of Designer News"
+    },
+    {
+      "title": "JUST™ Creative",
+      "text": "JUST™ Creative",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/JustCreativeDesignBlog",
+      "description": "Logo Designer, Graphic Designer, Graphic Design Portfolio, Logo Design, Logo, Graphic, Design, Graphic Design, Brand Strategy, Branding"
+    },
+    {
+      "title": "NN/g latest articles and announcements",
+      "text": "NN/g latest articles and announcements",
+      "type": "rss",
+      "url": "https://www.nngroup.com/feed/rss/",
+      "description": "The latest articles and announcements from Nielsen Norman Group"
+    },
+    {
+      "title": "UX Blog – UX Studio",
+      "text": "UX Blog – UX Studio",
+      "type": "rss",
+      "url": "https://uxstudioteam.com/ux-blog/feed/",
+      "description": "UX design blog about designing user experience for web and mobile apps with UX research and focus on usability and ergonomics"
+    },
+    {
+      "title": "UX Collective - Medium",
+      "text": "UX Collective - Medium",
+      "type": "rss",
+      "url": "https://uxdesign.cc/feed",
+      "description": "We believe designers are thinkers as much as they are makers. Curated stories on UX, Visual & Product Design. - Medium"
+    },
+    {
+      "title": "UX Movement",
+      "text": "UX Movement",
+      "type": "rss",
+      "url": "https://uxmovement.com/feed/",
+      "description": ""
+    },
+    {
+      "title": "Usability Geek",
+      "text": "Usability Geek",
+      "type": "rss",
+      "url": "https://usabilitygeek.com/feed/",
+      "description": "Usability and User Experience (UX) Blog"
+    },
+    {
+      "title": "User Experience",
+      "text": "User Experience",
+      "type": "rss",
+      "url": "https://www.reddit.com/r/userexperience/.rss",
+      "description": "User experience design is the process of enhancing user satisfaction by improving the usability, ease of use, and pleasure provided in the interaction between the user and the product. User experience design encompasses traditional human–computer interaction design (HCI/d), and extends it by addressing all aspects of a product or service as perceived by users."
+    }
+  ]
+}

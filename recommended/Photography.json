@@ -1,0 +1,82 @@
+{
+  "title": "Photography",
+  "feeds": [
+    {
+      "title": "500px",
+      "text": "500px",
+      "type": "rss",
+      "url": "https://iso.500px.com/feed/",
+      "description": ""
+    },
+    {
+      "title": "Big Picture",
+      "text": "Big Picture",
+      "type": "rss",
+      "url": "https://www.bostonglobe.com/rss/bigpicture",
+      "description": "News Stories in Photographs from the Boston Globe."
+    },
+    {
+      "title": "Canon Rumors – Your best source for Canon rumors, leaks and gossip",
+      "text": "Canon Rumors – Your best source for Canon rumors, leaks and gossip",
+      "type": "rss",
+      "url": "https://www.canonrumors.com/feed/",
+      "description": ""
+    },
+    {
+      "title": "Digital Photography School",
+      "text": "Digital Photography School",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/DigitalPhotographySchool",
+      "description": "Digital Photography Tips and Tutorials"
+    },
+    {
+      "title": "Light Stalking",
+      "text": "Light Stalking",
+      "type": "rss",
+      "url": "https://www.lightstalking.com/feed/",
+      "description": "Illuminating Your Passion"
+    },
+    {
+      "title": "Lightroom Killer Tips",
+      "text": "Lightroom Killer Tips",
+      "type": "rss",
+      "url": "https://lightroomkillertips.com/feed/",
+      "description": "Lightroom Presets, Videos, Tips and News"
+    },
+    {
+      "title": "One Big Photo",
+      "text": "One Big Photo",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/OneBigPhoto",
+      "description": "A Picture is Worth a Thousand Words | Submit Your Photo | World's Best Photography"
+    },
+    {
+      "title": "PetaPixel",
+      "text": "PetaPixel",
+      "type": "rss",
+      "url": "https://petapixel.com/feed/",
+      "description": "Photography and Camera News, Reviews, and Inspiration"
+    },
+    {
+      "title": "Strobist",
+      "text": "Strobist",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/blogspot/WOBq",
+      "description": "Learn How to Light."
+    },
+    {
+      "title": "Stuck in Customs",
+      "text": "Stuck in Customs",
+      "type": "rss",
+      "url": "https://stuckincustoms.com/feed/",
+      "description": "Trey Ratcliff's Travel Photography blog with daily inspiration to motivate you!"
+    },
+    {
+      "title": "The Sartorialist",
+      "text": "The Sartorialist",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/TheSartorialist",
+      "description": "Just another WordPress site"
+    }
+  ]
+}

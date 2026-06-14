@@ -1,0 +1,124 @@
+{
+  "title": "Cars",
+  "feeds": [
+    {
+      "title": "Autoblog",
+      "text": "Autoblog",
+      "type": "rss",
+      "url": "https://www.autoblog.com/.rss/feed/7a401613-317c-4892-acfb-6f19ee932643.xml",
+      "description": ""
+    },
+    {
+      "title": "Autocar India - All Bike Reviews",
+      "text": "Autocar India - All Bike Reviews",
+      "type": "rss",
+      "url": "https://www.autocarindia.com/rss/bike-reviews",
+      "description": "Car and Bike news, reviews and videos."
+    },
+    {
+      "title": "Autocar India - All Car Reviews",
+      "text": "Autocar India - All Car Reviews",
+      "type": "rss",
+      "url": "https://www.autocarindia.com/rss/car-reviews",
+      "description": "Car and Bike news, reviews and videos."
+    },
+    {
+      "title": "Autocar India - News",
+      "text": "Autocar India - News",
+      "type": "rss",
+      "url": "https://www.autocarindia.com/rss/news",
+      "description": "Car and Bike news, reviews and videos."
+    },
+    {
+      "title": "Autocar RSS Feed",
+      "text": "Autocar RSS Feed",
+      "type": "rss",
+      "url": "https://www.autocar.co.uk/rss",
+      "description": "Welcome to nirvana for car enthusiasts. You have just entered the online home of the world's oldest car magazine, and the only place on the internet where you can find Autocar's unique mix of up-to-the-minute news, red hot car reviews, conclusive road test verdicts, and a lot more besides."
+    },
+    {
+      "title": "BMW BLOG",
+      "text": "BMW BLOG",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/BmwBlog",
+      "description": "BMW News, Reviews, Test Drives, Photos And Videos"
+    },
+    {
+      "title": "Bike EXIF",
+      "text": "Bike EXIF",
+      "type": "rss",
+      "url": "https://www.bikeexif.com/feed",
+      "description": "The world's most exciting custom motorcycles, from cafe racers to bobbers to scramblers and street trackers."
+    },
+    {
+      "title": "Car Body Design",
+      "text": "Car Body Design",
+      "type": "rss",
+      "url": "https://www.carbodydesign.com/feed/",
+      "description": "Car Design Resources, News and Tutorials"
+    },
+    {
+      "title": "Carscoops",
+      "text": "Carscoops",
+      "type": "rss",
+      "url": "https://www.carscoops.com/feed/",
+      "description": "Breaking Car News, Scoops and Reviews"
+    },
+    {
+      "title": "Formula 1",
+      "text": "Formula 1",
+      "type": "rss",
+      "url": "https://www.reddit.com/r/formula1/.rss",
+      "description": "The best independent Formula 1 community anywhere. News, stories and discussion from and about the world of Formula 1."
+    },
+    {
+      "title": "Jalopnik",
+      "text": "Jalopnik",
+      "type": "rss",
+      "url": "https://jalopnik.com/rss",
+      "description": "Kinja RSS"
+    },
+    {
+      "title": "Latest Content - Car and Driver",
+      "text": "Latest Content - Car and Driver",
+      "type": "rss",
+      "url": "https://www.caranddriver.com/rss/all.xml/",
+      "description": ""
+    },
+    {
+      "title": "Section Page News - Automotive News",
+      "text": "Section Page News - Automotive News",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/autonews/AutomakerNews",
+      "description": "Section Page news and features from Automotive News"
+    },
+    {
+      "title": "Section Page News - Automotive News",
+      "text": "Section Page News - Automotive News",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/autonews/EditorsPicks",
+      "description": "Section Page news and features from Automotive News"
+    },
+    {
+      "title": "Speedhunters",
+      "text": "Speedhunters",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/speedhunters",
+      "description": "Global Car Culture Since 2008"
+    },
+    {
+      "title": "The Truth About Cars",
+      "text": "The Truth About Cars",
+      "type": "rss",
+      "url": "https://www.thetruthaboutcars.com/feed/",
+      "description": "The Truth About Cars is dedicated to providing candid, unbiased automobile reviews and the latest in auto industry news."
+    },
+    {
+      "title": "The best vintage and classic cars for sale online | Bring a Trailer",
+      "text": "The best vintage and classic cars for sale online | Bring a Trailer",
+      "type": "rss",
+      "url": "https://bringatrailer.com/feed/",
+      "description": "Barn finds, rally cars, and needles in the haystack."
+    }
+  ]
+}

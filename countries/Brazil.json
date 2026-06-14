@@ -1,0 +1,54 @@
+{
+  "title": "Brazil",
+  "feeds": [
+    {
+      "title": "Folha de S.Paulo - Em cima da hora - Principal",
+      "text": "Folha de S.Paulo - Em cima da hora - Principal",
+      "type": "rss",
+      "url": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml",
+      "description": "Primeiro jornal em tempo real em língua portuguesa"
+    },
+    {
+      "title": "Portal EBC - RSS",
+      "text": "Portal EBC - RSS",
+      "type": "rss",
+      "url": "https://memoria.ebc.com.br/rss/feed.xml",
+      "description": ""
+    },
+    {
+      "title": "R7 - Notícias",
+      "text": "R7 - Notícias",
+      "type": "rss",
+      "url": "https://noticias.r7.com/feed.xml",
+      "description": ""
+    },
+    {
+      "title": "UOL",
+      "text": "UOL",
+      "type": "rss",
+      "url": "https://www.uol.com.br/vueland/api/?loadComponent=XmlFeedRss",
+      "description": "Home UOL"
+    },
+    {
+      "title": "The Rio Times",
+      "text": "The Rio Times",
+      "type": "rss",
+      "url": "https://riotimesonline.com/feed/",
+      "description": "News in Rio de Janeiro, Brazil"
+    },
+    {
+      "title": "Brasil Wire",
+      "text": "Brasil Wire",
+      "type": "rss",
+      "url": "https://www.brasilwire.com/feed/",
+      "description": ""
+    },
+    {
+      "title": "Jornal de Brasília",
+      "text": "Jornal de Brasília",
+      "type": "rss",
+      "url": "https://jornaldebrasilia.com.br/feed/",
+      "description": "Informação e Opinião"
+    }
+  ]
+}

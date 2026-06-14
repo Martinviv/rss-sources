@@ -1,0 +1,47 @@
+{
+  "title": "Sports",
+  "feeds": [
+    {
+      "title": "BBC Sport - Sport",
+      "text": "BBC Sport - Sport",
+      "type": "rss",
+      "url": "https://feeds.bbci.co.uk/sport/rss.xml",
+      "description": ""
+    },
+    {
+      "title": "Reddit Sports",
+      "text": "Reddit Sports",
+      "type": "rss",
+      "url": "https://www.reddit.com/r/sports.rss",
+      "description": "Sports News and Highlights from the NFL, NBA, NHL, MLB, MLS, and leagues around the world."
+    },
+    {
+      "title": "Sports News - Latest Sports and Football News | Sky News",
+      "text": "Sports News - Latest Sports and Football News | Sky News",
+      "type": "rss",
+      "url": "https://feeds.skynews.com/feeds/rss/sports.xml",
+      "description": "The best sports coverage from around the world, covering: Football, Cricket, Golf, Rugby, WWE, Boxing, Tennis and much more."
+    },
+    {
+      "title": "Sportskeeda",
+      "text": "Sportskeeda",
+      "type": "rss",
+      "url": "https://www.sportskeeda.com/feed",
+      "description": "Sports Writers Unite"
+    },
+    {
+      "title": "Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games",
+      "text": "Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games",
+      "type": "rss",
+      "url": "https://sports.yahoo.com/rss/",
+      "description": "Yahoo! Sports - Comprehensive news, scores, standings, fantasy games, rumors, and more"
+    },
+    {
+      "title": "ESPN.com - Top News",
+      "text": "ESPN.com - Top News",
+      "type": "rss",
+      "url": "https://www.espn.com/espn/rss/news",
+      "description": "Latest TOP news from www.espn.com"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "title": "Nigeria",
+  "feeds": [
+    {
+      "title": "Sahara Reporters",
+      "text": "Sahara Reporters",
+      "type": "rss",
+      "url": "https://saharareporters.com/articles/rss-feed",
+      "description": ""
+    },
+    {
+      "title": "Nigeria News Links | Today's Updates - Nigerian Bulletin",
+      "text": "Nigeria News Links | Today's Updates - Nigerian Bulletin",
+      "type": "rss",
+      "url": "https://www.nigerianbulletin.com/forums/-/index.rss",
+      "description": "Find the best Nigeria News links to trending News and articles from Nigeria, Africa and across the world. Get on Nigerian Bulletin today for top news and more"
+    },
+    {
+      "title": "Nigerian News. Latest Nigeria News. Your online Nigerian Newspaper.",
+      "text": "Nigerian News. Latest Nigeria News. Your online Nigerian Newspaper.",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/Nigerianeye",
+      "description": "Latest News in Nigeria - NigerianEye is a Nigerian Online NewsPaper and Breaking News Source. NIGERIA NEWS ★ TOP NIGERIAN Newspapers ★ Top news headlines from Nigeria."
+    },
+    {
+      "title": "Legit.ng",
+      "text": "Legit.ng",
+      "type": "rss",
+      "url": "https://www.legit.ng/rss/all.rss",
+      "description": "Read now ➨ News in Nigeria Today and BREAKING NEWS Headlines. Check out the latest Naija news and stay informed with LEGIT.NG — your trustful news provider"
+    },
+    {
+      "title": "Latest Nigeria News, Nigerian Newspapers, Politics",
+      "text": "Latest Nigeria News, Nigerian Newspapers, Politics",
+      "type": "rss",
+      "url": "https://thenationonlineng.net/feed/",
+      "description": "A news breaking website. Truth in Defence of Freedom"
+    },
+    {
+      "title": "Daily Post Nigeria",
+      "text": "Daily Post Nigeria",
+      "type": "rss",
+      "url": "https://dailypost.ng/feed",
+      "description": ""
+    },
+    {
+      "title": "Premium Times Nigeria",
+      "text": "Premium Times Nigeria",
+      "type": "rss",
+      "url": "https://www.premiumtimesng.com/feed",
+      "description": "Premium Times - Nigeria's leading online newspaper, delivering breaking news and deep investigative reports from Nigeria"
+    },
+    {
+      "title": "Information Nigeria",
+      "text": "Information Nigeria",
+      "type": "rss",
+      "url": "https://www.informationng.com/feed",
+      "description": "Nigeria's No.1 Information Portal"
+    },
+    {
+      "title": "The Guardian Nigeria News – Nigeria and World News",
+      "text": "The Guardian Nigeria News – Nigeria and World News",
+      "type": "rss",
+      "url": "https://guardian.ng/feed/",
+      "description": "The Latest news in Nigeria and world news. The Guardian Nigeria Newspaper brings you the latest headlines, opinions, political news, business reports and international news."
+    },
+    {
+      "title": "Tribune Online",
+      "text": "Tribune Online",
+      "type": "rss",
+      "url": "https://tribuneonlineng.com/feed/",
+      "description": "Breaking News in Nigeria Today"
+    }
+  ]
+}

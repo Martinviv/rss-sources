@@ -1,0 +1,61 @@
+{
+  "title": "Beauty",
+  "feeds": [
+    {
+      "title": "Beauty - ELLE",
+      "text": "Beauty - ELLE",
+      "type": "rss",
+      "url": "https://www.elle.com/rss/beauty.xml/",
+      "description": ""
+    },
+    {
+      "title": "Beauty - Fashionista",
+      "text": "Beauty - Fashionista",
+      "type": "rss",
+      "url": "https://fashionista.com/.rss/excerpt/beauty",
+      "description": ""
+    },
+    {
+      "title": "Blog – The Beauty Brains",
+      "text": "Blog – The Beauty Brains",
+      "type": "rss",
+      "url": "https://thebeautybrains.com/blog/feed/",
+      "description": "Real scientists answer your beauty questions"
+    },
+    {
+      "title": "From Head To Toe",
+      "text": "From Head To Toe",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/frmheadtotoe",
+      "description": "A makeup and beauty blog by Jen that showcases makeup tutorials, fashion, hair, nails, swatches, and product reviews."
+    },
+    {
+      "title": "Into The Gloss - Beauty Tips, Trends, And Product Reviews",
+      "text": "Into The Gloss - Beauty Tips, Trends, And Product Reviews",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/intothegloss/oqoU",
+      "description": "The best in beauty tips, makeup tutorials, product reviews, and techniques from industry leaders worldwide. Into The Gloss is beauty, from the Inside."
+    },
+    {
+      "title": "POPSUGAR Beauty",
+      "text": "POPSUGAR Beauty",
+      "type": "rss",
+      "url": "https://www.popsugar.com/beauty/feed",
+      "description": "Top Beauty Stories"
+    },
+    {
+      "title": "Refinery29",
+      "text": "Refinery29",
+      "type": "rss",
+      "url": "https://www.refinery29.com/beauty/rss.xml",
+      "description": ""
+    },
+    {
+      "title": "The Beauty Look Book",
+      "text": "The Beauty Look Book",
+      "type": "rss",
+      "url": "https://thebeautylookbook.com/feed",
+      "description": "Beauty Blog, Reviews + Makeup Looks"
+    }
+  ]
+}

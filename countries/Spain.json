@@ -1,0 +1,61 @@
+{
+  "title": "Spain",
+  "feeds": [
+    {
+      "title": "The Local",
+      "text": "The Local",
+      "type": "rss",
+      "url": "https://feeds.thelocal.com/rss/es",
+      "description": "Europe's news in English"
+    },
+    {
+      "title": "EL PAÍS: el periódico global",
+      "text": "EL PAÍS: el periódico global",
+      "type": "rss",
+      "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+      "description": "Noticias de última hora sobre la actualidad en España y el mundo: política, economía, deportes, cultura, sociedad, tecnología, gente, opinión, viajes, moda, televisión, los blogs y las firmas de EL PAÍS. Además especiales, vídeos, fotos, audios, gráficos, entrevistas, promociones y todos los servicios de EL PAÍS."
+    },
+    {
+      "title": "España",
+      "text": "España",
+      "type": "rss",
+      "url": "https://rss.elconfidencial.com/espana/",
+      "description": ""
+    },
+    {
+      "title": "ElDiario.es - ElDiario.es",
+      "text": "ElDiario.es - ElDiario.es",
+      "type": "rss",
+      "url": "https://www.eldiario.es/rss/",
+      "description": ""
+    },
+    {
+      "title": "Portada // Expansión",
+      "text": "Portada // Expansión",
+      "type": "rss",
+      "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
+      "description": ""
+    },
+    {
+      "title": "El Periódico - portada",
+      "text": "El Periódico - portada",
+      "type": "rss",
+      "url": "https://www.elperiodico.com/es/rss/rss_portada.xml",
+      "description": "El Periódico - Todas las noticias de la portada"
+    },
+    {
+      "title": "huffingtonpost.es",
+      "text": "huffingtonpost.es",
+      "type": "rss",
+      "url": "https://www.huffingtonpost.es/feeds/index.xml",
+      "description": ""
+    },
+    {
+      "title": "Euro Weekly News Spain",
+      "text": "Euro Weekly News Spain",
+      "type": "rss",
+      "url": "https://www.euroweeklynews.com/feed/",
+      "description": "Spain News"
+    }
+  ]
+}

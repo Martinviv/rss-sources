@@ -1,0 +1,117 @@
+{
+  "title": "Apple",
+  "feeds": [
+    {
+      "title": "9to5Mac",
+      "text": "9to5Mac",
+      "type": "rss",
+      "url": "https://9to5mac.com/feed",
+      "description": "Apple News and Mac Rumors Breaking All Day"
+    },
+    {
+      "title": "Apple",
+      "text": "Apple",
+      "type": "rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?user=Apple",
+      "description": ""
+    },
+    {
+      "title": "Apple Newsroom",
+      "text": "Apple Newsroom",
+      "type": "rss",
+      "url": "https://www.apple.com/newsroom/rss-feed.rss",
+      "description": ""
+    },
+    {
+      "title": "AppleInsider News",
+      "text": "AppleInsider News",
+      "type": "rss",
+      "url": "https://appleinsider.com/rss/news/",
+      "description": "AppleInsider News Feed"
+    },
+    {
+      "title": "Cult of Mac",
+      "text": "Cult of Mac",
+      "type": "rss",
+      "url": "https://www.cultofmac.com/feed",
+      "description": "Tech and culture through an Apple lens"
+    },
+    {
+      "title": "Daring Fireball",
+      "text": "Daring Fireball",
+      "type": "rss",
+      "url": "https://daringfireball.net/feeds/main",
+      "description": "By John Gruber"
+    },
+    {
+      "title": "MacRumors",
+      "text": "MacRumors",
+      "type": "rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?user=macrumors",
+      "description": ""
+    },
+    {
+      "title": "MacRumors: Mac News and Rumors - Mac Blog",
+      "text": "MacRumors: Mac News and Rumors - Mac Blog",
+      "type": "rss",
+      "url": "https://feeds.macrumors.com/MacRumors-Mac",
+      "description": "Apple, iPhone, iPad, Mac News and Rumors"
+    },
+    {
+      "title": "MacStories",
+      "text": "MacStories",
+      "type": "rss",
+      "url": "https://www.macstories.net/feed",
+      "description": "Apple news, app reviews, and stories by Federico Viticci and friends."
+    },
+    {
+      "title": "Macworld.com",
+      "text": "Macworld.com",
+      "type": "rss",
+      "url": "https://www.macworld.com/index.rss",
+      "description": "Macworld is your best source for all things Apple. We give you the scoop on what's new, what's best and how to make the most out of the products you love."
+    },
+    {
+      "title": "Marco.org",
+      "text": "Marco.org",
+      "type": "rss",
+      "url": "https://marco.org/rss",
+      "description": "I’m Marco Arment, creator of Overcast, technology podcaster and writer, and coffee enthusiast."
+    },
+    {
+      "title": "OS X Daily",
+      "text": "OS X Daily",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/osxdaily",
+      "description": "News, tips, software, reviews, and more for Mac OS X, iPhone, iPad"
+    },
+    {
+      "title": "The Loop",
+      "text": "The Loop",
+      "type": "rss",
+      "url": "https://www.loopinsight.com/feed",
+      "description": "Making Sense of Technology"
+    },
+    {
+      "title": "The unofficial Apple community",
+      "text": "The unofficial Apple community",
+      "type": "rss",
+      "url": "https://www.reddit.com/r/apple/.rss",
+      "description": "An unofficial community to discuss Apple devices and software, including news, rumors, opinions and analysis pertaining to the company located at One Apple Park Way."
+    },
+    {
+      "title": "iMore - The #1 iPhone, iPad, and iPod touch blog",
+      "text": "iMore - The #1 iPhone, iPad, and iPod touch blog",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/TheiPhoneBlog",
+      "description": "More news and rumors, more help and how-tos, more app and accessory reviews, more iPhone and iPad and iPod touch. More of everything you love. iMore."
+    },
+    {
+      "title": "r/iPhone",
+      "text": "r/iPhone",
+      "type": "rss",
+      "url": "https://www.reddit.com/r/iphone/.rss",
+      "description": "Reddit’s corner for iPhone lovers (or those who mildly enjoy it...)"
+    }
+  ]
+}

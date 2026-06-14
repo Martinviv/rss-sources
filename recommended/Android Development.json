@@ -1,0 +1,194 @@
+{
+  "title": "Android Development",
+  "feeds": [
+    {
+      "title": "Android Developers",
+      "text": "Android Developers",
+      "type": "rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?user=androiddevelopers",
+      "description": "YouTube Channel"
+    },
+    {
+      "title": "Android Developers - Medium",
+      "text": "Android Developers - Medium",
+      "type": "rss",
+      "url": "https://medium.com/feed/androiddevelopers",
+      "description": "The official Android Developers publication on Medium - Medium"
+    },
+    {
+      "title": "Android Developers Backstage",
+      "text": "Android Developers Backstage",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
+      "description": "Android Backstage, a podcast by and for Android developers. Hosted by developers from the Android engineering team, this show covers topics of interest to Android programmers, with in-depth discussions and interviews with engineers on the Android team at Google."
+    },
+    {
+      "title": "Android Developers Blog",
+      "text": "Android Developers Blog",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/blogspot/hsDu",
+      "description": "An Open Handset Alliance Project."
+    },
+    {
+      "title": "Android in Instagram Engineering on Medium",
+      "text": "Android in Instagram Engineering on Medium",
+      "type": "rss",
+      "url": "https://instagram-engineering.com/feed/tagged/android",
+      "description": "Latest stories tagged with Android in Instagram Engineering on Medium"
+    },
+    {
+      "title": "Android in MindOrks on Medium",
+      "text": "Android in MindOrks on Medium",
+      "type": "rss",
+      "url": "https://medium.com/feed/mindorks/tagged/android",
+      "description": "Latest stories tagged with Android in MindOrks on Medium"
+    },
+    {
+      "title": "Android in The Airbnb Tech Blog on Medium",
+      "text": "Android in The Airbnb Tech Blog on Medium",
+      "type": "rss",
+      "url": "https://medium.com/feed/airbnb-engineering/tagged/android",
+      "description": "Latest stories tagged with Android in The Airbnb Tech Blog on Medium"
+    },
+    {
+      "title": "Dan Lew Codes",
+      "text": "Dan Lew Codes",
+      "type": "rss",
+      "url": "https://blog.danlew.net/rss/",
+      "description": "Thoughts on life, the universe and the mystery of it all; but actually mostly just code."
+    },
+    {
+      "title": "Developing Android Apps",
+      "text": "Developing Android Apps",
+      "type": "rss",
+      "url": "https://reddit.com/r/androiddev.rss",
+      "description": "News for Android developers with the who, what, where, when and how of the Android community. News / Articles / Talks / Tools / Open source!"
+    },
+    {
+      "title": "Fragmented - The Software Podcast",
+      "text": "Fragmented - The Software Podcast",
+      "type": "rss",
+      "url": "https://feeds.simplecast.com/LpAGSLnY",
+      "description": "The Fragmented Podcast is a podcast for Software Developers hosted by Donn Felker and Kaushik Gopal. Our goal is to help you become a better Software Developer. We chat about topics such as Testing, Dependency Injection, Patterns and Practices, useful libraries, and much more. We will also be interviewing some of the top developers out there. Subscribe now and join us on the journey of being a Software Developer."
+    },
+    {
+      "title": "Handstand Sam",
+      "text": "Handstand Sam",
+      "type": "rss",
+      "url": "https://handstandsam.com/feed/",
+      "description": "Sam Edwards - Handstands, Travel, Android and Web"
+    },
+    {
+      "title": "Jake Wharton",
+      "text": "Jake Wharton",
+      "type": "rss",
+      "url": "https://jakewharton.com/atom.xml",
+      "description": ""
+    },
+    {
+      "title": "JetBrains News | JetBrains Blog",
+      "text": "JetBrains News | JetBrains Blog",
+      "type": "rss",
+      "url": "https://blog.jetbrains.com/blog/feed",
+      "description": "Developer Tools for Professionals and Teams"
+    },
+    {
+      "title": "Joe Birch",
+      "text": "Joe Birch",
+      "type": "rss",
+      "url": "https://joebirch.co/feed",
+      "description": "Speaker, Educator and GDE for Android, Google Assistant and Flutter"
+    },
+    {
+      "title": "Kotlin",
+      "text": "Kotlin",
+      "type": "rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLQ176FUIyIUa6SChjajjVc-LMzxWiz6dy",
+      "description": "YouTube Channel"
+    },
+    {
+      "title": "Kt. Academy - Medium",
+      "text": "Kt. Academy - Medium",
+      "type": "rss",
+      "url": "https://blog.kotlin-academy.com/feed",
+      "description": "Blog with mission to simplify Kotlin learning - Medium"
+    },
+    {
+      "title": "OkKotlin",
+      "text": "OkKotlin",
+      "type": "rss",
+      "url": "https://okkotlin.com/rss.xml",
+      "description": "A premier blog on Kotlin."
+    },
+    {
+      "title": "ProAndroidDev - Medium",
+      "text": "ProAndroidDev - Medium",
+      "type": "rss",
+      "url": "https://proandroiddev.com/feed",
+      "description": "The latest posts from Android Professionals and Google Developer Experts. - Medium"
+    },
+    {
+      "title": "Public Object",
+      "text": "Public Object",
+      "type": "rss",
+      "url": "https://publicobject.com/rss/",
+      "description": "Jesse Wilson on programming."
+    },
+    {
+      "title": "Talking Kotlin",
+      "text": "Talking Kotlin",
+      "type": "rss",
+      "url": "https://anchor.fm/s/fdcf2fa8/podcast/rss",
+      "description": "A bimonthly podcast that covers the Kotlin programming language by JetBrains, as well as related technologies. Hosted by Hadi Hariri"
+    },
+    {
+      "title": "The Android Arsenal",
+      "text": "The Android Arsenal",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/Android_Arsenal",
+      "description": "A categorized directory of libraries and tools for Android"
+    },
+    {
+      "title": "Zac Sweers",
+      "text": "Zac Sweers",
+      "type": "rss",
+      "url": "https://www.zacsweers.dev/rss/",
+      "description": "Life, travel, code, and the whitespace in between."
+    },
+    {
+      "title": "Zarah Dominguez",
+      "text": "Zarah Dominguez",
+      "type": "rss",
+      "url": "https://zarah.dev/feed.xml",
+      "description": "An Android Love Affair"
+    },
+    {
+      "title": "ChRyNaN Codes",
+      "text": "ChRyNaN Codes",
+      "type": "rss",
+      "url": "https://chrynan.codes/rss/",
+      "description": "Software Development Blog"
+    },
+    {
+      "title": "Droidcon SF",
+      "text": "Droidcon SF",
+      "type": "rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKubKoe1CBw_-n_GXetEQbg",
+      "description": ""
+    },
+    {
+      "title": "Goobar",
+      "text": "Goobar",
+      "type": "rss",
+      "url": "https://goobar.dev/feed",
+      "description": "dream / learn / create"
+    },
+    {
+      "title": "zsmb.co",
+      "text": "zsmb.co",
+      "type": "rss",
+      "url": "https://zsmb.co/index.xml",
+      "description": "Recent content on zsmb.co"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Iran",
+  "feeds": [
+    {
+      "title": "خبرگزاری باشگاه خبرنگاران | آخرین اخبار ایران و جهان | YJC",
+      "text": "خبرگزاری باشگاه خبرنگاران | آخرین اخبار ایران و جهان | YJC",
+      "type": "rss",
+      "url": "https://www.yjc.ir/fa/rss/allnews",
+      "description": "www.Yjc.news"
+    },
+    {
+      "title": "تابناک | TABNAK",
+      "text": "تابناک | TABNAK",
+      "type": "rss",
+      "url": "https://www.tabnak.ir/fa/rss/allnews",
+      "description": "سایت خبری تحلیلی تابناک | اخبار ایران و جهان | TABNAK"
+    },
+    {
+      "title": "خبرگزاری ایسنا | صفحه اصلی |  ISNA News Agency",
+      "text": "خبرگزاری ایسنا | صفحه اصلی |  ISNA News Agency",
+      "type": "rss",
+      "url": "https://www.isna.ir/rss",
+      "description": "جدیدترین اخبار دانشگاهی،علمی،فن آوری،ورزشی،اجتماعی،سیاسی،اقتصادی ایران و سایر مناطق جهان را در خبرگزاری ایسنا بخوانید | isna.ir, isna.news, isnanews.com, isnanews.ir, isnanews, isna.org.ir, isna news agency"
+    },
+    {
+      "title": "خبرگزاری مهر | اخبار ایران و جهان | Mehr News Agency",
+      "text": "خبرگزاری مهر | اخبار ایران و جهان | Mehr News Agency",
+      "type": "rss",
+      "url": "https://www.mehrnews.com/rss",
+      "description": "خبرگزاری مهر آخرين اخبار ايران جهان سياست ورزش اقتصاد فرهنگ حوزه دانشگاه هنر فيلم عکس مجله مهر و استان ها | mehrnews.com, mehrnews, mehr news agency"
+    },
+    {
+      "title": "خبرگزاری خبرآنلاین - آخرین اخبار ایران و جهان | Khabaronline",
+      "text": "خبرگزاری خبرآنلاین - آخرین اخبار ایران و جهان | Khabaronline",
+      "type": "rss",
+      "url": "https://www.khabaronline.ir/rss",
+      "description": "تازهترین اخبار و تحلیلها و درباره اخبار ورزشی، حوادث، سیاسی، اقتصادی، فرهنگی و گردشگری را در خبرآنلاین بخوانید"
+    },
+    {
+      "title": "اخبار ایران و جهان",
+      "text": "اخبار ایران و جهان",
+      "type": "rss",
+      "url": "https://www.tasnimnews.com/fa/rss/feed/0/8/0/%D9%85%D9%87%D9%85%D8%AA%D8%B1%DB%8C%D9%86-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%AA%D8%B3%D9%86%DB%8C%D9%85",
+      "description": "اخبار ایران و جهان را در خبرگزاری تسنیم بخوانید"
+    },
+    {
+      "title": "عصر ايران",
+      "text": "عصر ايران",
+      "type": "rss",
+      "url": "https://www.asriran.com/fa/rss/allnews",
+      "description": "اخبار، قیمت طلا و ارز، قیمت خودرو، اخبار کرونا، فیلم و کلیپ های به روز و خواندی های جالب"
+    }
+  ]
+}

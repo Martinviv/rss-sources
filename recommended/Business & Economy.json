@@ -1,0 +1,109 @@
+{
+  "title": "Business & Economy",
+  "feeds": [
+    {
+      "title": "All News - Investing.com",
+      "text": "All News - Investing.com",
+      "url": "https://www.investing.com/rss/news.rss",
+      "description": ""
+    },
+    {
+      "title": "Bloomberg Quicktake",
+      "text": "Bloomberg Quicktake",
+      "type": "rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?user=Bloomberg",
+      "description": ""
+    },
+    {
+      "title": "Breaking News on Seeking Alpha",
+      "text": "Breaking News on Seeking Alpha",
+      "type": "rss",
+      "url": "https://seekingalpha.com/market_currents.xml",
+      "description": "Use of this feed is limited to personal, non-commercial use and is governed by Seeking Alpha's Terms of Use (https://seekingalpha.com/page/terms-of-use). Publishing this feed for public or commercial use and/or misrepresentation by a third party is prohibited."
+    },
+    {
+      "title": "Business Insider",
+      "text": "Business Insider",
+      "type": "rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?user=businessinsider",
+      "description": ""
+    },
+    {
+      "title": "Duct Tape Marketing",
+      "text": "Duct Tape Marketing",
+      "type": "rss",
+      "url": "https://ducttape.libsyn.com/rss",
+      "description": "Interviews with authors, experts and thought leaders sharing business marketing tips, tactics and resources hosted by one America's leading small business marketing experts - John Jantsch"
+    },
+    {
+      "title": "Economic Times",
+      "text": "Economic Times",
+      "type": "rss",
+      "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
+      "description": "The Economic Times: Latest business, finance, markets, stocks, company news from India."
+    },
+    {
+      "title": "Forbes - Business",
+      "text": "Forbes - Business",
+      "type": "rss",
+      "url": "https://www.forbes.com/business/feed/",
+      "description": ""
+    },
+    {
+      "title": "Fortune",
+      "text": "Fortune",
+      "type": "rss",
+      "url": "https://fortune.com/feed",
+      "description": "Fortune 500 Daily and Breaking Business News"
+    },
+    {
+      "title": "HBR IdeaCast",
+      "text": "HBR IdeaCast",
+      "type": "rss",
+      "url": "http://feeds.harvardbusiness.org/harvardbusiness/ideacast",
+      "description": "A weekly podcast featuring the leading thinkers in business and management."
+    },
+    {
+      "title": "Business Standard - Home Page",
+      "text": "Business Standard - Home Page",
+      "type": "rss",
+      "url": "https://www.business-standard.com/rss/home_page_top_stories.rss",
+      "description": "Business News: Get latest stock share market news, financial news, economy news, company news, politics news, India news, breaking news, Indian economy news at Business Standard. Catch Nifty Sensex Live updates."
+    },
+    {
+      "title": "Startup Stories - Mixergy",
+      "text": "Startup Stories - Mixergy",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/Mixergy-main-podcast",
+      "description": "Business tips for startups by proven entrepreneurs"
+    },
+    {
+      "title": "The Blog of Author Tim Ferriss",
+      "text": "The Blog of Author Tim Ferriss",
+      "type": "rss",
+      "url": "https://tim.blog/feed/",
+      "description": "Tim Ferriss's 4-Hour Workweek and Lifestyle Design Blog. Tim is an author of 5 #1 NYT/WSJ bestsellers, investor (FB, Uber, Twitter, 50+ more), and host of The Tim Ferriss Show podcast (400M+ downloads)"
+    },
+    {
+      "title": "The Growth Show",
+      "text": "The Growth Show",
+      "type": "rss",
+      "url": "https://feeds.megaphone.fm/HS8360247339",
+      "description": "It’s never been easier to start a business, but it’s even harder to succeed. Each episode explores the inspiring stories behind how people grow a business, an idea, or a movement."
+    },
+    {
+      "title": "US Top News and Analysis",
+      "text": "US Top News and Analysis",
+      "type": "rss",
+      "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+      "description": "CNBC is the world leader in business news and real-time financial market coverage. Find fast, actionable information."
+    },
+    {
+      "title": "Yahoo Finance",
+      "text": "Yahoo Finance",
+      "type": "rss",
+      "url": "https://finance.yahoo.com/news/rssindex",
+      "description": "At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life."
+    }
+  ]
+}

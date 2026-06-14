@@ -1,0 +1,89 @@
+{
+  "title": "Russia",
+  "feeds": [
+    {
+      "title": "Lenta.ru : Новости",
+      "text": "Lenta.ru : Новости",
+      "type": "rss",
+      "url": "https://lenta.ru/rss",
+      "description": "Новости, статьи, фотографии, видео. Семь дней в неделю, 24 часа в сутки."
+    },
+    {
+      "title": "Вести.Ru",
+      "text": "Вести.Ru",
+      "type": "rss",
+      "url": "https://www.vesti.ru/vesti.rss",
+      "description": "Сетевое издание. Новости, видео и фото дня"
+    },
+    {
+      "title": "Газета.Ru - Первая полоса",
+      "text": "Газета.Ru - Первая полоса",
+      "type": "rss",
+      "url": "https://www.gazeta.ru/export/rss/first.xml",
+      "description": "Первая полоса одной из самых популярных российских интернет-газет. Российские и зарубежные новости в режиме он-лайн; важнейшие политические и экономические события в их развитии. Оригинальный взгляд, глубокий анализ и точный прогноз."
+    },
+    {
+      "title": "Все материалы - Московский Комсомолец",
+      "text": "Все материалы - Московский Комсомолец",
+      "type": "rss",
+      "url": "https://www.mk.ru/rss/index.xml",
+      "description": "Московский Комсомолец"
+    },
+    {
+      "title": "Российская Газета",
+      "text": "Российская Газета",
+      "type": "rss",
+      "url": "https://rg.ru/xml/index.xml",
+      "description": "Российская газета"
+    },
+    {
+      "title": "NEWSru.com :: Главные новости",
+      "text": "NEWSru.com :: Главные новости",
+      "type": "rss",
+      "url": "https://rss.newsru.com/top/big/",
+      "description": "Все новости России и мира от NEWSru.com."
+    },
+    {
+      "title": "RT - Daily news",
+      "text": "RT - Daily news",
+      "type": "rss",
+      "url": "https://www.rt.com/rss/",
+      "description": "RT : Today"
+    },
+    {
+      "title": "Meduza.io",
+      "text": "Meduza.io",
+      "type": "rss",
+      "url": "https://meduza.io/rss/all",
+      "description": "Мы выбираем для вас самые важные новости и готовим лучшие тексты о том, что происходит в России и мире."
+    },
+    {
+      "title": "Russia Insider Daily Headlines",
+      "text": "Russia Insider Daily Headlines",
+      "type": "rss",
+      "url": "https://russia-insider.com/en/all-content/rss",
+      "description": ""
+    },
+    {
+      "title": "TASS",
+      "text": "TASS",
+      "type": "rss",
+      "url": "https://tass.com/rss/v2.xml",
+      "description": "TASS News Agency"
+    },
+    {
+      "title": "The Moscow Times - Independent News From Russia",
+      "text": "The Moscow Times - Independent News From Russia",
+      "type": "rss",
+      "url": "https://www.themoscowtimes.com/rss/news",
+      "description": "The Moscow Times offers everything you need to know about Russia: Breaking news, top stories, business, analysis, opinion, multimedia, upcoming cultural events"
+    },
+    {
+      "title": "PravdaReport",
+      "text": "PravdaReport",
+      "type": "rss",
+      "url": "https://www.pravdareport.com/export.xml",
+      "description": "PravdaReport: Russian news and analysis"
+    }
+  ]
+}

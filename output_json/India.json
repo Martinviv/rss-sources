@@ -1,0 +1,222 @@
+{
+  "title": "India",
+  "feeds": [
+    {
+      "title": "BBC News - India",
+      "text": "BBC News - India",
+      "type": "rss",
+      "url": "https://feeds.bbci.co.uk/news/world/asia/india/rss.xml",
+      "description": "BBC News - India"
+    },
+    {
+      "title": "India | The Guardian",
+      "text": "India | The Guardian",
+      "type": "rss",
+      "url": "https://www.theguardian.com/world/india/rss",
+      "description": "Latest news and features from theguardian.com, the world's leading liberal voice"
+    },
+    {
+      "title": "SEBI RSS Feed",
+      "text": "SEBI RSS Feed",
+      "type": "rss",
+      "url": "https://www.sebi.gov.in/sebirss.xml",
+      "description": "SEBI RSS Feed"
+    },
+    {
+      "title": "Times of India",
+      "text": "Times of India",
+      "type": "rss",
+      "url": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "description": "The Times of India: Breaking news, views, reviews, cricket from across India"
+    },
+    {
+      "title": "The Hindu - Home",
+      "text": "The Hindu - Home",
+      "type": "rss",
+      "url": "https://www.thehindu.com/feeder/default.rss",
+      "description": "Default RSS Feed"
+    },
+    {
+      "title": "NDTV News -   Topstories",
+      "text": "NDTV News -   Topstories",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/ndtvnews-top-stories",
+      "description": "NDTV.com provides the latest information from and in-depth coverage of India and the world. Find breaking news, India news, top stories, elections, politics, business, cricket, movies, lifestyle, health, live TV, videos, photos and more."
+    },
+    {
+      "title": "India Today | Latest Stories",
+      "text": "India Today | Latest Stories",
+      "type": "rss",
+      "url": "https://www.indiatoday.in/rss/home",
+      "description": "India Today"
+    },
+    {
+      "title": "Front Page | The Indian Express",
+      "text": "Front Page | The Indian Express",
+      "type": "rss",
+      "url": "https://indianexpress.com/feed/",
+      "description": "Latest News, India News, Covid-19 News, Breaking News, Today's News Headlines Online"
+    },
+    {
+      "title": "Top World News- News18.com",
+      "text": "Top World News- News18.com",
+      "type": "rss",
+      "url": "https://www.news18.com/rss/world.xml",
+      "description": "Latest news from World Section"
+    },
+    {
+      "title": "India News",
+      "text": "India News",
+      "type": "rss",
+      "url": "https://www.dnaindia.com/feeds/india.xml",
+      "description": "dnaindia.com delivers news and information on the latest top stories, sport, entertainment, business, technology, Mumbai, India, world and more."
+    },
+    {
+      "title": "Firstpost India Latest News",
+      "text": "Firstpost India Latest News",
+      "type": "rss",
+      "url": "https://www.firstpost.com/commonfeeds/v1/mfp/rss/india.xml",
+      "description": "Firstpost provides Latest News in India, Live News India, India Breaking News, todays India news, Top headlines of India"
+    },
+    {
+      "title": "Home Page",
+      "text": "Home Page",
+      "type": "rss",
+      "url": "https://www.business-standard.com/rss/home_page_top_stories.rss",
+      "description": "Business News: Get latest stock share market news, financial news, economy news, company news, politics news, India news, breaking news, Indian economy news at Business Standard. Catch Nifty Sensex Live updates."
+    },
+    {
+      "title": "Outlook India",
+      "text": "Outlook India",
+      "type": "rss",
+      "url": "https://www.outlookindia.com/rss",
+      "description": "outlook India"
+    },
+    {
+      "title": "Free Press Journal",
+      "text": "Free Press Journal",
+      "type": "rss",
+      "url": "https://www.freepressjournal.in/stories.rss",
+      "description": "Free Press Journal brings the Latest News and Top Breaking headlines on Politics and Current Affairs in India and around the World, Sports, Business, Bollywood"
+    },
+    {
+      "title": "Economic Times",
+      "text": "Economic Times",
+      "type": "rss",
+      "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
+      "description": "The Economic Times: Latest business, finance, markets, stocks, company news from India."
+    },
+    {
+      "title": "News, Latest News, Today's News Headlines, Breaking News, LIVE News - Oneindia",
+      "text": "News, Latest News, Today's News Headlines, Breaking News, LIVE News - Oneindia",
+      "type": "rss",
+      "url": "https://www.oneindia.com/rss/news-fb.xml",
+      "description": "Read all latest news headlines from India and around the world, get today's breaking news and live updates on politics, elections, business, sports, economy, current affairs, results and more on Oneindia."
+    },
+    {
+      "title": "Scroll.in",
+      "text": "Scroll.in",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/ScrollinArticles.rss",
+      "description": "A digital daily of things that matter."
+    },
+    {
+      "title": "Business Line - Home",
+      "text": "Business Line - Home",
+      "type": "rss",
+      "url": "https://www.thehindubusinessline.com/feeder/default.rss",
+      "description": "Default RSS Feed"
+    },
+    {
+      "title": "TechGenyz",
+      "text": "TechGenyz",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/techgenyz",
+      "description": "News on Mobile, Gaming, AR, VR, Apps and Future Tech"
+    },
+    {
+      "title": "Top Stories News - Gujarat Samachar : World's Leading Gujarati Newspaper",
+      "text": "Top Stories News - Gujarat Samachar : World's Leading Gujarati Newspaper",
+      "type": "rss",
+      "url": "https://www.gujaratsamachar.com/rss/top-stories",
+      "description": "Top Stories News - Gujarat Samachar : World's Leading Gujarati Newspaper"
+    },
+    {
+      "title": "Marathi News: मराठी बातम्या,  Latest News in Marathi, Breaking Marathi News, Marathi News Paper | Maharashtra Times",
+      "text": "Marathi News: मराठी बातम्या,  Latest News in Marathi, Breaking Marathi News, Marathi News Paper | Maharashtra Times",
+      "type": "rss",
+      "url": "https://maharashtratimes.com/rssfeedsdefault.cms",
+      "description": "Get latest Marathi news from Maharashtra, India and World. Maharashtra Times, a Marathi news paper provides news in Marathi, Marathi batmya, today's news headlines from sports, entertainment, politics and more."
+    },
+    {
+      "title": "Latest News program News18 Lokmat",
+      "text": "Latest News program News18 Lokmat",
+      "type": "rss",
+      "url": "https://lokmat.news18.com/commonfeeds/v1/lok/rss/program.xml",
+      "description": "Latest news from program Section"
+    },
+    {
+      "title": "OpIndia",
+      "text": "OpIndia",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/opindia",
+      "description": "bringing the 'right' side of India"
+    },
+    {
+      "title": "ThePrint",
+      "text": "ThePrint",
+      "type": "rss",
+      "url": "https://theprint.in/feed/",
+      "description": "India’s digital platform for latest news and reports, insightful analyses, opinion on politics, policy, governance, economy, education, defence and culture."
+    },
+    {
+      "title": "Swarajya",
+      "text": "Swarajya",
+      "type": "rss",
+      "url": "https://prod-qt-images.s3.amazonaws.com/production/swarajya/feed.xml",
+      "description": ""
+    },
+    {
+      "title": "Latest And Breaking Hindi News Headlines, News In Hindi | अमर उजाला हिंदी न्यूज़ | - Amar Ujala",
+      "text": "Latest And Breaking Hindi News Headlines, News In Hindi | अमर उजाला हिंदी न्यूज़ | - Amar Ujala",
+      "type": "rss",
+      "url": "https://www.amarujala.com/rss/breaking-news.xml",
+      "description": "Read breaking and latest breaking News in Hindi in India's No. 1 Leading Hindi Newspaper Amar Ujala covering breaking samachar in Hindi, election news, crime news, education news and more"
+    },
+    {
+      "title": "Navbharat Times",
+      "text": "Navbharat Times",
+      "type": "rss",
+      "url": "https://navbharattimes.indiatimes.com/rssfeedsdefault.cms",
+      "description": "NavBharat Times a Hindi news portal brings news in Hindi from India and international news headlines, top stories on business, politics, sports and entertainment news"
+    },
+    {
+      "title": "Patrika : India's Leading Hindi News Portal",
+      "text": "Patrika : India's Leading Hindi News Portal",
+      "type": "rss",
+      "url": "https://api.patrika.com/rss/india-news",
+      "description": "Patrika - A Hindi news portal brings latest news, headlines in hindi from India, world, business, politics, sports and entertainment!"
+    },
+    {
+      "title": "Live Hindustan Rss feed",
+      "text": "Live Hindustan Rss feed",
+      "type": "rss",
+      "url": "https://feed.livehindustan.com/rss/3127",
+      "description": "www.livehindustan.com delivers news and information on the latest top stories, Videsh, Desh, Cricket, Entertainment, Business, Life Style, Editors Artical and other related local news."
+    },
+    {
+      "title": "देश | दैनिक भास्कर",
+      "text": "देश | दैनिक भास्कर",
+      "type": "rss",
+      "url": "https://www.bhaskar.com/rss-feed/1061/",
+      "description": "News in Hindi(हिन्दी में समाचार), Hindi News(हिंदी समाचार): देश के सबसे विश्वसनीय अख़बार पर पढ़ें ताज़ा ख़बरें। पढ़ें देश, विदेश, बॉलीवुड, लाइफस्टाइल और राजनीती की ब्रेकिंग ख़बरें. Read Latest Hindi News, Breaking News at Dainik Bhaskar"
+    },
+    {
+      "title": "ઈન્ડિયા | દિવ્ય ભાસ્કર",
+      "text": "ઈન્ડિયા | દિવ્ય ભાસ્કર",
+      "type": "rss",
+      "url": "https://www.divyabhaskar.co.in/rss-feed/1037/",
+      "description": "Latest National News Samachar - Find India\\'s latest Samachar and News Headlines today at India\\'s No. 1 gujarati news site www.divyabhaskar.co.in."
+    }
+  ]
+}

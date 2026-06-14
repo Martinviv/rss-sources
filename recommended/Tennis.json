@@ -1,0 +1,47 @@
+{
+  "title": "Tennis",
+  "feeds": [
+    {
+      "title": "BBC Sport - Tennis",
+      "text": "BBC Sport - Tennis",
+      "type": "rss",
+      "url": "https://feeds.bbci.co.uk/sport/tennis/rss.xml",
+      "description": ""
+    },
+    {
+      "title": "Essential Tennis Podcast - Instruction, Lessons, Tips",
+      "text": "Essential Tennis Podcast - Instruction, Lessons, Tips",
+      "type": "rss",
+      "url": "https://feed.podbean.com/essentialtennis/feed.xml",
+      "description": "Improve your tennis with the Essential Tennis Podcast, the very first podcast dedicated to tennis lessons and instruction! Tennis professional Ian Westermann answers listener questions about technique, strategy, mental toughness, and much more."
+    },
+    {
+      "title": "Tennis - ATP World Tour",
+      "text": "Tennis - ATP World Tour",
+      "type": "rss",
+      "url": "https://www.atptour.com/en/media/rss-feed/xml-feed",
+      "description": "Headline News - powered by FeedBurner"
+    },
+    {
+      "title": "Tennis News and Discussion",
+      "text": "Tennis News and Discussion",
+      "type": "rss",
+      "url": "https://www.reddit.com/r/tennis/.rss",
+      "description": ""
+    },
+    {
+      "title": "Perfect Tennis",
+      "text": "Perfect Tennis",
+      "type": "rss",
+      "url": "https://www.perfect-tennis.com/feed/",
+      "description": "UK Tennis Blog"
+    },
+    {
+      "title": "ESPN.com - Tennis",
+      "text": "ESPN.com - Tennis",
+      "type": "rss",
+      "url": "https://www.espn.com/espn/rss/tennis/news",
+      "description": "Latest TENNIS news from www.espn.com"
+    }
+  ]
+}

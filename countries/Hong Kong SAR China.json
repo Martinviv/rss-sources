@@ -1,0 +1,33 @@
+{
+  "title": "Hong Kong SAR China",
+  "feeds": [
+    {
+      "title": "Hong Kong Free Press HKFP",
+      "text": "Hong Kong Free Press HKFP",
+      "type": "rss",
+      "url": "https://www.hongkongfp.com/feed/",
+      "description": "Hong Kong news - Independent and non-profit"
+    },
+    {
+      "title": "The Standard - Latest News",
+      "text": "The Standard - Latest News",
+      "type": "rss",
+      "url": "https://www.thestandard.com.hk/newsfeed/latest/news.xml",
+      "description": "Latest headlines from The Standard"
+    },
+    {
+      "title": "香港新聞RSS - 香港經濟日報 hket.com",
+      "text": "香港新聞RSS - 香港經濟日報 hket.com",
+      "type": "rss",
+      "url": "https://www.hket.com/rss/hongkong",
+      "description": "訂閱新聞RSS，獲取最新香港新聞, 時事 - RSS - 香港經濟日報 hket.com"
+    },
+    {
+      "title": "HongKongNews.net - Latest RSS Headlines",
+      "text": "HongKongNews.net - Latest RSS Headlines",
+      "type": "rss",
+      "url": "http://feeds.hongkongnews.net/rss/b82693edf38ebff8",
+      "description": "Provides the latest RSS feeds for HongKongNews.net. For more headlines on breaking, national, business, finance, sports and world news, visit our home page."
+    }
+  ]
+}

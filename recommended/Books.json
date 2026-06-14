@@ -1,0 +1,54 @@
+{
+  "title": "Books",
+  "feeds": [
+    {
+      "title": "A year of reading the world",
+      "text": "A year of reading the world",
+      "type": "rss",
+      "url": "https://ayearofreadingtheworld.com/feed/",
+      "description": "196 countries, countless stories..."
+    },
+    {
+      "title": "Aestas Book Blog",
+      "text": "Aestas Book Blog",
+      "type": "rss",
+      "url": "https://aestasbookblog.com/feed/",
+      "description": "Romance book reviews. Reviews of books that make my heart race, have a beautiful love story, and a happy ending."
+    },
+    {
+      "title": "BOOK RIOT",
+      "text": "BOOK RIOT",
+      "type": "rss",
+      "url": "https://bookriot.com/feed/",
+      "description": "Book Recommendations and Reviews"
+    },
+    {
+      "title": "Kirkus Reviews",
+      "text": "Kirkus Reviews",
+      "type": "rss",
+      "url": "https://www.kirkusreviews.com/feeds/rss/",
+      "description": "Latest book reviews from Kirkus Reviews."
+    },
+    {
+      "title": "Page Array – NewInBooks",
+      "text": "Page Array – NewInBooks",
+      "type": "rss",
+      "url": "https://www.newinbooks.com/feed/",
+      "description": "Answering the Age old question - What are you reading?"
+    },
+    {
+      "title": "So many books, so little time",
+      "text": "So many books, so little time",
+      "type": "rss",
+      "url": "https://reddit.com/r/books/.rss",
+      "description": "This is a moderated subreddit. It is our intent and purpose to foster and encourage in-depth discussion about all things related to books, authors, genres, or publishing in a safe, supportive environment. If you're looking for help with a personal book recommendation, consult our Weekly Recommendation Thread, Suggested Reading page, or ask in r/suggestmeabook."
+    },
+    {
+      "title": "Wokeread",
+      "text": "Wokeread",
+      "type": "rss",
+      "url": "https://wokeread.home.blog/feed/",
+      "description": "Books any time any day."
+    }
+  ]
+}

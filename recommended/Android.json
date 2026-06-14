@@ -1,0 +1,131 @@
+{
+  "title": "Android",
+  "feeds": [
+    {
+      "title": "All About Android (Audio)",
+      "text": "All About Android (Audio)",
+      "type": "rss",
+      "url": "https://feeds.twit.tv/aaa.xml",
+      "description": "All About Android delivers everything you want to know about Android each week--the biggest news, freshest hardware, best apps and geekiest how-tos--with Android enthusiasts Jason Howell, Florence Ion, Ron Richards, and a variety of special guests along the way. Records live every Tuesday at 8:00pm Eastern / 5:00pm Pacific / 00:00 (Wed) UTC."
+    },
+    {
+      "title": "Google Android Blog",
+      "text": "Google Android Blog",
+      "type": "rss",
+      "url": "https://blog.google/products/android/rss",
+      "description": ""
+    },
+    {
+      "title": "Android",
+      "text": "Android",
+      "type": "rss",
+      "url": "https://www.reddit.com/r/android/.rss",
+      "description": "Android news, reviews, tips, and discussions about rooting, tutorials, and apps. Generic discussion about phones/tablets is allowed, but technical-support, upgrade related questions or buy/sell posts, app recommendations and carrier-related issues should be asked in their respective subreddits!"
+    },
+    {
+      "title": "Android Authority",
+      "text": "Android Authority",
+      "type": "rss",
+      "url": "https://www.androidauthority.com/feed",
+      "description": "Android News, Reviews, How To"
+    },
+    {
+      "title": "Android Authority",
+      "text": "Android Authority",
+      "type": "rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?user=AndroidAuthority",
+      "description": ""
+    },
+    {
+      "title": "Android Authority Podcast",
+      "text": "Android Authority Podcast",
+      "type": "rss",
+      "url": "https://androidauthority.libsyn.com/rss",
+      "description": "The Android Authority Podcast discusses Android every week, bringing the latest stories and features from the mobile ecosystem. Check out androidauthority.com for the latest news and reviews, then join the community forums and YouTube channel for more."
+    },
+    {
+      "title": "Android Central - Android Forums, News, Reviews, Help and Android Wallpapers",
+      "text": "Android Central - Android Forums, News, Reviews, Help and Android Wallpapers",
+      "type": "rss",
+      "url": "http://feeds.androidcentral.com/androidcentral",
+      "description": ""
+    },
+    {
+      "title": "Android Central Podcast",
+      "text": "Android Central Podcast",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/AndroidCentralPodcast",
+      "description": "The Android and Google Podcast for Everyone. Hosted by Daniel Bader."
+    },
+    {
+      "title": "Android Community",
+      "text": "Android Community",
+      "type": "rss",
+      "url": "https://androidcommunity.com/feed/",
+      "description": "Android News, Reviews, and Apps"
+    },
+    {
+      "title": "Android Police – Android news, reviews, apps, games, phones, tablets",
+      "text": "Android Police – Android news, reviews, apps, games, phones, tablets",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/AndroidPolice",
+      "description": "Looking after everything Android"
+    },
+    {
+      "title": "AndroidGuys",
+      "text": "AndroidGuys",
+      "type": "rss",
+      "url": "https://www.androidguys.com/feed",
+      "description": "Android news and opinion"
+    },
+    {
+      "title": "Cult of Android",
+      "text": "Cult of Android",
+      "type": "rss",
+      "url": "https://www.cultofandroid.com/feed",
+      "description": "Breaking news for Android fans"
+    },
+    {
+      "title": "Cyanogen Mods",
+      "text": "Cyanogen Mods",
+      "type": "rss",
+      "url": "https://www.cyanogenmods.org/feed",
+      "description": "Mod APK | GCam | LineageOS"
+    },
+    {
+      "title": "Droid Life",
+      "text": "Droid Life",
+      "type": "rss",
+      "url": "https://www.droid-life.com/feed",
+      "description": "Opinionated Android news."
+    },
+    {
+      "title": "GSMArena.com - Latest articles",
+      "text": "GSMArena.com - Latest articles",
+      "type": "rss",
+      "url": "https://www.gsmarena.com/rss-news-reviews.php3",
+      "description": "GSMArena.com is the ultimate resource for GSM handset information. This feed contains the latest articles (news and reviews) in chronological order."
+    },
+    {
+      "title": "Phandroid",
+      "text": "Phandroid",
+      "type": "rss",
+      "url": "https://feeds2.feedburner.com/AndroidPhoneFans",
+      "description": "Android Phone News, Rumors, Reviews, Apps, Forums and More!"
+    },
+    {
+      "title": "TalkAndroid",
+      "text": "TalkAndroid",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
+      "description": "The latest in android news, rumours, and updates, including device news and apps!"
+    },
+    {
+      "title": "XDA Developers",
+      "text": "XDA Developers",
+      "type": "rss",
+      "url": "https://www.xda-developers.com/feed/",
+      "description": "Android and Windows Phone Development Community"
+    }
+  ]
+}

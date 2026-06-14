@@ -1,0 +1,96 @@
+{
+  "title": "Mexico",
+  "feeds": [
+    {
+      "title": "Mexico | The Guardian",
+      "text": "Mexico | The Guardian",
+      "type": "rss",
+      "url": "https://www.theguardian.com/world/mexico/rss",
+      "description": "Latest news and features from theguardian.com, the world's leading liberal voice"
+    },
+    {
+      "title": "Excélsior - RSS",
+      "text": "Excélsior - RSS",
+      "type": "rss",
+      "url": "https://www.excelsior.com.mx/rss.xml",
+      "description": "El portal de noticias líder en México con toda la información nacional y del mundo. Entérate en tiempo real de la vida pública, política, espectáculos, deportes, videos y más..."
+    },
+    {
+      "title": "Reforma",
+      "text": "Reforma",
+      "type": "rss",
+      "url": "https://www.reforma.com/rss/portada.xml",
+      "description": "Las �ltimas noticias publicadas m�s relevantes"
+    },
+    {
+      "title": "Lo último en Vanguardia MX",
+      "text": "Lo último en Vanguardia MX",
+      "type": "rss",
+      "url": "https://vanguardia.com.mx/rss.xml",
+      "description": "Vanguardia"
+    },
+    {
+      "title": "Portada, El Siglo de Torreón",
+      "text": "Portada, El Siglo de Torreón",
+      "type": "rss",
+      "url": "https://www.elsiglodetorreon.com.mx/index.xml",
+      "description": "El Siglo de Torreón en Línea - Defensor de la Comunidad (Portada)"
+    },
+    {
+      "title": "El Financiero",
+      "text": "El Financiero",
+      "type": "rss",
+      "url": "https://www.elfinanciero.com.mx/arc/outboundfeeds/rss/?outputType=xml",
+      "description": "El Financiero News Feed"
+    },
+    {
+      "title": "ElNorte",
+      "text": "ElNorte",
+      "type": "rss",
+      "url": "https://www.elnorte.com/rss/portada.xml",
+      "description": "Las �ltimas noticias publicadas m�s relevantes"
+    },
+    {
+      "title": "El Informador :: Noticias de Jalisco, México, Deportes and Entretenimiento",
+      "text": "El Informador :: Noticias de Jalisco, México, Deportes and Entretenimiento",
+      "type": "rss",
+      "url": "https://www.informador.mx/rss/ultimas-noticias.xml",
+      "description": "RSS con las últimas noticias"
+    },
+    {
+      "title": "24 Horas",
+      "text": "24 Horas",
+      "type": "rss",
+      "url": "https://www.24-horas.mx/feed/",
+      "description": "El Diario Sin Límites"
+    },
+    {
+      "title": "DEBATE",
+      "text": "DEBATE",
+      "type": "rss",
+      "url": "https://www.debate.com.mx/rss/feed.xml",
+      "description": "Últimas Noticias de México y el Mundo"
+    },
+    {
+      "title": "Mexico News Daily",
+      "text": "Mexico News Daily",
+      "type": "rss",
+      "url": "https://mexiconewsdaily.com/feed/",
+      "description": ""
+    },
+    {
+      "title": "El Diario",
+      "text": "El Diario",
+      "type": "rss",
+      "url": "https://diario.mx/jrz/media/sitemaps/rss.xml",
+      "description": "Noticias en tiempo real de Ciudad Juárez, México y el mundo"
+    },
+    {
+      "title": "8 Columnas",
+      "text": "8 Columnas",
+      "type": "rss",
+      "url": "https://8columnas.com.mx/feed/",
+      "description": "La nueva era del periodismo"
+    }
+  ]
+}

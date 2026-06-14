@@ -1,0 +1,145 @@
+{
+  "title": "Startups",
+  "feeds": [
+    {
+      "title": "AVC",
+      "text": "AVC",
+      "type": "rss",
+      "url": "https://avc.com/feed/",
+      "description": "Musings of a VC in NYC"
+    },
+    {
+      "title": "Both Sides of the Table - Medium",
+      "text": "Both Sides of the Table - Medium",
+      "type": "rss",
+      "url": "https://bothsidesofthetable.com/feed",
+      "description": "Perspectives of a 2x entrepreneur turned VC at @UpfrontVC, the largest and most active early-stage fund in Southern California. Snapchat: msuster - Medium"
+    },
+    {
+      "title": "Entrepreneur",
+      "text": "Entrepreneur",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/entrepreneur/latest",
+      "description": "The latest stories from Entrepreneur."
+    },
+    {
+      "title": "Feld Thoughts",
+      "text": "Feld Thoughts",
+      "type": "rss",
+      "url": "https://feld.com/feed",
+      "description": ""
+    },
+    {
+      "title": "Forbes - Entrepreneurs",
+      "text": "Forbes - Entrepreneurs",
+      "type": "rss",
+      "url": "https://www.forbes.com/entrepreneurs/feed/",
+      "description": ""
+    },
+    {
+      "title": "GaryVee",
+      "text": "GaryVee",
+      "type": "rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?user=GaryVaynerchuk",
+      "description": ""
+    },
+    {
+      "title": "Hacker News: Front Page",
+      "text": "Hacker News: Front Page",
+      "type": "rss",
+      "url": "https://hnrss.org/frontpage",
+      "description": "Hacker News RSS"
+    },
+    {
+      "title": "Inc.com",
+      "text": "Inc.com",
+      "type": "rss",
+      "url": "https://www.inc.com/rss/",
+      "description": "Inc.com, the daily resource for entrepreneurs."
+    },
+    {
+      "title": "Inside Intercom",
+      "text": "Inside Intercom",
+      "type": "rss",
+      "url": "https://www.intercom.com/blog/feed",
+      "description": "Product, Marketing, and Customer Support Blog"
+    },
+    {
+      "title": "Marie Forleo",
+      "text": "Marie Forleo",
+      "type": "rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?user=marieforleo",
+      "description": ""
+    },
+    {
+      "title": "Paul Graham: Essays",
+      "text": "Paul Graham: Essays",
+      "type": "rss",
+      "url": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+      "description": "Scraped feed provided by aaronsw.com"
+    },
+    {
+      "title": "Product Hunt — The best new products, every day",
+      "text": "Product Hunt — The best new products, every day",
+      "type": "rss",
+      "url": "https://www.producthunt.com/feed",
+      "description": ""
+    },
+    {
+      "title": "Quick Sprout",
+      "text": "Quick Sprout",
+      "type": "rss",
+      "url": "https://www.quicksprout.com/rss",
+      "description": "Start and Grow Your Business"
+    },
+    {
+      "title": "Smart Passive Income",
+      "text": "Smart Passive Income",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/smartpassiveincome",
+      "description": ""
+    },
+    {
+      "title": "Springwise",
+      "text": "Springwise",
+      "type": "rss",
+      "url": "https://www.springwise.com/feed",
+      "description": "Innovation That Matters"
+    },
+    {
+      "title": "Steve Blank",
+      "text": "Steve Blank",
+      "type": "rss",
+      "url": "https://steveblank.com/feed/",
+      "description": "Innovation and Entrepreneurship"
+    },
+    {
+      "title": "The Startup Junkies Podcast",
+      "text": "The Startup Junkies Podcast",
+      "type": "rss",
+      "url": "https://startupjunkie.libsyn.com/rss",
+      "description": "The Startup Junkies podcast is hosted by Jeff Amerine and his team at Startup Junkie Consulting. We’ll cover topics ranging from getting started, planning, growing your business, proving your concept, leadership, marketing, exit strategies and so much more. We’ll interview business owners, entrepreneurs, experts and people we think will bring value to our audience. Subscribe and together we will move your business to the next level."
+    },
+    {
+      "title": "This Week in Startups - Video",
+      "text": "This Week in Startups - Video",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/twistvid",
+      "description": "Angel investor Jason Calacanis (Uber, Calm, Robinhood) interviews the world’s greatest founders, operators, investors and innovators. Get an insider’s look into venture capital, learn how to start and scale your own startup, and ride the cutting edge of technology in today’s headlines and beyond."
+    },
+    {
+      "title": "VentureBeat",
+      "text": "VentureBeat",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/venturebeat/SZYF",
+      "description": "Transformative tech coverage that matters"
+    },
+    {
+      "title": "Blog – Feld Thoughts",
+      "text": "Blog – Feld Thoughts",
+      "type": "rss",
+      "url": "https://feld.com/archives/tag/blog/feed",
+      "description": "Blog – Feld Thoughts"
+    }
+  ]
+}

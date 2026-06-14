@@ -1,0 +1,103 @@
+{
+  "title": "Architecture",
+  "feeds": [
+    {
+      "title": "A Daily Dose of Architecture Books",
+      "text": "A Daily Dose of Architecture Books",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/archidose",
+      "description": "(Almost) daily reviews of architecture books"
+    },
+    {
+      "title": "ArchDaily",
+      "text": "ArchDaily",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/Archdaily",
+      "description": "ArchDaily | Broadcasting Architecture Worldwide"
+    },
+    {
+      "title": "Archinect - News",
+      "text": "Archinect - News",
+      "type": "rss",
+      "url": "https://archinect.com/feed/1/news",
+      "description": ""
+    },
+    {
+      "title": "Architectural Digest",
+      "text": "Architectural Digest",
+      "type": "rss",
+      "url": "https://www.architecturaldigest.com/feed/rss",
+      "description": "The latest from www.architecturaldigest.com"
+    },
+    {
+      "title": "Architectural Digest",
+      "text": "Architectural Digest",
+      "type": "rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?user=ArchitecturalDigest",
+      "description": ""
+    },
+    {
+      "title": "Architecture",
+      "text": "Architecture",
+      "type": "rss",
+      "url": "https://www.reddit.com/r/architecture/.rss",
+      "description": "A community for students, professionals, and lovers of architecture."
+    },
+    {
+      "title": "Architecture – Dezeen",
+      "text": "Architecture – Dezeen",
+      "type": "rss",
+      "url": "https://www.dezeen.com/architecture/feed/",
+      "description": "Architecture and design magazine"
+    },
+    {
+      "title": "CONTEMPORIST",
+      "text": "CONTEMPORIST",
+      "type": "rss",
+      "url": "https://www.contemporist.com/feed/",
+      "description": "Contemporist features great ideas from the world of design, architecture, interior design, furniture, lighting, and art"
+    },
+    {
+      "title": "Comments on:",
+      "text": "Comments on:",
+      "type": "rss",
+      "url": "https://inhabitat.com/architecture/feed/",
+      "description": "Green design and innovation for a better world"
+    },
+    {
+      "title": "Design MilkArchitecture – Design Milk",
+      "text": "Design MilkArchitecture – Design Milk",
+      "type": "rss",
+      "url": "https://design-milk.com/category/architecture/feed/",
+      "description": "Dedicated to modern design"
+    },
+    {
+      "title": "Journal",
+      "text": "Journal",
+      "type": "rss",
+      "url": "https://architizer.wpengine.com/feed/",
+      "description": "Inspiration and Tools for Architects"
+    },
+    {
+      "title": "Living Big In A Tiny House",
+      "text": "Living Big In A Tiny House",
+      "type": "rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?user=livingbigtinyhouse",
+      "description": ""
+    },
+    {
+      "title": "The Architect’s Newspaper",
+      "text": "The Architect’s Newspaper",
+      "type": "rss",
+      "url": "https://archpaper.com/feed",
+      "description": "The most authoritative voice on architecture and design in the United States."
+    },
+    {
+      "title": "Architecture – designboom | architecture and design magazine",
+      "text": "Architecture – designboom | architecture and design magazine",
+      "type": "rss",
+      "url": "https://www.designboom.com/architecture/feed/",
+      "description": "Designboom magazine | your first source for architecture, design and art news"
+    }
+  ]
+}

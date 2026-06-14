@@ -1,0 +1,117 @@
+{
+  "title": "Gaming",
+  "feeds": [
+    {
+      "title": "Escapist Magazine",
+      "text": "Escapist Magazine",
+      "type": "rss",
+      "url": "https://www.escapistmagazine.com/feed/",
+      "description": "Everything fun"
+    },
+    {
+      "title": "Eurogamer.net",
+      "text": "Eurogamer.net",
+      "type": "rss",
+      "url": "https://www.eurogamer.net/?format=rss",
+      "description": "Bad puns and video games since 1999."
+    },
+    {
+      "title": "Game Developer",
+      "text": "Game Developer",
+      "type": "rss",
+      "url": "https://www.gamedeveloper.com/rss.xml",
+      "description": ""
+    },
+    {
+      "title": "GameSpot - All Content",
+      "text": "GameSpot - All Content",
+      "type": "rss",
+      "url": "https://www.gamespot.com/feeds/mashup/",
+      "description": "GameSpot's Everything Feed! All the latest from GameSpot"
+    },
+    {
+      "title": "IGN All",
+      "text": "IGN All",
+      "type": "rss",
+      "url": "https://www.ign.com/rss/articles/feed",
+      "description": "The latest IGN news, reviews and videos about video games, movies, TV, tech and comics"
+    },
+    {
+      "title": "Indie Games Plus",
+      "text": "Indie Games Plus",
+      "type": "rss",
+      "url": "https://indiegamesplus.com/feed",
+      "description": "Creative, Personal, Passionate Digital Experiences"
+    },
+    {
+      "title": "Kotaku",
+      "text": "Kotaku",
+      "type": "rss",
+      "url": "https://kotaku.com/rss",
+      "description": "Gaming Reviews, News, Tips and More."
+    },
+    {
+      "title": "Makeup and Beauty Blog | Makeup Reviews, Swatches and How-To Makeup",
+      "text": "Makeup and Beauty Blog | Makeup Reviews, Swatches and How-To Makeup",
+      "type": "rss",
+      "url": "https://www.makeupandbeautyblog.com/feed/",
+      "description": "A beauty blog blooming with fresh makeup reviews, swatches and beauty tips from your friendly neighborhood beauty addict"
+    },
+    {
+      "title": "PlayStation.Blog",
+      "text": "PlayStation.Blog",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/psblog",
+      "description": "Official PlayStation Blog for news and video updates on PlayStation, PS5, PS4, PS VR, PlayStation Plus and more."
+    },
+    {
+      "title": "Polygon.com",
+      "text": "Polygon.com",
+      "type": "rss",
+      "url": "https://www.polygon.com/feed/",
+      "description": "Your source for the latest in video games, sci-fi, fantasy, tabletop games, anime, horror, books, and comics."
+    },
+    {
+      "title": "Rock, Paper, Shotgun",
+      "text": "Rock, Paper, Shotgun",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/RockPaperShotgun",
+      "description": "This is a feed of all the latest articles from Rock Paper Shotgun."
+    },
+    {
+      "title": "Steam RSS News Feed",
+      "text": "Steam RSS News Feed",
+      "type": "rss",
+      "url": "https://store.steampowered.com/feeds/news.xml",
+      "description": "All Steam news, all the time!"
+    },
+    {
+      "title": "The Ancient Gaming Noob",
+      "text": "The Ancient Gaming Noob",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/TheAncientGamingNoob",
+      "description": "Veni, Vidi, Scripsi"
+    },
+    {
+      "title": "TouchArcade - iPhone, iPad, Android Games Forum",
+      "text": "TouchArcade - iPhone, iPad, Android Games Forum",
+      "type": "rss",
+      "url": "https://toucharcade.com/community/forums/-/index.rss",
+      "description": "iPhone and iPad Games and News"
+    },
+    {
+      "title": "Xbox's Major Nelson",
+      "text": "Xbox's Major Nelson",
+      "type": "rss",
+      "url": "https://majornelson.com/feed/",
+      "description": "Xbox news and facts direct from the source"
+    },
+    {
+      "title": "r/gaming",
+      "text": "r/gaming",
+      "type": "rss",
+      "url": "https://www.reddit.com/r/gaming.rss",
+      "description": "A subreddit for (almost) anything related to games - video games, board games, card games, etc. (but not sports)."
+    }
+  ]
+}

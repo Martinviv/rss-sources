@@ -1,0 +1,61 @@
+{
+  "title": "Fashion",
+  "feeds": [
+    {
+      "title": "Fashion - ELLE",
+      "text": "Fashion - ELLE",
+      "type": "rss",
+      "url": "https://www.elle.com/rss/fashion.xml/",
+      "description": ""
+    },
+    {
+      "title": "Fashion | The Guardian",
+      "text": "Fashion | The Guardian",
+      "type": "rss",
+      "url": "https://www.theguardian.com/fashion/rss",
+      "description": "The latest fashion news, advice and comment from the Guardian"
+    },
+    {
+      "title": "FashionBeans Men's Fashion and Style Feed",
+      "text": "FashionBeans Men's Fashion and Style Feed",
+      "type": "rss",
+      "url": "https://www.fashionbeans.com/rss-feed/?category=fashion",
+      "description": "A comprehensive guide to men's fashion and style, from the latest trends and hottest pieces to building a capsule wardrobe."
+    },
+    {
+      "title": "Fashionista",
+      "text": "Fashionista",
+      "type": "rss",
+      "url": "https://fashionista.com/.rss/excerpt/",
+      "description": ""
+    },
+    {
+      "title": "NYT > Style",
+      "text": "NYT > Style",
+      "type": "rss",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
+      "description": ""
+    },
+    {
+      "title": "POPSUGAR Fashion",
+      "text": "POPSUGAR Fashion",
+      "type": "rss",
+      "url": "https://www.popsugar.com/fashion/feed",
+      "description": "Top Fashion Stories"
+    },
+    {
+      "title": "Refinery29",
+      "text": "Refinery29",
+      "type": "rss",
+      "url": "https://www.refinery29.com/fashion/rss.xml",
+      "description": ""
+    },
+    {
+      "title": "Who What Wear",
+      "text": "Who What Wear",
+      "type": "rss",
+      "url": "https://www.whowhatwear.com/rss",
+      "description": ""
+    }
+  ]
+}

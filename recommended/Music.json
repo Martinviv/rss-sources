@@ -1,0 +1,61 @@
+{
+  "title": "Music",
+  "feeds": [
+    {
+      "title": "Billboard",
+      "text": "Billboard",
+      "type": "rss",
+      "url": "https://www.billboard.com/feed/",
+      "description": "Just another WordPress site"
+    },
+    {
+      "title": "Consequence",
+      "text": "Consequence",
+      "type": "rss",
+      "url": "https://consequence.net/feed/",
+      "description": "Music, Film, TV and Pop Culture News for the Mainstream and Underground"
+    },
+    {
+      "title": "EDM.com - The Latest Electronic Dance Music News, Reviews and Artists",
+      "text": "EDM.com - The Latest Electronic Dance Music News, Reviews and Artists",
+      "type": "rss",
+      "url": "https://edm.com/.rss/full/",
+      "description": "The world's foremost authority on EDM : free music downloads, artist interviews, industry news, curated playlists, trending charts, and more."
+    },
+    {
+      "title": "Metal Injection",
+      "text": "Metal Injection",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/metalinjection",
+      "description": "Heavy metal news, metal music videos, tour dates, live footage, exclusive documentaries, funny clips and more."
+    },
+    {
+      "title": "Music Business Worldwide",
+      "text": "Music Business Worldwide",
+      "type": "rss",
+      "url": "https://www.musicbusinessworldwide.com/feed/",
+      "description": "News, jobs and analysis for the global music industry"
+    },
+    {
+      "title": "RSS: News",
+      "text": "RSS: News",
+      "type": "rss",
+      "url": "https://pitchfork.com/rss/news",
+      "description": "News content RSS feed"
+    },
+    {
+      "title": "Song Exploder",
+      "text": "Song Exploder",
+      "type": "rss",
+      "url": "https://songexploder.net/feed",
+      "description": "A podcast where musicians take apart their songs, and piece by piece, tell the story of how they were made."
+    },
+    {
+      "title": "Your EDM",
+      "text": "Your EDM",
+      "type": "rss",
+      "url": "https://www.youredm.com/feed",
+      "description": "EDM News and Electronic Dance Music Reviews"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "title": "News",
+  "feeds": [
+    {
+      "title": "BBC News - World",
+      "text": "BBC News - World",
+      "type": "rss",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "description": ""
+    },
+    {
+      "title": "CNN.com - RSS Channel - World",
+      "text": "CNN.com - RSS Channel - World",
+      "type": "rss",
+      "url": "http://rss.cnn.com/rss/edition_world.rss",
+      "description": "CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more."
+    },
+    {
+      "title": "International: Top News And Analysis",
+      "text": "International: Top News And Analysis",
+      "type": "rss",
+      "url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
+      "description": "CNBC International is the world leader for news on business, technology, China, trade, oil prices, the Middle East and markets."
+    },
+    {
+      "title": "NDTV News - World-news",
+      "text": "NDTV News - World-news",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/ndtvnews-world-news",
+      "description": "NDTV.com provides the latest information from and in-depth coverage of India and the world. Find breaking news, India news, top stories, elections, politics, business, cricket, movies, lifestyle, health, live TV, videos, photos and more."
+    },
+    {
+      "title": "NYT > World News",
+      "text": "NYT > World News",
+      "type": "rss",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "description": ""
+    },
+    {
+      "title": "Top stories - Google News",
+      "text": "Top stories - Google News",
+      "type": "rss",
+      "url": "https://news.google.com/rss",
+      "description": "Google News"
+    },
+    {
+      "title": "World",
+      "text": "World",
+      "type": "rss",
+      "url": "https://feeds.washingtonpost.com/rss/world",
+      "description": "The Washington Post World section provides information and analysis of breaking world news stories. In addition to our world news and video, Post World News offers discussions and blogs on major international news and economic issues."
+    },
+    {
+      "title": "World News",
+      "text": "World News",
+      "type": "rss",
+      "url": "https://www.reddit.com/r/worldnews/.rss",
+      "description": "A place for major news from around the world, excluding US-internal news."
+    },
+    {
+      "title": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "text": "World News Headlines, Latest International News, World Breaking News - Times of India",
+      "type": "rss",
+      "url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+      "description": "World News: TOI brings the latest world news headlines, Current International breaking news world wide. In depth analysis and top news headlines world wide."
+    },
+    {
+      "title": "World news | The Guardian",
+      "text": "World news | The Guardian",
+      "type": "rss",
+      "url": "https://www.theguardian.com/world/rss",
+      "description": "Latest World news, comment and analysis from the Guardian, the world's leading liberal voice"
+    },
+    {
+      "title": "Yahoo News - Latest News and Headlines",
+      "text": "Yahoo News - Latest News and Headlines",
+      "type": "rss",
+      "url": "https://www.yahoo.com/news/rss",
+      "description": "The latest news and headlines from Yahoo! News. Get breaking news stories and in-depth coverage with videos and photos."
+    }
+  ]
+}

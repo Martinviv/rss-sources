@@ -1,0 +1,40 @@
+{
+  "title": "Football",
+  "feeds": [
+    {
+      "title": "EFL Championship",
+      "text": "EFL Championship",
+      "type": "rss",
+      "url": "https://www.reddit.com/r/Championship/.rss?format=xml",
+      "description": "Home of the EFL Championship on Reddit"
+    },
+    {
+      "title": "Football - The People's Sport",
+      "text": "Football - The People's Sport",
+      "type": "rss",
+      "url": "https://www.reddit.com/r/football/.rss?format=xml",
+      "description": "Home of Football. News, Rumours, Analysis, gossip and much more."
+    },
+    {
+      "title": "ESPN.com - Soccer",
+      "text": "ESPN.com - Soccer",
+      "type": "rss",
+      "url": "https://www.espn.com/espn/rss/soccer/news",
+      "description": "Latest SOCCER news from www.espn.com"
+    },
+    {
+      "title": "Football365",
+      "text": "Football365",
+      "type": "rss",
+      "url": "https://www.football365.com/f365-features/feed",
+      "description": "Views, Live Matches, Gossip and more | Football365.com"
+    },
+    {
+      "title": "Soccer News",
+      "text": "Soccer News",
+      "type": "rss",
+      "url": "https://www.soccernews.com/feed",
+      "description": "The Latest Soccer News from around the globe."
+    }
+  ]
+}

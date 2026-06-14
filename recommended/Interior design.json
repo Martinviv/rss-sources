@@ -1,0 +1,159 @@
+{
+  "title": "Interior Design",
+  "feeds": [
+    {
+      "title": "Better Living Through Design",
+      "text": "Better Living Through Design",
+      "type": "rss",
+      "url": "https://www.betterlivingthroughdesign.com/feed/",
+      "description": "Better Living Through Design ™ -- Your Design Guide to Home and Style."
+    },
+    {
+      "title": "Blog - decor8",
+      "text": "Blog - decor8",
+      "type": "rss",
+      "url": "https://www.decor8blog.com/blog?format=rss",
+      "description": "An expertly curated guide for stylish home and living. Holly Becker helps you to find your personal style, pull it all together, and create a space that you love."
+    },
+    {
+      "title": "Core77",
+      "text": "Core77",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/core77/blog",
+      "description": "Launched in 1995, Core77 serves a devoted global audience of design professionals, corporations, students, enthusiasts and fans."
+    },
+    {
+      "title": "Interior Design – Design Milk",
+      "text": "Interior Design – Design Milk",
+      "type": "rss",
+      "url": "https://design-milk.com/category/interior-design/feed/",
+      "description": "Dedicated to modern design"
+    },
+    {
+      "title": "Fubiz Media",
+      "text": "Fubiz Media",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/fubiz",
+      "description": "The latest creative news from Fubiz about art, design and pop-culture."
+    },
+    {
+      "title": "Ideal Home",
+      "text": "Ideal Home",
+      "type": "rss",
+      "url": "https://www.idealhome.co.uk/feed",
+      "description": ""
+    },
+    {
+      "title": "In My Own Style",
+      "text": "In My Own Style",
+      "type": "rss",
+      "url": "https://inmyownstyle.com/feed",
+      "description": "Top Budget DIY Home Decorating Blog + Creative Lifestyle Ideas + Tutorials."
+    },
+    {
+      "title": "Interior Design (Interior Architecture)",
+      "text": "Interior Design (Interior Architecture)",
+      "type": "rss",
+      "url": "https://www.reddit.com/r/InteriorDesign/.rss",
+      "description": "Interior Design is the art and science of understanding people's behavior to create functional spaces within a building. It is a multi-faceted profession in which creative and technical solutions are applied within a structure to achieve a built interior environment. These solutions are functional, enhance the quality of life and culture of the occupants and are aesthetically attractive."
+    },
+    {
+      "title": "Interior Design Ideas",
+      "text": "Interior Design Ideas",
+      "type": "rss",
+      "url": "https://www.home-designing.com/feed",
+      "description": "Inspirational Interior Design Ideas"
+    },
+    {
+      "title": "Interior Design Latest",
+      "text": "Interior Design Latest",
+      "type": "rss",
+      "url": "https://www.interiordesign.net/rss/",
+      "description": "Latest content from interiordesign.net"
+    },
+    {
+      "title": "Interiors – Dezeen",
+      "text": "Interiors – Dezeen",
+      "type": "rss",
+      "url": "https://www.dezeen.com/interiors/feed/",
+      "description": "Architecture and design magazine"
+    },
+    {
+      "title": "Liz Marie Blog",
+      "text": "Liz Marie Blog",
+      "type": "rss",
+      "url": "https://www.lizmarieblog.com/feed/",
+      "description": ""
+    },
+    {
+      "title": "The Design Files | Australia's most popular design blog.The Design Files | Australia's most popular design blog.",
+      "text": "The Design Files | Australia's most popular design blog.The Design Files | Australia's most popular design blog.",
+      "type": "rss",
+      "url": "https://thedesignfiles.net/feed/",
+      "description": "Australia's most popular design blog."
+    },
+    {
+      "title": "The Inspired Room",
+      "text": "The Inspired Room",
+      "type": "rss",
+      "url": "https://theinspiredroom.net/feed/",
+      "description": "Voted Readers' Favorite Top Decorating Blog Better Homes and Gardens, Decorating Ideas, How to Organize, How to Decorate, Interior Design Blog"
+    },
+    {
+      "title": "Thrifty Decor Chick",
+      "text": "Thrifty Decor Chick",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/blogspot/ZBcZ",
+      "description": "Thrifty decorating blog with easy DIY, decor, entertaining and organizing ideas. Make your home beautiful for less."
+    },
+    {
+      "title": "Trendir",
+      "text": "Trendir",
+      "type": "rss",
+      "url": "https://www.trendir.com/feed/",
+      "description": "The Latest Trends in Modern House Design and Decorating"
+    },
+    {
+      "title": "Yanko Design",
+      "text": "Yanko Design",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/yankodesign",
+      "description": "Modern Industrial Design News"
+    },
+    {
+      "title": "Yatzer RSS Feed",
+      "text": "Yatzer RSS Feed",
+      "type": "rss",
+      "url": "https://www.yatzer.com/rss.xml",
+      "description": ""
+    },
+    {
+      "title": "Young House Love",
+      "text": "Young House Love",
+      "type": "rss",
+      "url": "https://www.younghouselove.com/feed/",
+      "description": "DIY Home Decorating Projects, Tutorials, and Shenanigans"
+    },
+    {
+      "title": "Decoist",
+      "text": "Decoist",
+      "type": "rss",
+      "url": "https://www.decoist.com/feed/",
+      "description": "Obsessed with the cult of beauty"
+    },
+    {
+      "title": "Design – designboom | architecture and design magazine",
+      "text": "Design – designboom | architecture and design magazine",
+      "type": "rss",
+      "url": "https://www.designboom.com/design/feed",
+      "description": "Designboom magazine | your first source for architecture, design and art news"
+    },
+    {
+      "title": "Sfgirlbybay",
+      "text": "Sfgirlbybay",
+      "type": "rss",
+      "url": "https://www.sfgirlbybay.com/feed/",
+      "description": "bohemian modern style from a san francisco girl."
+    }
+  ]
+}

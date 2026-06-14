@@ -1,0 +1,152 @@
+{
+  "title": "Food",
+  "feeds": [
+    {
+      "title": "101 Cookbooks",
+      "text": "101 Cookbooks",
+      "type": "rss",
+      "url": "https://www.101cookbooks.com/feed",
+      "description": "When you own over 100 cookbooks, it is time to stop buying, and start cooking. This site chronicles a cookbook collection, one recipe at a time."
+    },
+    {
+      "title": "Babish Culinary Universe",
+      "text": "Babish Culinary Universe",
+      "type": "rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?user=bgfilms",
+      "description": ""
+    },
+    {
+      "title": "Bon Appétit",
+      "text": "Bon Appétit",
+      "type": "rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?user=BonAppetitDotCom",
+      "description": "YouTube Channel"
+    },
+    {
+      "title": "Chocolate and Zucchini",
+      "text": "Chocolate and Zucchini",
+      "type": "rss",
+      "url": "https://cnz.to/feed/",
+      "description": "Simple Recipes from my Paris Kitchen"
+    },
+    {
+      "title": "David Lebovitz",
+      "text": "David Lebovitz",
+      "type": "rss",
+      "url": "https://www.davidlebovitz.com/feed/",
+      "description": "Baking and cooking recipes for everyone"
+    },
+    {
+      "title": "Food52",
+      "text": "Food52",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/food52-TheAandMBlog",
+      "description": "Eat thoughtfully, live joyfully."
+    },
+    {
+      "title": "Green Kitchen Stories",
+      "text": "Green Kitchen Stories",
+      "type": "rss",
+      "url": "https://greenkitchenstories.com/feed/",
+      "description": "Healthy Vegetarian Recipes."
+    },
+    {
+      "title": "How Sweet Eats",
+      "text": "How Sweet Eats",
+      "type": "rss",
+      "url": "https://www.howsweeteats.com/feed/",
+      "description": "For people who, like, totally love food."
+    },
+    {
+      "title": "Joy the Baker",
+      "text": "Joy the Baker",
+      "type": "rss",
+      "url": "https://joythebaker.com/feed/",
+      "description": ""
+    },
+    {
+      "title": "Kitchn | Inspiring cooks, nourishing homes",
+      "text": "Kitchn | Inspiring cooks, nourishing homes",
+      "type": "rss",
+      "url": "https://www.thekitchn.com/main.rss",
+      "description": "Inspiring cooks, nourishing homes"
+    },
+    {
+      "title": "Laura in the Kitchen",
+      "text": "Laura in the Kitchen",
+      "type": "rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?user=LauraVitalesKitchen",
+      "description": ""
+    },
+    {
+      "title": "Love and Olive Oil",
+      "text": "Love and Olive Oil",
+      "type": "rss",
+      "url": "https://www.loveandoliveoil.com/feed",
+      "description": "Eat to Live. Cook to Love."
+    },
+    {
+      "title": "NYT > Food",
+      "text": "NYT > Food",
+      "type": "rss",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml",
+      "description": ""
+    },
+    {
+      "title": "Oh She Glows",
+      "text": "Oh She Glows",
+      "type": "rss",
+      "url": "https://ohsheglows.com/feed/",
+      "description": "Vegan Recipes to Glow From The Inside Out"
+    },
+    {
+      "title": "Serious Eats",
+      "text": "Serious Eats",
+      "type": "rss",
+      "url": "https://www.youtube.com/feeds/videos.xml?user=SeriousEats",
+      "description": ""
+    },
+    {
+      "title": "Serious Eats: Recipes",
+      "text": "Serious Eats: Recipes",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/seriouseats/recipes",
+      "description": "Our Favorite Recipes, Curated and Collected"
+    },
+    {
+      "title": "Shutterbean",
+      "text": "Shutterbean",
+      "type": "rss",
+      "url": "https://www.shutterbean.com/feed/",
+      "description": "Food, photography and inspiration"
+    },
+    {
+      "title": "Skinnytaste",
+      "text": "Skinnytaste",
+      "type": "rss",
+      "url": "https://www.skinnytaste.com/feed/",
+      "description": "Delicious Healthy Recipes Made with Real Food"
+    },
+    {
+      "title": "Sprouted Kitchen",
+      "text": "Sprouted Kitchen",
+      "type": "rss",
+      "url": "https://www.sproutedkitchen.com/home?format=rss",
+      "description": ""
+    },
+    {
+      "title": "Williams-Sonoma Taste",
+      "text": "Williams-Sonoma Taste",
+      "type": "rss",
+      "url": "https://blog.williams-sonoma.com/feed/",
+      "description": ""
+    },
+    {
+      "title": "Smitten kitchen",
+      "text": "Smitten kitchen",
+      "type": "rss",
+      "url": "https://feeds.feedburner.com/smittenkitchen",
+      "description": "Fearless cooking from a tiny NYC kitchen."
+    }
+  ]
+}
